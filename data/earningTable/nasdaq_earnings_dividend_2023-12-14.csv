@@ -1,0 +1,25 @@
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,12/08/2022,$3.10,time-after-hours,COST,Costco Wholesale Corporation,"$270,492,352,463",Nov/2023,$3.44,15,,,2023-12-14,,0,3.44
+1,12/14/2022,$5.02,time-after-hours,LEN,Lennar Corporation,"$39,090,267,965",Nov/2023,$4.64,8,,,2023-12-14,,0,4.64
+2,N/A,$5.02,time-after-hours,LEN.B,Lennar Corporation,"$35,700,757,569",Nov/2023,,N/A,,,2023-12-14,,0,
+3,12/15/2022,$1.61,time-pre-market,JBL,Jabil Inc.,"$14,895,364,350",Nov/2023,$2.30,3,,,2023-12-14,,0,2.30
+4,11/10/2022,($0.10),time-not-supplied,AEG,Aegon Ltd.,"$14,818,394,804",Sep/2023,,N/A,,,2023-12-14,,0,
+5,12/08/2022,($0.07),time-not-supplied,MANU,Manchester United Ltd.,"$3,189,462,677",Sep/2023,($0.09),2,,,2023-12-14,,0,-0.09
+6,11/03/2022,$0.20,time-not-supplied,MDRX,Veradigm Inc.,"$1,375,580,579",Sep/2023,$0.17,3,,,2023-12-14,,0,0.17
+7,11/10/2022,($0.72),time-not-supplied,AZUL,Azul S.A.,"$1,148,950,796",Sep/2023,($0.38),3,,,2023-12-14,,0,-0.38
+8,N/A,$0.75,time-after-hours,NX,Quanex Building Products Corporation,"$1,060,510,573",Oct/2023,,N/A,,,2023-12-14,,0,
+9,11/10/2022,($0.25),time-not-supplied,ALDX,"Aldeyra Therapeutics, Inc.","$190,583,548",Sep/2023,($0.24),4,,,2023-12-14,,0,-0.24
+10,11/29/2022,$0.47,time-pre-market,KNOP,KNOT Offshore Partners LP,"$187,275,000",Sep/2023,($0.11),1,,,2023-12-14,,0,-0.11
+11,N/A,$0.10,time-not-supplied,IH,iHuman Inc.,"$138,972,849",Sep/2023,,N/A,,,2023-12-14,,0,
+12,11/03/2022,($0.01),time-not-supplied,RNAC,"Cartesian Therapeutics, Inc.","$125,203,213",Sep/2023,($0.10),1,,,2023-12-14,,0,-0.10
+13,N/A,$0.16,time-not-supplied,WILC,"G. Willi-Food International,  Ltd.","$124,109,802",Sep/2023,,N/A,,,2023-12-14,,0,
+14,N/A,$0.07,time-not-supplied,NA,Nano Labs Ltd,"$53,936,518",Sep/2023,,N/A,,,2023-12-14,,0,
+15,12/29/2022,($0.37),time-after-hours,MESA,"Mesa Air Group, Inc.","$50,629,936",Sep/2023,($0.15),1,,,2023-12-14,,0,-0.15
+16,N/A,$0.11,time-not-supplied,MAQC,Maquia Capital Acquisition Corporation,"$43,584,167",Sep/2023,,N/A,,,2023-12-14,,0,
+17,N/A,$0.01,time-not-supplied,GROW,"U.S. Global Investors, Inc.","$42,641,818",Sep/2023,,N/A,,,2023-12-14,,0,
+18,11/10/2022,$0.03,time-not-supplied,CELU,Celularity Inc.,"$40,003,645",Sep/2023,($0.03),1,,,2023-12-14,,0,-0.03
+19,N/A,N/A,time-not-supplied,HOLO,MicroCloud Hologram Inc.,"$22,103,235",Sep/2023,,N/A,,,2023-12-14,,0,
+20,N/A,($0.20),time-pre-market,YJ,Yunji Inc.,"$16,550,858",Sep/2023,,N/A,,,2023-12-14,,0,
+21,N/A,N/A,time-not-supplied,KZIA,Kazia Therapeutics Limited,"$9,802,971",Sep/2023,,N/A,,,2023-12-14,,0,
+22,11/10/2022,($2.25),time-not-supplied,MINM,"Minim, Inc.","$5,942,204",Sep/2023,,N/A,,,2023-12-14,,0,
+23,N/A,($7.50),time-not-supplied,MDVL,"MedAvail Holdings, Inc. ","$3,615,160",Sep/2023,,N/A,,,2023-12-14,,0,

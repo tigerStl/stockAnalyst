@@ -1,0 +1,40 @@
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+ADT Inc. Common Stock,ADT,12/13/2023,1/09/2024,12/14/2023,0.035,0.14,11/02/2023
+"American International Group, Inc. New Common Stock",AIG,12/13/2023,12/28/2023,12/14/2023,0.36,1.44,11/01/2023
+"Bank of America Corporation Income Capital Obligation Notes initially due December 15, 2066",MER^K,12/13/2023,12/15/2023,12/14/2023,0.403125,1.6125,10/09/2023
+"CHS Inc Class B Cumulative Redeemable Preferred Stock, Series 4",CHSCL,12/13/2023,12/29/2023,12/14/2023,0.46875,1.875,11/07/2023
+"CHS Inc Class B Reset Rate Cumulative Redeemable Preferred Stock, Series 3",CHSCM,12/13/2023,12/29/2023,12/14/2023,0.421875,1.6875,11/07/2023
+CHS Inc Preferred Class B Series 2 Reset Rate,CHSCN,12/13/2023,12/29/2023,12/14/2023,0.44375,1.775,11/07/2023
+CHS Inc. 8%  Cumulative Redeemable Preferred Stock,CHSCP,12/13/2023,12/29/2023,12/14/2023,0.5,2.0,11/07/2023
+CHS Inc. Class B Cumulative Redeemable Preferred Stock,CHSCO,12/13/2023,12/29/2023,12/14/2023,0.492188,1.968752,11/07/2023
+Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,DUKB,12/13/2023,12/15/2023,12/14/2023,0.3515625,1.4062,11/25/2023
+"Financial Institutions, Inc. Common Stock",FISI,12/13/2023,1/02/2024,12/14/2023,0.3,1.2,11/14/2023
+"HCA Healthcare, Inc. Common Stock",HCA,12/13/2023,12/28/2023,12/14/2023,0.6,2.4,10/24/2023
+Intercontinental Exchange Inc. Common Stock,ICE,12/13/2023,12/29/2023,12/14/2023,0.42,1.68,11/02/2023
+"Investcorp Credit Management BDC, Inc. Common Stock",ICMB,12/13/2023,1/08/2024,12/14/2023,0.15,0.72,11/09/2023
+Jack In The Box Inc. Common Stock,JACK,12/13/2023,12/28/2023,12/14/2023,0.44,1.76,11/17/2023
+Mercury General Corporation Common Stock,MCY,12/13/2023,12/28/2023,12/14/2023,0.3175,1.27,10/31/2023
+"Navient Corporation 6% Senior Notes due December 15, 2043",JSM,12/13/2023,12/15/2023,12/14/2023,0.375,1.5,11/25/2023
+Qwest Corporation 6.75% Notes due 2057,CTDD,12/13/2023,12/15/2023,12/14/2023,0.421875,1.6875,11/25/2023
+Regency Centers Corporation Common Stock,REG,12/13/2023,1/03/2024,12/14/2023,0.67,2.6,11/02/2023
+SCE Trust II Trust Preferred Securities,SCE^G,12/13/2023,12/15/2023,12/14/2023,0.31875,1.275,11/25/2023
+SCE Trust III Fixed/Floating Rate Trust Preference Securities,SCE^H,12/13/2023,12/15/2023,12/14/2023,0.359375,1.4375,10/26/2023
+SCE TRUST VI,SCE^L,12/13/2023,12/15/2023,12/14/2023,0.3125,1.25,10/05/2023
+SLR Investment Corp. Common Stock,SLRC,12/13/2023,12/28/2023,12/14/2023,0.41,1.64,11/07/2023
+Southern California Edison Company 5.375% Fixed-to-Floating Rate Trust Preference Securities,SCE^J,12/13/2023,12/15/2023,12/14/2023,0.3359375,1.3438,10/26/2023
+Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities,SCE^K,12/13/2023,12/15/2023,12/14/2023,0.340625,1.3625,10/26/2023
+"MDU Resources Group, Inc. Common Stock (Holding Company)",MDU,12/13/2023,1/01/2024,12/14/2023,0.125,0.5,11/16/2023
+"American International Group, Inc. New Common Stock",AIG,12/13/2023,12/28/2023,12/14/2023,0.36,1.44,11/01/2023
+Mercury General Corporation Common Stock,MCY,12/13/2023,12/28/2023,12/14/2023,0.3175,1.27,10/31/2023
+Tsakos Energy Navigation Ltd Common Shares,TNP,12/13/2023,12/20/2023,12/14/2023,0.3,0.6,11/21/2023
+"HCA Healthcare, Inc. Common Stock",HCA,12/13/2023,12/28/2023,12/14/2023,0.6,2.4,10/24/2023
+Intercontinental Exchange Inc. Common Stock,ICE,12/13/2023,12/29/2023,12/14/2023,0.42,1.68,11/02/2023
+Qwest Corporation 6.75% Notes due 2057,CTDD,12/13/2023,12/15/2023,12/14/2023,0.421875,1.6875,N/A
+ADT Inc. Common Stock,ADT,12/13/2023,1/09/2024,12/14/2023,0.035,0.14,11/02/2023
+Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,DUKB,12/13/2023,12/15/2023,12/14/2023,0.3515625,1.4062,N/A
+"Alpine Income Property Trust, Inc. Common Stock",PINE,12/13/2023,12/29/2023,12/14/2023,0.275,1.1,11/21/2023
+"Aarons Holdings Company, Inc. Common Stock ",AAN,12/13/2023,1/04/2024,12/14/2023,0.125,0.5,11/08/2023
+"CTO Realty Growth, Inc. Common Stock",CTO,12/13/2023,12/29/2023,12/14/2023,0.38,1.52,11/21/2023
+Dole plc Ordinary Shares,DOLE,12/13/2023,1/04/2024,12/14/2023,0.08,0.32,11/15/2023
+Financial Institutions Inc. 8.48% PRF PERPETUAL USD 100 - Series B 1 Class B,FIISO,12/13/2023,1/02/2024,12/14/2023,2.12,8.48,11/14/2023
+Life Healthcare Group Holdings Limited ADR,LTGHY,12/13/2023,1/02/2024,12/14/2023,0.04154,0.0831,N/A

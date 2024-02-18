@@ -1,0 +1,56 @@
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+Generation Income Properties Inc. Common Stock,GIPR,2/14/2024,2/29/2024,2/15/2024,0.039,0.468,1/03/2024
+Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock,HBANM,2/14/2024,3/01/2024,2/15/2024,0.35625,1.425,12/07/2023
+Microsoft Corporation Common Stock,MSFT,2/14/2024,3/14/2024,2/15/2024,0.75,3.0,11/28/2023
+Oxford Lane Capital Corp. 6.25% Series 2027 Term Preferred Shares,OXLCP,2/14/2024,2/29/2024,2/15/2024,0.13020833,1.5625,10/26/2023
+Oxford Lane Capital Corp. 6.75% Series 2024 Term Preferred Stock,OXLCM,2/14/2024,2/29/2024,2/15/2024,0.140625,1.6875,10/26/2023
+Oxford Lane Capital Corp. 7.125% Series 2029 Term Preferred Stock,OXLCN,2/14/2024,2/29/2024,2/15/2024,0.1484375,1.78125,10/26/2023
+Oxford Lane Capital Corp. Common Stock,OXLC,2/14/2024,2/29/2024,2/15/2024,0.08,0.96,10/26/2023
+"Oxford Lane Capital Corp. Preferred Stock Shares, 6.00% Series 2029",OXLCO,2/14/2024,2/29/2024,2/15/2024,0.125,1.5,10/26/2023
+Oxford Square Capital Corp. Common Stock,OXSQ,2/14/2024,2/29/2024,2/15/2024,0.035,0.42,11/02/2023
+PACCAR Inc. Common Stock,PCAR,2/14/2024,3/06/2024,2/15/2024,0.27,1.08,1/11/2024
+"Phillips Edison & Company, Inc. Common Stock",PECO,2/14/2024,3/01/2024,2/15/2024,0.0975,1.17,11/07/2023
+"Cornerstone Strategic Value Fund, Inc. New Common Stock",CLM,2/14/2024,2/29/2024,2/15/2024,0.1086,1.3032,11/03/2023
+"Cornerstone Total Return Fund, Inc. (The) Common Stock",CRF,2/14/2024,2/29/2024,2/15/2024,0.1037,1.2444,11/03/2023
+"TJX Companies, Inc. (The) Common Stock",TJX,2/14/2024,3/07/2024,2/15/2024,0.3325,1.33,11/28/2023
+"CenterPoint Energy, Inc (Holding Co) Common Stock",CNP,2/14/2024,3/14/2024,2/15/2024,0.2,0.8,12/14/2023
+"Southwest Gas Holdings, Inc. Common Stock (DE)",SWX,2/14/2024,3/01/2024,2/15/2024,0.62,2.48,11/15/2023
+Eli Lilly and Company Common Stock,LLY,2/14/2024,3/08/2024,2/15/2024,1.3,5.2,12/08/2023
+"Blackrock MuniYield Quality Fund III, Inc Common Stock",MYI,2/14/2024,3/01/2024,2/15/2024,0.0555,0.666,11/14/2023
+BlackRock New York Municipal Income Trust,BNY,2/14/2024,3/01/2024,2/15/2024,0.043,0.516,11/14/2023
+"Blackrock MuniVest Fund, Inc. Common Stock",MVF,2/14/2024,3/01/2024,2/15/2024,0.03,0.36,11/14/2023
+DTF Tax-Free Income 2028 Term Fund Inc. Common Stock,DTF,2/14/2024,2/29/2024,2/15/2024,0.0325,0.39,12/14/2023
+"Blackrock MuniYield Fund, Inc.  Common Stock",MYD,2/14/2024,3/01/2024,2/15/2024,0.0525,0.63,11/14/2023
+"Blackrock MuniYield New York Quality Fund, Inc.Common Stock",MYN,2/14/2024,3/01/2024,2/15/2024,0.0442,0.5304,11/14/2023
+"Blackrock MuniYield Quality Fund, Inc. Common Stock",MQY,2/14/2024,3/01/2024,2/15/2024,0.058,0.696,11/14/2023
+"Blackrock MuniYield Quality Fund II, Inc. Common Stock",MQT,2/14/2024,3/01/2024,2/15/2024,0.049,0.588,11/14/2023
+Blackrock MuniYield Pennsylvania Quality Fund Common Stock,MPA,2/14/2024,3/01/2024,2/15/2024,0.048,0.576,11/14/2023
+BlackRock Investment Quality Municipal Trust Inc. (The),BKN,2/14/2024,3/01/2024,2/15/2024,0.057,0.684,11/14/2023
+"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",MIY,2/14/2024,3/01/2024,2/15/2024,0.0465,0.558,11/14/2023
+"Blackrock MuniVest Fund II, Inc.  Common Stock",MVT,2/14/2024,3/01/2024,2/15/2024,0.0505,0.606,11/14/2023
+"Blackrock MuniAssets Fund, Inc Common Stock",MUA,2/14/2024,3/01/2024,2/15/2024,0.0555,0.666,11/14/2023
+"Blackrock MuniHoldings Fund, Inc. Common Stock",MHD,2/14/2024,3/01/2024,2/15/2024,0.0525,0.63,11/14/2023
+"Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",MHN,2/14/2024,3/01/2024,2/15/2024,0.0435,0.522,11/14/2023
+"Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock",MUC,2/14/2024,3/01/2024,2/15/2024,0.0485,0.582,11/14/2023
+"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",MUJ,2/14/2024,3/01/2024,2/15/2024,0.05,0.6,11/14/2023
+"Blackrock MuniHoldings Quality Fund II, Inc. Common Stock",MUE,2/14/2024,3/01/2024,2/15/2024,0.045,0.54,11/14/2023
+BlackRock Municipal Income Trust,BFK,2/14/2024,3/01/2024,2/15/2024,0.05,0.6,11/14/2023
+BlackRock California Municipal Income Trust,BFZ,2/14/2024,3/01/2024,2/15/2024,0.051,0.612,11/14/2023
+BlackRock Virginia Municipal Bond Trust,BHV,2/14/2024,3/01/2024,2/15/2024,0.0395,0.474,11/14/2023
+BlackRock Municipal Income Trust II,BLE,2/14/2024,3/01/2024,2/15/2024,0.052,0.624,11/14/2023
+Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest,BYM,2/14/2024,3/01/2024,2/15/2024,0.0525,0.63,11/14/2023
+"BlackRock Municipal Income Fund, Inc. Common Stock",MUI,2/14/2024,3/01/2024,2/15/2024,0.055,0.66,11/14/2023
+BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest,BTA,2/14/2024,3/01/2024,2/15/2024,0.0435,0.522,11/14/2023
+"RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock",RMM,2/14/2024,2/29/2024,2/15/2024,0.0916,1.0992,1/02/2024
+BlackRock Municipal 2030 Target Term Trust,BTT,2/14/2024,3/01/2024,2/15/2024,0.0464,0.5568,11/14/2023
+"RiverNorth Opportunities Fund, Inc. Common Stock",RIV,2/14/2024,2/29/2024,2/15/2024,0.1289,1.5468,1/02/2024
+RiverNorth Capital and Income Fund Common Stock,RSF,2/14/2024,2/29/2024,2/15/2024,0.1398,1.6776,1/02/2024
+"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",OPP,2/14/2024,2/29/2024,2/15/2024,0.1003,1.2036,1/02/2024
+"RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock",RMI,2/14/2024,2/29/2024,2/15/2024,0.0965,1.158,1/02/2024
+"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",RFM,2/14/2024,2/29/2024,2/15/2024,0.0954,1.1448,1/02/2024
+"RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock",RFMZ,2/14/2024,2/29/2024,2/15/2024,0.0866,1.0392,1/02/2024
+"RiverNorth Managed Duration Municipal Income Fund II, Inc. Common Stock",RMMZ,2/14/2024,2/29/2024,2/15/2024,0.0974,1.1688,1/02/2024
+BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,BMN,2/14/2024,3/01/2024,2/15/2024,0.09375,1.125,11/14/2023
+Enbridge Inc FXDFR PRF PERPETUAL USD 25 - Ser L,EBBNF,2/14/2024,3/01/2024,2/15/2024,0.36612,1.2397,11/29/2023
+Enbridge Inc FXDFR PRF PERPETUAL USD 25 - Ser 5,EBGEF,2/14/2024,3/01/2024,2/15/2024,0.33596,1.3438,11/29/2023
+Enbridge Inc FXDFR PRF PERPETUAL USD 25 - Ser 1,EBBGF,2/14/2024,3/01/2024,2/15/2024,0.41898,1.4873,11/29/2023

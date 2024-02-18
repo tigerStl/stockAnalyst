@@ -1,0 +1,11 @@
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,12/21/2022,($0.15),time-after-hours,MU,"Micron Technology, Inc.","$80,870,238,789",Nov/2023,($1.14),6,,,2023-12-20,,0,-1.14
+1,12/21/2022,$3.12,time-not-supplied,CTAS,Cintas Corporation,"$56,401,717,842",Nov/2023,$3.48,10,,,2023-12-20,,0,3.48
+2,12/20/2022,$1.10,time-pre-market,GIS,"General Mills, Inc.","$38,591,128,013",Nov/2023,$1.16,8,,,2023-12-20,,0,1.16
+3,12/21/2022,($0.85),time-not-supplied,CCL,Carnival Corporation,"$23,421,247,627",Nov/2023,($0.14),7,,,2023-12-20,,0,-0.14
+4,12/21/2022,$1.11,time-pre-market,TTC,Toro Company (The),"$8,721,864,279",Oct/2023,$0.56,4,,,2023-12-20,,0,0.56
+5,12/21/2022,($0.85),time-not-supplied,CUK,Carnival Corporation,"$3,017,063,800",Nov/2023,($0.14),1,,,2023-12-20,,0,-0.14
+6,12/20/2022,($0.06),time-after-hours,BB,BlackBerry Limited,"$2,288,043,063",Nov/2023,($0.03),2,,,2023-12-20,,0,-0.03
+7,12/16/2022,$2.07,time-pre-market,WGO,"Winnebago Industries, Inc.","$2,103,447,834",Nov/2023,$1.25,7,,,2023-12-20,,0,1.25
+8,12/21/2022,$0.46,time-after-hours,MLKN,"MillerKnoll, Inc.","$2,045,778,050",Nov/2023,$0.55,1,,,2023-12-20,,0,0.55
+9,12/21/2022,($4.80),time-not-supplied,NBSE,"NeuBase Therapeutics, Inc. ","$2,871,861",Sep/2023,($1.82),1,,,2023-12-20,,0,-1.82

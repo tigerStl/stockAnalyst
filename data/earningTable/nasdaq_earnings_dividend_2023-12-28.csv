@@ -1,0 +1,8 @@
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,12/22/2022,$0.99,time-not-supplied,PAYX,"Paychex, Inc.","$45,092,638,869",Nov/2023,$1.07,9,,,2023-12-28,,0,1.07
+1,12/22/2022,$1.07,time-not-supplied,APOG,"Apogee Enterprises, Inc.","$1,060,576,753",Nov/2023,$1.05,2,,,2023-12-28,,0,1.05
+2,12/22/2022,$0.12,time-not-supplied,AVO,"Mission Produce, Inc.","$657,658,794",Oct/2023,,N/A,,,2023-12-28,,0,
+3,12/22/2022,($0.32),time-not-supplied,LMNR,Limoneira Co,"$345,195,072",Oct/2023,($0.15),2,,,2023-12-28,,0,-0.15
+4,12/22/2022,($0.05),time-not-supplied,CTXR,"Citius Pharmaceuticals, Inc.","$136,109,361",Sep/2023,($0.02),1,,,2023-12-28,,0,-0.02
+5,N/A,($0.09),time-not-supplied,NMTC,NeuroOne Medical Technologies Corporation,"$42,815,339",Sep/2023,,2,,,2023-12-28,,0,
+6,N/A,$0.15,time-not-supplied,OCC,Optical Cable Corporation,"$21,391,875",Oct/2023,,2,,,2023-12-28,,0,

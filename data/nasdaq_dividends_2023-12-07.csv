@@ -1,0 +1,98 @@
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"Auburn National Bancorporation, Inc. Common Stock",AUBN,12/07/2023,12/26/2023,12/08/2023,0.27,1.08,11/14/2023
+"Automatic Data Processing, Inc. Common Stock",ADP,12/07/2023,1/01/2024,12/08/2023,1.4,5.0,11/08/2023
+"Brighthouse Financial, Inc. Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A",BHFAP,12/07/2023,12/26/2023,12/10/2023,0.4125,1.65,11/15/2023
+"Brighthouse Financial, Inc. Depositary Shares 6.75% Non-Cumulative Preferred Stock, Series B",BHFAO,12/07/2023,12/26/2023,12/10/2023,0.421875,1.6875,11/15/2023
+"Brighthouse Financial, Inc. Depositary shares each representing a 1/1,000th Interest in a Share of 4.625% Non-Cumulative Preferred Stock, Series D",BHFAM,12/07/2023,12/26/2023,12/10/2023,0.2890625,1.15625,11/15/2023
+"Brighthouse Financial, Inc. Depositary shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series C",BHFAN,12/07/2023,12/26/2023,12/10/2023,0.3359375,1.34375,11/15/2023
+CME Group Inc. Class A Common Stock,CME,12/07/2023,12/28/2023,12/08/2023,1.1,4.4,11/09/2023
+Euroseas Ltd. Common Stock (Marshall Islands),ESEA,12/07/2023,12/16/2023,12/09/2023,0.5,2.0,11/09/2023
+"Exponent, Inc. Common Stock",EXPO,12/07/2023,12/22/2023,12/08/2023,0.26,1.04,10/24/2023
+FAT Brands Inc. 8.25% Series B Cumulative Preferred Stock,FATBP,12/07/2023,12/20/2023,12/08/2023,0.171875,2.0625,11/14/2023
+"Fidelity National Information Services, Inc. Common Stock",FIS,12/07/2023,12/22/2023,12/08/2023,0.52,2.08,10/19/2023
+"First Financial Northwest, Inc. Common Stock",FFNW,12/07/2023,12/22/2023,12/08/2023,0.13,0.52,11/10/2023
+"First US Bancshares, Inc. Common Stock",FUSB,12/07/2023,1/02/2024,12/08/2023,0.05,0.2,11/15/2023
+Flushing Financial Corporation Common Stock,FFIC,12/07/2023,12/22/2023,12/08/2023,0.22,0.88,11/21/2023
+"Gaming and Leisure Properties, Inc. Common Stock",GLPI,12/07/2023,12/22/2023,12/08/2023,0.73,2.92,11/22/2023
+Genpact Limited Common Stock,G,12/07/2023,12/22/2023,12/08/2023,0.1375,0.55,10/26/2023
+"Golub Capital BDC, Inc. Common Stock",GBDC,12/07/2023,12/29/2023,12/08/2023,0.37,1.48,11/17/2023
+"ICF International, Inc. Common Stock",ICFI,12/07/2023,1/12/2024,12/08/2023,0.14,0.56,11/02/2023
+"Kontoor Brands, Inc. Common Stock ",KTB,12/07/2023,12/18/2023,12/08/2023,0.5,2.0,10/27/2023
+Main Street Capital Corporation Common Stock,MAIN,12/07/2023,12/15/2023,12/08/2023,0.235,2.82,8/01/2023
+"Monro, Inc. Common Stock",MNRO,12/07/2023,12/19/2023,12/08/2023,0.28,1.12,11/28/2023
+"Nasdaq, Inc. Common Stock",NDAQ,12/07/2023,12/22/2023,12/08/2023,0.22,0.88,12/04/2023
+Northern Trust Corporation Common Stock,NTRS,12/07/2023,1/01/2024,12/08/2023,0.75,3.0,10/17/2023
+Occidental Petroleum Corporation Common Stock,OXY,12/07/2023,1/16/2024,12/08/2023,0.18,0.72,10/31/2023
+Regions Financial Corporation Common Stock,RF,12/07/2023,1/02/2024,12/08/2023,0.24,0.96,10/18/2023
+"Schneider National, Inc. Common Stock",SNDR,12/07/2023,1/08/2024,12/08/2023,0.09,0.36,11/01/2023
+Silvercrest Asset Management Group Inc. Class A Common Stock,SAMG,12/07/2023,12/15/2023,12/08/2023,0.19,0.76,10/31/2023
+"Simon Property Group, Inc. Common Stock",SPG,12/07/2023,12/29/2023,12/08/2023,1.9,7.6,10/30/2023
+SpartanNash Company Common Stock,SPTN,12/07/2023,12/29/2023,12/08/2023,0.215,0.86,11/14/2023
+TEGNA Inc,TGNA,12/07/2023,1/02/2024,12/08/2023,0.11375,0.455,10/26/2023
+"Texas Community Bancshares, Inc. Common Stock",TCBS,12/07/2023,12/28/2023,12/08/2023,0.03,0.12,11/16/2023
+"The Travelers Companies, Inc. Common Stock",TRV,12/07/2023,12/29/2023,12/08/2023,1.0,4.0,10/18/2023
+TriCo Bancshares Common Stock,TCBK,12/07/2023,12/22/2023,12/08/2023,0.3,1.2,11/16/2023
+Triton International Limited 5.75% Series E Cumulative Redeemable Perpetual Preference Shares,TRTN^E,12/07/2023,12/15/2023,12/08/2023,0.359375,1.4375,10/30/2023
+Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,TRTN^D,12/07/2023,12/15/2023,12/08/2023,0.4296875,1.7188,10/30/2023
+Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares,TRTN^C,12/07/2023,12/15/2023,12/08/2023,0.4609375,1.8438,10/30/2023
+Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares,TRTN^B,12/07/2023,12/15/2023,12/08/2023,0.5,2.0,10/30/2023
+Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares,TRTN^A,12/07/2023,12/15/2023,12/08/2023,0.53125,2.125,10/30/2023
+"United Bancorp, Inc. Common Stock",UBCP,12/07/2023,12/20/2023,12/08/2023,0.17,0.67,11/22/2023
+"United Bankshares, Inc. Common Stock",UBSI,12/07/2023,1/02/2024,12/08/2023,0.37,1.44,11/10/2023
+Virginia National Bankshares Corporation Common Stock,VABK,12/07/2023,12/22/2023,12/08/2023,0.33,1.32,11/17/2023
+Walmart Inc. Common Stock,WMT,12/07/2023,1/02/2024,12/08/2023,0.57,2.28,2/21/2023
+"WesBanco, Inc. Common Stock",WSBC,12/07/2023,1/02/2024,12/08/2023,0.36,1.4,11/15/2023
+"Williams Companies, Inc. (The) Common Stock",WMB,12/07/2023,12/26/2023,12/08/2023,0.4475,1.79,10/24/2023
+"AMETEK, Inc.",AME,12/07/2023,12/22/2023,12/08/2023,0.25,1.0,11/03/2023
+"Becton, Dickinson and Company Common Stock",BDX,12/07/2023,12/29/2023,12/08/2023,0.95,3.8,11/09/2023
+TEGNA Inc,TGNA,12/07/2023,1/02/2024,12/08/2023,0.11375,0.455,10/26/2023
+Kimberly-Clark Corporation Common Stock,KMB,12/07/2023,1/03/2024,12/08/2023,1.18,4.72,11/16/2023
+Occidental Petroleum Corporation Common Stock,OXY,12/07/2023,1/16/2024,12/08/2023,0.18,0.72,10/31/2023
+PPL Corporation Common Stock,PPL,12/07/2023,1/02/2024,12/08/2023,0.24,0.96,11/17/2023
+Public Service Enterprise Group Incorporated Common Stock,PEG,12/07/2023,12/29/2023,12/08/2023,0.57,2.28,11/21/2023
+Union Pacific Corporation Common Stock,UNP,12/07/2023,12/28/2023,12/08/2023,1.3,5.2,11/28/2023
+Walmart Inc. Common Stock,WMT,12/07/2023,1/02/2024,12/08/2023,0.57,2.28,2/21/2023
+"Williams Companies, Inc. (The) Common Stock",WMB,12/07/2023,12/26/2023,12/08/2023,0.4475,1.79,10/24/2023
+Regions Financial Corporation Common Stock,RF,12/07/2023,1/02/2024,12/08/2023,0.24,0.96,10/18/2023
+"The Travelers Companies, Inc. Common Stock",TRV,12/07/2023,12/29/2023,12/08/2023,1.0,4.0,10/18/2023
+Alliancebernstein Global High Income Fund,AWF,12/07/2023,12/22/2023,12/08/2023,0.0655,0.786,11/28/2023
+Movado Group Inc. Common Stock,MOV,12/07/2023,12/22/2023,12/08/2023,0.35,1.4,11/29/2023
+"Simon Property Group, Inc. Common Stock",SPG,12/07/2023,12/29/2023,12/08/2023,1.9,7.6,10/30/2023
+NOV Inc. Common Stock,NOV,12/07/2023,12/22/2023,12/08/2023,0.05,0.2,11/16/2023
+UNIVERSAL INSURANCE HOLDINGS INC Common Stock,UVE,12/07/2023,12/15/2023,12/08/2023,0.13,0.64,11/15/2023
+UNIVERSAL INSURANCE HOLDINGS INC Common Stock,UVE,12/07/2023,12/15/2023,12/08/2023,0.16,0.64,11/15/2023
+"Fidelity National Information Services, Inc. Common Stock",FIS,12/07/2023,12/22/2023,12/08/2023,0.52,2.08,10/19/2023
+AllianceBernstein National Municipal Income Fund Inc,AFB,12/07/2023,12/22/2023,12/08/2023,0.03266,0.3919,11/28/2023
+Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),ITUB,12/07/2023,5/10/2024,12/08/2023,0.050467,0.6056,11/24/2023
+"CNO Financial Group, Inc. Common Stock",CNO,12/07/2023,12/22/2023,12/08/2023,0.15,0.6,11/10/2023
+"Insteel Industries, Inc. Common Stock",IIIN,12/07/2023,12/22/2023,12/08/2023,2.5,0.12,11/14/2023
+"Insteel Industries, Inc. Common Stock",IIIN,12/07/2023,12/22/2023,12/08/2023,0.03,0.12,11/14/2023
+Genpact Limited Common Stock,G,12/07/2023,12/22/2023,12/08/2023,0.1375,0.55,10/26/2023
+Main Street Capital Corporation Common Stock,MAIN,12/07/2023,12/15/2023,12/08/2023,0.235,2.82,8/01/2023
+Ellington Financial Inc. Common Stock ,EFC,12/07/2023,12/13/2023,12/08/2023,0.06,0.72,11/29/2023
+First American Corporation (New) Common Stock,FAF,12/07/2023,12/15/2023,12/08/2023,0.53,2.12,11/07/2023
+Virtus Stone Harbor Emerging Markets Total Income Fund Common Shares of Beneficial Interest,EDI,12/07/2023,12/13/2023,12/08/2023,0.07,0.84,11/16/2023
+"Schneider National, Inc. Common Stock",SNDR,12/07/2023,1/08/2024,12/08/2023,0.09,0.36,11/01/2023
+Knight-Swift Transportation Holdings Inc.,KNX,12/07/2023,12/22/2023,12/08/2023,0.14,0.56,11/13/2023
+"Kontoor Brands, Inc. Common Stock ",KTB,12/07/2023,12/18/2023,12/08/2023,0.5,2.0,10/27/2023
+Versailles Financial Corporation,VERF,12/07/2023,12/22/2023,12/08/2023,0.5,0.5,11/17/2023
+Southern California Gas Co 6% PFS PERPETUAL USD 25,SOCGM,12/07/2023,1/15/2024,12/10/2023,0.375,1.5,11/29/2023
+Southern California Gas Co 6% PRF PERPETUAL USD 25 - Cl A,SOCGP,12/07/2023,1/15/2024,12/10/2023,0.375,1.5,11/29/2023
+Merchants & Marine Bancorp Inc,MNMB,12/07/2023,1/02/2024,12/08/2023,0.55,2.2,11/21/2023
+Northumberland Bancorp,NUBC,12/07/2023,12/15/2023,12/08/2023,0.23,0.92,11/21/2023
+"Movado Group, Inc. - Class A",MOVAA,12/07/2023,12/22/2023,12/08/2023,0.35,1.4,11/29/2023
+"Community Investors Bancorp, Inc.",CIBN,12/07/2023,12/29/2023,12/08/2023,0.1,0.4,11/20/2023
+First Niles Financial Inc.,FNFI,12/07/2023,12/22/2023,12/08/2023,0.06,0.24,11/15/2023
+Somerset Trust Holding Co.,SOME,12/07/2023,12/20/2023,12/08/2023,0.41,1.64,11/16/2023
+Connecticut Light & Power Co 6.48% PRF PERPETUAL USD 50 - Series G,CNLPL,12/07/2023,1/01/2024,12/08/2023,0.81,3.24,9/19/2023
+Connecticut Light & Power Co 5.28% PRF PERPETUAL USD 50,CNTHO,12/07/2023,1/01/2024,12/08/2023,0.66,2.64,9/19/2023
+First Community Financial Corp,FMFP,12/07/2023,12/15/2023,12/08/2023,0.16,0.64,11/14/2023
+Next plc. ADR,NXGPY,12/07/2023,1/18/2024,12/08/2023,0.352749,1.411,N/A
+Investec Ltd. ADR,ITCFY,12/07/2023,1/08/2024,12/08/2023,0.270685,0.5414,N/A
+Investec plc ADR,IVTJY,12/07/2023,1/09/2024,12/08/2023,0.338523,1.0072,N/A
+Truxton Corp,TRUX,12/07/2023,12/26/2023,12/08/2023,0.38,1.52,10/19/2023
+JD Sports Fashion plc. ADR,JDSPY,12/07/2023,1/22/2024,12/08/2023,0.002976,0.006,N/A
+Naspers Ltd ADR,NPSNY,12/07/2023,12/21/2023,12/08/2023,0.066132,0.0661,N/A
+Israel Discount Bank Ltd. ADR,ISDAY,12/07/2023,1/02/2024,12/08/2023,0.177443,0.7098,N/A
+Unilever Indonesia Tbk PT ADR,UNLRY,12/07/2023,1/03/2024,12/08/2023,0.056782,0.1136,N/A
+Medco Energi Internasional Tbk PT ADR,MEYYY,12/07/2023,1/02/2024,12/08/2023,0.068495,0.0685,N/A

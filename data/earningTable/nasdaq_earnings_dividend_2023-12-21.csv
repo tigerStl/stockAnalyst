@@ -1,0 +1,13 @@
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,12/20/2022,$0.85,time-after-hours,NKE,"Nike, Inc.","$174,730,501,451",Nov/2023,$0.84,16,,,2023-12-21,,0,0.84
+1,12/22/2022,$0.24,time-pre-market,KMX,CarMax Inc,"$10,611,731,155",Nov/2023,$0.45,9,,,2023-12-21,,0,0.45
+2,12/15/2022,$2.12,time-not-supplied,SCHL,Scholastic Corporation,"$1,221,106,297",Nov/2023,$2.65,1,,,2023-12-21,,0,2.65
+3,12/15/2022,$1.38,time-not-supplied,LIVE,Live Ventures Incorporated,"$78,190,594",Sep/2023,$1.43,1,,,2023-12-21,,0,1.43
+4,12/15/2022,$0.10,time-not-supplied,ESOA,Energy Services of America Corporation,"$65,606,052",Sep/2023,$0.09,1,,,2023-12-21,,0,0.09
+5,12/15/2022,($0.23),time-not-supplied,USAU,U.S. Gold Corp.,"$33,557,971",Oct/2023,,N/A,,,2023-12-21,,0,
+6,N/A,($0.12),time-not-supplied,RCAT,"Red Cat Holdings, Inc.","$30,608,667",Oct/2023,,1,,,2023-12-21,,0,
+7,N/A,$0.01,time-not-supplied,GTIM,Good Times Restaurants Inc.,"$29,478,502",Sep/2023,,1,,,2023-12-21,,0,
+8,12/15/2022,($0.23),time-not-supplied,IPA,ImmunoPrecise Antibodies Ltd.,"$28,306,793",Oct/2023,($0.09),1,,,2023-12-21,,0,-0.09
+9,N/A,($0.01),time-not-supplied,ATIF,ATIF Holdings Limited,"$10,012,550",Oct/2023,,1,,,2023-12-21,,0,
+10,N/A,($11.26),time-not-supplied,YCBD,"cbdMD, Inc.","$2,198,527",Sep/2023,,1,,,2023-12-21,,0,
+11,N/A,($0.22),time-not-supplied,HSCS,"Heart Test Laboratories, Inc.","$1,954,855",Oct/2023,,1,,,2023-12-21,,0,

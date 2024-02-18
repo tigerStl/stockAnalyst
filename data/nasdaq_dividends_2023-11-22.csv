@@ -1,0 +1,97 @@
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"Applied Materials, Inc. Common Stock",AMAT,11/22/2023,12/14/2023,11/24/2023,0.32,1.28,9/07/2023
+"Bank of the James Financial Group, Inc. Common Stock",BOTJ,11/22/2023,12/08/2023,11/24/2023,0.08,0.32,10/17/2023
+CDW Corporation Common Stock,CDW,11/22/2023,12/12/2023,11/24/2023,0.62,2.36,11/19/2023
+"Cogent Communications Holdings, Inc.",CCOI,11/22/2023,12/08/2023,11/24/2023,0.955,3.78,11/01/2023
+"Columbia Banking System, Inc. Common Stock",COLB,11/22/2023,12/11/2023,11/24/2023,0.36,1.44,11/13/2023
+Cummins Inc. Common Stock,CMI,11/22/2023,12/07/2023,11/24/2023,1.68,6.72,10/10/2023
+"Diamond Hill Investment Group, Inc. Class A Common Stock",DHIL,11/22/2023,12/08/2023,11/24/2023,1.5,6.0,10/31/2023
+"Eagle Capital Growth Fund, Inc. Common Stock",GRF,11/22/2023,12/15/2023,11/24/2023,0.35,0.35,10/13/2023
+Evercore Inc. Class A Common Stock,EVR,11/22/2023,12/08/2023,11/24/2023,0.76,3.04,10/24/2023
+First BanCorp. New Common Stock,FBP,11/22/2023,12/08/2023,11/24/2023,0.14,0.56,10/31/2023
+"First Mid Bancshares, Inc. Common Stock",FMBH,11/22/2023,12/01/2023,11/24/2023,0.23,0.92,11/14/2023
+First National Corporation Common Stock,FXNC,11/22/2023,12/08/2023,11/24/2023,0.15,0.6,11/08/2023
+"Huntington Ingalls Industries, Inc. Common Stock",HII,11/22/2023,12/08/2023,11/24/2023,1.3,5.2,11/01/2023
+Moody's Corporation Common Stock,MCO,11/22/2023,12/15/2023,11/24/2023,0.77,3.08,10/23/2023
+"NextEra Energy, Inc. Common Stock",NEE,11/22/2023,12/15/2023,11/24/2023,0.4675,1.87,10/12/2023
+"NiSource, Inc Depositary Shares representing 1/1,000th ownership interest in a share of 6.50% Series B Preferred Stock and 1/1,000th ownership interest in a share of Series B-1 Preferred Stock",NI^B,11/22/2023,12/15/2023,11/24/2023,0.40625,1.625,8/07/2023
+"Nu Skin Enterprises, Inc. Common Stock",NUS,11/22/2023,12/06/2023,11/24/2023,0.39,1.56,11/01/2023
+Perella Weinberg Partners Class A Common Stock,PWP,11/22/2023,12/08/2023,11/24/2023,0.07,0.28,11/07/2023
+"Piedmont Office Realty Trust, Inc. Class A Common Stock",PDM,11/22/2023,1/02/2024,11/24/2023,0.125,0.5,10/25/2023
+Putnam Managed Municipal Income Trust Common Stock,PMM,11/22/2023,12/01/2023,11/24/2023,0.0238,0.2856,10/27/2023
+Putnam Master Intermediate Income Trust Common Stock,PIM,11/22/2023,12/01/2023,11/24/2023,0.022,0.264,10/27/2023
+Putnam Municipal Opportunities Trust Common Stock,PMO,11/22/2023,12/01/2023,11/24/2023,0.035,0.42,10/27/2023
+Putnam Premier Income Trust Common Stock,PPT,11/22/2023,12/01/2023,11/24/2023,0.026,0.312,10/27/2023
+Robert Half Inc. Common Stock,RHI,11/22/2023,12/15/2023,11/24/2023,0.48,1.92,10/30/2023
+"United States Lime & Minerals, Inc. Common Stock",USLM,11/22/2023,12/15/2023,11/24/2023,0.2,0.8,10/31/2023
+VALE S.A.  American Depositary Shares Each Representing one common share,VALE,11/22/2023,12/08/2023,11/24/2023,0.1541,0.9454,10/27/2023
+Viatris Inc. Common Stock,VTRS,11/22/2023,12/15/2023,11/24/2023,0.12,0.48,11/06/2023
+Village Bank and Trust Financial Corp. Common Stock,VBFC,11/22/2023,12/01/2023,11/24/2023,0.18,0.64,11/14/2023
+Vodafone Group Plc American Depositary Shares,VOD,11/22/2023,2/02/2024,11/24/2023,0.481455,0.993879,11/14/2023
+"WaFd, Inc. Common Stock",WAFD,11/22/2023,12/08/2023,11/24/2023,0.25,1.0,11/14/2023
+Silvercorp Metals Inc. Common Shares,SVM,11/22/2023,12/15/2023,11/24/2023,0.0125,0.025,11/09/2023
+"Eagle Capital Growth Fund, Inc. Common Stock",GRF,11/22/2023,12/15/2023,11/24/2023,0.35,0.35,10/13/2023
+Cabot Corporation Common Stock,CBT,11/22/2023,12/08/2023,11/24/2023,0.4,1.6,11/10/2023
+Cummins Inc. Common Stock,CMI,11/22/2023,12/07/2023,11/24/2023,1.68,6.72,10/10/2023
+Hecla Mining Company Common Stock,HL,11/22/2023,12/07/2023,11/24/2023,0.00625,0.025,11/06/2023
+"Equifax, Inc. Common Stock",EFX,11/22/2023,12/15/2023,11/24/2023,0.39,1.56,11/02/2023
+"Badger Meter, Inc. Common Stock",BMI,11/22/2023,12/08/2023,11/24/2023,0.27,1.08,11/10/2023
+Robert Half Inc. Common Stock,RHI,11/22/2023,12/15/2023,11/24/2023,0.48,1.92,10/30/2023
+First BanCorp. New Common Stock,FBP,11/22/2023,12/08/2023,11/24/2023,0.14,0.56,10/31/2023
+"Dynex Capital, Inc. Common Stock",DX,11/22/2023,12/01/2023,11/24/2023,0.13,1.56,11/13/2023
+Putnam Premier Income Trust Common Stock,PPT,11/22/2023,12/01/2023,11/24/2023,0.026,0.312,10/27/2023
+Putnam Master Intermediate Income Trust Common Stock,PIM,11/22/2023,12/01/2023,11/24/2023,0.022,0.264,10/27/2023
+Putnam Managed Municipal Income Trust Common Stock,PMM,11/22/2023,12/01/2023,11/24/2023,0.0238,0.2856,10/27/2023
+Putnam Municipal Opportunities Trust Common Stock,PMO,11/22/2023,12/01/2023,11/24/2023,0.035,0.42,10/27/2023
+"Mativ Holdings, Inc. Common Stock",MATV,11/22/2023,12/15/2023,11/24/2023,0.1,0.4,11/08/2023
+"Nu Skin Enterprises, Inc. Common Stock",NUS,11/22/2023,12/06/2023,11/24/2023,0.39,1.56,11/01/2023
+Companhia Siderurgica Nacional S.A. Common Stock,SID,11/22/2023,1/01/0001,11/24/2023,0.152613,0.603,11/14/2023
+Moody's Corporation Common Stock,MCO,11/22/2023,12/15/2023,11/24/2023,0.77,3.08,10/23/2023
+"VAALCO Energy, Inc.  Common Stock",EGY,11/22/2023,12/21/2023,11/24/2023,0.0625,0.25,2/14/2023
+Petroleo Brasileiro S.A.- Petrobras Common Stock,PBR,11/22/2023,2/27/2024,11/24/2023,0.174857,1.579,11/13/2023
+Petroleo Brasileiro S.A.- Petrobras Common Stock,PBR,11/22/2023,2/27/2024,11/24/2023,0.2739295,1.579,11/13/2023
+VALE S.A.  American Depositary Shares Each Representing one common share,VALE,11/22/2023,12/08/2023,11/24/2023,0.1541,0.9454,10/27/2023
+Macquarie First Trust Global Common Stock,MFD,11/22/2023,12/01/2023,11/24/2023,0.2,0.8,11/13/2023
+Koppers Holdings Inc. Common Stock,KOP,11/22/2023,12/11/2023,11/24/2023,0.06,0.24,11/02/2023
+Evercore Inc. Class A Common Stock,EVR,11/22/2023,12/08/2023,11/24/2023,0.76,3.04,10/24/2023
+Global Ship Lease Inc New Class A Common Shares,GSL,11/22/2023,12/04/2023,11/24/2023,0.375,1.5,11/09/2023
+First Trust Specialty Finance and Financial Opportunities Fund,FGB,11/22/2023,12/01/2023,11/24/2023,0.0825,0.33,11/13/2023
+Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five Common Shares),CPAC,11/22/2023,12/19/2023,11/24/2023,0.5403268,0.5403,11/09/2023
+"Piedmont Office Realty Trust, Inc. Class A Common Stock",PDM,11/22/2023,1/02/2024,11/24/2023,0.125,0.5,10/25/2023
+"Compania Cervecerias Unidas, S.A. Common Stock",CCU,11/22/2023,1/01/0001,11/24/2023,0.191728,0.2474,11/09/2023
+"NextEra Energy, Inc. Common Stock",NEE,11/22/2023,12/15/2023,11/24/2023,0.4675,1.87,10/12/2023
+"Walker & Dunlop, Inc Common Stock",WD,11/22/2023,12/08/2023,11/24/2023,0.63,2.52,11/08/2023
+"Huntington Ingalls Industries, Inc. Common Stock",HII,11/22/2023,12/08/2023,11/24/2023,1.3,5.2,11/01/2023
+"Spirit Airlines, Inc. Common Stock",SAVE,11/22/2023,11/30/2023,11/24/2023,0.1,0.0,11/14/2023
+National Bank Holdings Corporation Common Stock,NBHC,11/22/2023,12/15/2023,11/24/2023,0.27,1.08,11/07/2023
+Fortive Corporation Common Stock ,FTV,11/22/2023,12/29/2023,11/24/2023,0.08,0.32,11/02/2023
+"National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares",NGG,11/22/2023,1/11/2024,11/24/2023,1.1899,2.3798,11/10/2023
+Tate & Lyle plc ADR,TATYY,11/22/2023,1/10/2024,11/24/2023,0.269246,1.1098,N/A
+Pinnacle Bankshares Corp.,PPBN,11/22/2023,12/08/2023,11/24/2023,0.25,1.0,11/14/2023
+Exchange Bank,EXSR,11/22/2023,12/08/2023,11/24/2023,1.3,5.2,11/14/2023
+"Killbuck Bancshares, Inc",KLIB,11/22/2023,12/15/2023,11/24/2023,2.1,4.2,11/13/2023
+M & F Bancorp Inc,MFBP,11/22/2023,12/13/2023,11/24/2023,0.04,0.16,10/24/2023
+"Summit Bancshares, Inc.",SMAL,11/22/2023,12/15/2023,11/24/2023,0.1,0.4,10/18/2023
+Harford Bank of Aberdeen,HFBK,11/22/2023,12/22/2023,11/24/2023,0.22,0.88,11/09/2023
+New World Development Co. Ltd. ADR,NDVLY,11/22/2023,12/27/2023,11/24/2023,0.016172,0.0323,N/A
+Security National Corp.,SNLC,11/22/2023,12/15/2023,11/24/2023,0.5,2.0,10/19/2023
+British Land Co plc ADR,BTLCY,11/22/2023,1/16/2024,11/24/2023,0.104919,0.4197,N/A
+Central Bancompany,CBCY,11/22/2023,12/01/2023,11/24/2023,3.75,8.0,11/10/2023
+Central Bancompany,CBCY,11/22/2023,12/01/2023,11/24/2023,2.0,8.0,11/10/2023
+Central Bancompany - Class B,CBCYB,11/22/2023,12/01/2023,11/24/2023,3.75,8.0,11/10/2023
+Central Bancompany - Class B,CBCYB,11/22/2023,12/01/2023,11/24/2023,2.0,8.0,11/10/2023
+Elders Limited ADR,EDESY,11/22/2023,1/04/2024,11/24/2023,0.219834,0.4397,N/A
+RS Group Plc ADR,EENEY,11/22/2023,1/22/2024,11/24/2023,0.172493,0.4745,N/A
+Banco Do Brasil S.A. ADR,BDORY,11/22/2023,12/11/2023,11/24/2023,0.104167,0.817,N/A
+Banco Do Brasil S.A. ADR,BDORY,11/22/2023,12/11/2023,11/24/2023,0.014116,0.817,N/A
+Babcock International Group plc ADR,BCKIY,11/22/2023,2/05/2024,11/24/2023,0.018612,0.0372,N/A
+Paul Mueller Co.,MUEL,11/22/2023,12/22/2023,11/24/2023,0.15,0.6,11/10/2023
+Land Securities Group ADR,LDSCY,11/22/2023,1/17/2024,11/24/2023,0.068864,0.2755,N/A
+ANZ Group Holdings Ltd Sponsored ADR,ANZGY,11/22/2023,1/02/2024,11/24/2023,0.263546,0.7929,N/A
+Mowi ASA ADR - Sponsor,MHGVY,11/22/2023,12/04/2023,11/24/2023,0.100353,0.4014,N/A
+Jollibee Foods Corporation ADR,JBFCY,11/22/2023,12/26/2023,11/24/2023,0.057913,0.1158,N/A
+Jumbo S.A. ADR,JUMSY,11/22/2023,12/14/2023,11/24/2023,1.429731,0.6323,N/A
+BW LPG Limited ADR,BWLLY,11/22/2023,1/02/2024,11/24/2023,0.756122,1.5122,N/A
+GMO Internet group Inc. ADR,GMYOY,11/22/2023,1/03/2024,11/24/2023,0.087386,0.3495,N/A
+Banca Mediolanum Spa. ADR,BNCDY,11/22/2023,12/07/2023,11/24/2023,0.393449,0.7869,N/A
+Cellnex Telecom S.A. ADR,CLLNY,11/22/2023,12/08/2023,11/24/2023,0.018997,0.038,N/A

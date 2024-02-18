@@ -1,0 +1,15 @@
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,12/16/2022,$3.08,time-pre-market,ACN,Accenture plc,"$222,879,052,981",Nov/2023,$3.14,10,,,2023-12-19,,0,3.14
+1,12/20/2022,$3.18,time-after-hours,FDX,FedEx Corporation,"$67,287,654,230",Nov/2023,$4.13,10,,,2023-12-19,,0,4.13
+2,12/20/2022,$3.99,time-pre-market,FDS,FactSet Research Systems Inc.,"$16,796,215,935",Nov/2023,$4.10,9,,,2023-12-19,,0,4.10
+3,12/20/2022,$0.44,time-after-hours,WOR,"Worthington Enterprises, Inc.","$2,590,708,115",Nov/2023,$0.81,1,,,2023-12-19,,0,0.81
+4,12/20/2022,$0.69,time-not-supplied,AIR,AAR Corp.,"$2,446,649,192",Nov/2023,$0.81,2,,,2023-12-19,,0,0.81
+5,12/20/2022,$0.29,time-after-hours,EPAC,Enerpac Tool Group Corp.,"$1,552,558,339",Nov/2023,$0.32,1,,,2023-12-19,,0,0.32
+6,12/19/2022,$0.20,time-after-hours,SCS,Steelcase Inc.,"$1,439,459,057",Nov/2023,$0.18,1,,,2023-12-19,,0,0.18
+7,12/20/2022,($0.11),time-not-supplied,FCEL,"FuelCell Energy, Inc.","$558,776,652",Oct/2023,($0.08),5,,,2023-12-19,,0,-0.08
+8,12/20/2022,$0.03,time-not-supplied,CVGW,"Calavo Growers, Inc.","$488,784,398",Oct/2023,$0.28,1,,,2023-12-19,,0,0.28
+9,N/A,($0.25),time-not-supplied,FEIM,"Frequency Electronics, Inc.","$98,125,980",Oct/2023,,10,,,2023-12-19,,0,
+10,12/20/2022,N/A,time-not-supplied,JOB,GEE Group Inc.,"$61,438,131",Sep/2023,$0.02,1,,,2023-12-19,,0,0.02
+11,12/20/2022,($0.13),time-not-supplied,KNW,"Know Labs, Inc.","$29,739,606",Sep/2023,($0.02),1,,,2023-12-19,,0,-0.02
+12,12/20/2022,($0.06),time-not-supplied,CAMP,CalAmp Corp.,"$11,939,644",Nov/2023,,N/A,,,2023-12-19,,0,
+13,12/20/2022,($0.05),time-not-supplied,BLIN,"Bridgeline Digital, Inc.","$8,021,558",Sep/2023,($0.06),1,,,2023-12-19,,0,-0.06

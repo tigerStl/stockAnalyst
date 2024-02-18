@@ -1,0 +1,7 @@
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,1/04/2023,$2.21,time-not-supplied,UNF,Unifirst Corporation,"$3,338,157,237",Nov/2023,$2.33,2,,,2024-01-03,,0,2.33
+1,1/04/2023,$0.06,time-not-supplied,SLP,"Simulations Plus, Inc.","$790,357,462",Nov/2023,$0.11,1,,,2024-01-03,,0,0.11
+2,1/04/2023,$0.52,time-not-supplied,RGP,"Resources Connection, Inc.","$475,812,498",Nov/2023,$0.11,1,,,2024-01-03,,0,0.11
+3,1/04/2023,$0.39,time-not-supplied,RELL,"Richardson Electronics, Ltd.","$198,585,294",Nov/2023,$0.01,1,,,2024-01-03,,0,0.01
+4,1/04/2023,($0.12),time-not-supplied,ANIX,"Anixa Biosciences, Inc.","$111,852,079",Oct/2023,($0.09),1,,,2024-01-03,,0,-0.09
+5,N/A,N/A,time-not-supplied,BNIX,Bannix Acquisition Corp.,"$58,296,750",Sep/2023,,1,,,2024-01-03,,0,

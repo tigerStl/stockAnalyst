@@ -1,0 +1,29 @@
+,eps,surprise,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,$0.85,10.39,time-not-supplied,VEEV,Veeva Systems Inc.,"$27,785,372,184",Oct/2023,$0.77,12,,,2023-12-06,,0.85,0.77
+1,$0.50,N/A,time-not-supplied,BF.A,Brown Forman Corporation,"$26,796,449,223",Oct/2023,,N/A,,,2023-12-06,,0.50,
+2,$0.50,N/A,time-not-supplied,BF.B,Brown Forman Corporation,"$25,930,820,228",Oct/2023,$0.50,6,,,2023-12-06,,0.50,0.50
+3,$0.91,4.6,time-not-supplied,CPB,Campbell Soup Company,"$12,942,740,356",Oct/2023,$0.87,9,,,2023-12-06,,0.91,0.87
+4,$0,100,time-not-supplied,CHWY,"Chewy, Inc.","$8,275,251,130",Oct/2023,($0.06),5,,,2023-12-06,,0,-0.06
+5,$0.99,13.79,time-not-supplied,THO,"Thor Industries, Inc.","$5,710,396,159",Oct/2023,$0.87,6,,,2023-12-06,,0.99,0.87
+7,$0,100,time-not-supplied,GME,GameStop Corporation,"$4,998,214,193",Oct/2023,($0.12),3,,,2023-12-06,,0,-0.12
+8,$0.51,13.33,time-not-supplied,OLLI,"Ollie's Bargain Outlet Holdings, Inc.","$4,501,163,237",Oct/2023,$0.45,8,,,2023-12-06,,0.51,0.45
+9,$1.56,N/A,time-not-supplied,GEF.B,"Greif, Inc.","$3,156,554,894",Oct/2023,,N/A,,,2023-12-06,,1.56,
+10,$1.56,20,time-not-supplied,GEF,"Greif, Inc.","$3,151,406,302",Oct/2023,$1.30,3,,,2023-12-06,,1.56,1.30
+12,$0.06,200,time-not-supplied,CXM,"Sprinklr, Inc.","$3,042,922,932",Oct/2023,$0.02,7,,,2023-12-06,,0.06,0.02
+13,$0.97,1.04,time-not-supplied,KFY,Korn Ferry ,"$2,840,252,456",Oct/2023,$0.96,2,,,2023-12-06,,0.97,0.96
+14,$0.40,29.03,time-not-supplied,VRNT,Verint Systems Inc.,"$1,802,242,413",Oct/2023,$0.31,3,,,2023-12-06,,0.40,0.31
+15,$0.73,N/A,time-not-supplied,WLY,"John Wiley & Sons, Inc.","$1,672,821,367",Oct/2023,,N/A,,,2023-12-06,,0.73,
+16,$0.73,N/A,time-not-supplied,WLYB,"John Wiley & Sons, Inc.","$1,640,248,278",Oct/2023,,N/A,,,2023-12-06,,0.73,
+18,$1.01,4.12,time-not-supplied,OXM,"Oxford Industries, Inc.","$1,482,527,798",Oct/2023,$0.97,4,,,2023-12-06,,1.01,0.97
+20,$0.14,N/A,time-not-supplied,NAPA,"The Duckhorn Portfolio, Inc.","$1,036,002,035",Oct/2023,$0.14,3,,,2023-12-06,,0.14,0.14
+24,$0.40,N/A,time-not-supplied,AGX,"Argan, Inc.","$557,504,634",Oct/2023,,N/A,,,2023-12-06,,0.40,
+27,$0.19,111.11,time-not-supplied,VRA,"Vera Bradley, Inc.","$227,195,012",Oct/2023,$0.09,2,,,2023-12-06,,0.19,0.09
+29,$0.17,N/A,time-not-supplied,VBNK,VersaBank,"$212,927,664",Oct/2023,$0.32,1,,,2023-12-06,,0.17,0.32
+30,$0.16,N/A,time-not-supplied,DLHC,DLH Holdings Corp.,"$195,711,563",Sep/2023,,N/A,,,2023-12-06,,0.16,
+32,$0.34,25.93,time-not-supplied,LAKE,"Lakeland Industries, Inc.","$112,533,486",Oct/2023,$0.27,1,,,2023-12-06,,0.34,0.27
+33,$0.37,N/A,time-not-supplied,ALOT,"AstroNova, Inc.","$110,924,420",Oct/2023,,N/A,,,2023-12-06,,0.37,
+35,$0.55,N/A,time-not-supplied,BNED,"Barnes & Noble Education, Inc","$66,935,828",Oct/2023,,N/A,,,2023-12-06,,0.55,
+36,$0.93,N/A,time-not-supplied,KEQU,Kewaunee Scientific Corporation,"$66,184,302",Oct/2023,,N/A,,,2023-12-06,,0.93,
+37,$0.15,N/A,time-not-supplied,PATI,"Patriot Transportation Holding, Inc.","$56,494,353",Sep/2023,,N/A,,,2023-12-06,,0.15,
+38,$0.17,N/A,time-not-supplied,HNNA,"Hennessy Advisors, Inc.","$49,185,451",Sep/2023,,N/A,,,2023-12-06,,0.17,
+40,$0.15,N/A,time-not-supplied,VNCE,Vince Holding Corp.,"$15,115,471",Oct/2023,,N/A,,,2023-12-06,,0.15,

@@ -1,0 +1,47 @@
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",APO^A,1/11/2024,1/31/2024,1/15/2024,0.8438,3.3752,11/01/2023
+Bel Fuse Inc. Class A Common Stock,BELFA,1/11/2024,2/01/2024,1/15/2024,0.06,0.24,10/25/2023
+Bel Fuse Inc. Class B Common Stock,BELFB,1/11/2024,2/01/2024,1/15/2024,0.07,0.28,10/25/2023
+City Holding Company Common Stock,CHCO,1/11/2024,1/31/2024,1/15/2024,0.715,2.86,11/14/2023
+Gladstone Investment Corporation 4.875% Notes due 2028,GAINZ,1/11/2024,2/01/2024,1/15/2024,0.3046875,1.21875,11/25/2023
+Gladstone Investment Corporation 5.00% Notes Due 2026,GAINN,1/11/2024,2/01/2024,1/15/2024,0.3125,1.25,11/25/2023
+Gladstone Investment Corporation 8.00% Notes due 2028,GAINL,1/11/2024,2/01/2024,1/15/2024,0.5,0.0,11/25/2023
+Immersion Corporation Common Stock,IMMR,1/11/2024,1/25/2024,1/14/2024,0.045,0.12,11/25/2023
+Virtus Total Return Fund Inc.,ZTR,1/11/2024,1/30/2024,1/12/2024,0.05,0.6,11/16/2023
+"Blackrock MuniVest Fund, Inc. Common Stock",MVF,1/11/2024,2/01/2024,1/12/2024,0.03,0.36,11/14/2023
+IDEX Corporation Common Stock,IEX,1/11/2024,1/26/2024,1/12/2024,0.64,2.56,11/08/2023
+"Blackrock MuniYield Fund, Inc.  Common Stock",MYD,1/11/2024,2/01/2024,1/12/2024,0.0525,0.63,11/14/2023
+"Blackrock MuniYield New York Quality Fund, Inc.Common Stock",MYN,1/11/2024,2/01/2024,1/12/2024,0.0442,0.5304,11/14/2023
+"Blackrock MuniYield Quality Fund III, Inc Common Stock",MYI,1/11/2024,2/01/2024,1/12/2024,0.0555,0.666,11/14/2023
+"Blackrock MuniYield Quality Fund, Inc. Common Stock",MQY,1/11/2024,2/01/2024,1/12/2024,0.058,0.696,11/14/2023
+"Blackrock MuniYield Quality Fund II, Inc. Common Stock",MQT,1/11/2024,2/01/2024,1/12/2024,0.049,0.588,11/14/2023
+Blackrock MuniYield Pennsylvania Quality Fund Common Stock,MPA,1/11/2024,2/01/2024,1/12/2024,0.048,0.576,11/14/2023
+"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",MIY,1/11/2024,2/01/2024,1/12/2024,0.0465,0.558,11/14/2023
+"Blackrock MuniVest Fund II, Inc.  Common Stock",MVT,1/11/2024,2/01/2024,1/12/2024,0.0505,0.606,11/14/2023
+"Blackrock MuniAssets Fund, Inc Common Stock",MUA,1/11/2024,2/01/2024,1/12/2024,0.0555,0.666,11/14/2023
+"Blackrock MuniHoldings Fund, Inc. Common Stock",MHD,1/11/2024,2/01/2024,1/12/2024,0.0525,0.63,11/14/2023
+"Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",MHN,1/11/2024,2/01/2024,1/12/2024,0.0435,0.522,11/14/2023
+"Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock",MUC,1/11/2024,2/01/2024,1/12/2024,0.0485,0.582,11/14/2023
+"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",MUJ,1/11/2024,2/01/2024,1/12/2024,0.05,0.6,11/14/2023
+"Blackrock MuniHoldings Quality Fund II, Inc. Common Stock",MUE,1/11/2024,2/01/2024,1/12/2024,0.045,0.54,11/14/2023
+BlackRock Municipal Income Trust,BFK,1/11/2024,2/01/2024,1/12/2024,0.05,0.6,11/14/2023
+Advance Auto Parts Inc.,AAP,1/11/2024,1/26/2024,1/12/2024,0.25,1.0,10/31/2023
+BlackRock Virginia Municipal Bond Trust,BHV,1/11/2024,2/01/2024,1/12/2024,0.0395,0.474,11/14/2023
+BlackRock Municipal Income Trust II,BLE,1/11/2024,2/01/2024,1/12/2024,0.052,0.624,11/14/2023
+Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest,BYM,1/11/2024,2/01/2024,1/12/2024,0.0525,0.63,11/14/2023
+Virtus Convertible & Income Fund Common Shares of Beneficial Interest,NCV,1/11/2024,1/30/2024,1/12/2024,0.034,0.408,11/16/2023
+Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,NCZ,1/11/2024,1/30/2024,1/12/2024,0.03,0.36,11/16/2023
+"BlackRock Municipal Income Fund, Inc. Common Stock",MUI,1/11/2024,2/01/2024,1/12/2024,0.055,0.66,11/14/2023
+BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest,BTA,1/11/2024,2/01/2024,1/12/2024,0.0435,0.522,11/14/2023
+Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest,EDF,1/11/2024,1/30/2024,1/12/2024,0.06,0.72,11/16/2023
+BlackRock California Municipal Income Trust,BFZ,1/11/2024,2/01/2024,1/12/2024,0.051,0.612,11/14/2023
+BlackRock Investment Quality Municipal Trust Inc. (The),BKN,1/11/2024,2/01/2024,1/12/2024,0.057,0.684,11/14/2023
+BlackRock New York Municipal Income Trust,BNY,1/11/2024,2/01/2024,1/12/2024,0.043,0.516,11/14/2023
+Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,VGI,1/11/2024,1/30/2024,1/12/2024,0.08,0.96,11/16/2023
+BlackRock Municipal 2030 Target Term Trust,BTT,1/11/2024,2/01/2024,1/12/2024,0.0464,0.6491,11/14/2023
+Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,ACV,1/11/2024,1/30/2024,1/12/2024,0.18,2.16,11/16/2023
+Virtus Convertible & Income 2024 Target Term Fund Common Shares of Beneficial Interest,CBH,1/11/2024,1/30/2024,1/12/2024,0.046,0.552,11/16/2023
+Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,AIO,1/11/2024,1/30/2024,1/12/2024,0.15,1.8,11/16/2023
+BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,BMN,1/11/2024,2/01/2024,1/12/2024,0.09375,1.125,11/14/2023
+Wisconsin Electric Power Co 6% PRF PERPETUAL USD 100,WELPM,1/11/2024,1/31/2024,1/12/2024,1.5,6.0,10/19/2023
+Origin Energy Limited ADR,OGFGY,1/11/2024,2/06/2024,1/12/2024,0.198808,0.3976,N/A

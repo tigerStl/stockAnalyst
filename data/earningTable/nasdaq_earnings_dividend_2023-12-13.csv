@@ -1,0 +1,39 @@
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,12/15/2022,$2.78,time-after-hours,ADBE,Adobe Inc.,"$277,177,534,000",Nov/2023,$3.32,12,,,2023-12-13,,0,3.32
+1,12/14/2022,$2.44,time-after-hours,NDSN,Nordson Corporation,"$13,745,054,936",Oct/2023,$2.40,5,,,2023-12-13,,0,2.40
+2,11/09/2022,$0.09,time-not-supplied,SKM,"SK Telecom Co., Ltd.","$4,663,334,298",Sep/2023,,N/A,,,2023-12-13,,0,
+3,N/A,$0.89,time-pre-market,ABM,ABM Industries Incorporated,"$2,857,201,914",Oct/2023,$0.93,5,,,2023-12-13,,0,0.93
+4,12/13/2022,$0.60,time-pre-market,PLAB,"Photronics, Inc.","$1,307,889,009",Oct/2023,$0.53,1,,,2023-12-13,,0,0.53
+5,12/14/2022,$0.25,time-pre-market,REVG,"REV Group, Inc.","$975,041,719",Oct/2023,$0.34,1,,,2023-12-13,,0,0.34
+6,N/A,($0.02),time-not-supplied,SDA,SunCar Technology Group Inc.,"$706,058,136",Sep/2023,,5,,,2023-12-13,,0,
+7,12/14/2022,$1.45,time-not-supplied,RICK,"RCI Hospitality Holdings, Inc.","$586,004,824",Sep/2023,$0.92,2,,,2023-12-13,,0,0.92
+8,N/A,N/A,time-not-supplied,IREN,Iris Energy Limited,"$389,795,055",Sep/2023,$0.03,5,,,2023-12-13,,0,0.03
+9,12/20/2022,($0.41),time-pre-market,CGNT,Cognyte Software Ltd.,"$377,931,600",Oct/2023,,N/A,,,2023-12-13,,0,
+10,12/14/2022,($0.02),time-not-supplied,UROY,Uranium Royalty Corp.,"$284,045,546",Oct/2023,,N/A,,,2023-12-13,,0,
+11,N/A,N/A,time-not-supplied,MSB,Mesabi Trust,"$242,326,584",Oct/2023,,5,,,2023-12-13,,0,
+12,11/09/2022,$0.35,time-not-supplied,INSE,"Inspired Entertainment, Inc.","$213,853,078",Sep/2023,$0.32,1,,,2023-12-13,,0,0.32
+13,N/A,$0.10,time-not-supplied,ISSC,"Innovative Solutions and Support, Inc.","$133,992,883",Sep/2023,,5,,,2023-12-13,,0,
+14,N/A,($0.42),time-not-supplied,XBIT,XBiotech Inc.,"$127,226,509",Sep/2023,,5,,,2023-12-13,,0,
+15,N/A,$0.46,time-not-supplied,BANX,ArrowMark Financial Corp.,"$121,525,930",Sep/2023,,5,,,2023-12-13,,0,
+16,N/A,N/A,time-pre-market,QSG,QuantaSing Group Limited,"$107,651,996",Sep/2023,($0.01),5,,,2023-12-13,,0,-0.01
+17,11/30/2022,$0.30,time-after-hours,ASYS,"Amtech Systems, Inc.","$95,771,292",Sep/2023,$0.09,1,,,2023-12-13,,0,0.09
+18,N/A,N/A,time-not-supplied,MLGO,"MicroAlgo, Inc.","$89,906,255",Sep/2023,,5,,,2023-12-13,,0,
+19,11/02/2022,$0.14,time-not-supplied,TUP,Tupperware Brands Corporation,"$85,598,242",Sep/2023,,N/A,,,2023-12-13,,0,
+20,12/14/2022,($0.07),time-not-supplied,BCTX,BriaCell Therapeutics Corp.,"$78,278,493",Oct/2023,($0.18),1,,,2023-12-13,,0,-0.18
+21,N/A,($0.16),time-not-supplied,VIOT,"Viomi Technology Co., Ltd","$60,835,577",Sep/2023,,5,,,2023-12-13,,0,
+22,N/A,$0.56,time-not-supplied,STCN,"Steel Connect, Inc.","$59,350,668",Oct/2023,,5,,,2023-12-13,,0,
+23,N/A,$0.16,time-not-supplied,BYFC,Broadway Financial Corporation,"$58,455,803",Sep/2023,,5,,,2023-12-13,,0,
+24,N/A,($0.10),time-not-supplied,ICLK,iClick Interactive Asia Group Limited,"$37,334,058",Sep/2023,,5,,,2023-12-13,,0,
+25,11/30/2022,($0.10),time-not-supplied,GNS,Genius Group Limited,"$28,554,931",Sep/2023,,N/A,,,2023-12-13,,0,
+26,11/02/2022,($0.03),time-not-supplied,QMCO,Quantum Corporation,"$24,710,558",Sep/2023,($0.08),3,,,2023-12-13,,0,-0.08
+27,N/A,($0.09),time-after-hours,OPTT,"Ocean Power Technologies, Inc.","$20,205,290",Oct/2023,,5,,,2023-12-13,,0,
+28,N/A,N/A,time-not-supplied,SLNA,Selina Hospitality PLC,"$20,192,324",Sep/2023,($0.30),5,,,2023-12-13,,0,-0.30
+29,N/A,($0.09),time-not-supplied,PMCB,"PharmaCyte  Biotech, Inc.","$19,750,727",Oct/2023,,5,,,2023-12-13,,0,
+30,N/A,$0.05,time-not-supplied,VIAO,VIA optronics AG,"$18,618,300",Sep/2023,,5,,,2023-12-13,,0,
+31,N/A,($0.07),time-not-supplied,STRM,"Streamline Health Solutions, Inc.","$18,257,472",Oct/2023,,5,,,2023-12-13,,0,
+32,11/09/2022,($0.47),time-not-supplied,LMDX,LumiraDx Limited,"$16,530,773",Sep/2023,,N/A,,,2023-12-13,,0,
+33,N/A,($1.32),time-not-supplied,AAMC,Altisource Asset Management Corp,"$14,401,138",Sep/2023,,5,,,2023-12-13,,0,
+34,N/A,($1.80),time-not-supplied,BNRG,Brenmiller Energy Ltd,"$12,712,587",Sep/2023,,5,,,2023-12-13,,0,
+35,11/23/2022,($0.17),time-not-supplied,STKH,Steakholder Foods Ltd.,"$8,899,633",Sep/2023,($0.02),1,,,2023-12-13,,0,-0.02
+36,N/A,($3.10),time-after-hours,MIND,"MIND Technology, Inc.","$7,377,113",Oct/2023,,5,,,2023-12-13,,0,
+37,N/A,($99.99),time-not-supplied,AGFY,Agrify Corporation,"$2,460,408",Sep/2023,,5,,,2023-12-13,,0,
