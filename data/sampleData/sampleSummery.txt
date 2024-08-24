@@ -1,0 +1,97 @@
+{
+	"data": {
+		"symbol": "USB",
+		"summaryData": {
+			"Exchange": {
+				"label": "Exchange",
+				"value": "NYSE"
+			},
+			"Sector": {
+				"label": "Sector",
+				"value": "Finance"
+			},
+			"Industry": {
+				"label": "Industry",
+				"value": "Major Banks"
+			},
+			"OneYrTarget": {
+				"label": "1 Year Target",
+				"value": "$42.50"
+			},
+			"TodayHighLow": {
+				"label": "Today\\'s High/Low",
+				"value": "$37.79/$37.36"
+			},
+			"ShareVolume": {
+				"label": "Share Volume",
+				"value": "8,916,107"
+			},
+			"AverageVolume": {
+				"label": "Average Volume",
+				"value": "7,357,115"
+			},
+			"PreviousClose": {
+				"label": "Previous Close",
+				"value": "$37.32"
+			},
+			"FiftTwoWeekHighLow": {
+				"label": "52 Week High/Low",
+				"value": "$49.95/$27.27"
+			},
+			"MarketCap": {
+				"label": "Market Cap",
+				"value": "58,605,946,962"
+			},
+			"PERatio": {
+				"label": "P/E Ratio",
+				"value": 11.2
+			},
+			"ForwardPE1Yr": {
+				"label": "Forward P/E 1 Yr.",
+				"value": "8.64"
+			},
+			"EarningsPerShare": {
+				"label": "Earnings Per Share(EPS)",
+				"value": "$3.36"
+			},
+			"AnnualizedDividend": {
+				"label": "Annualized Dividend",
+				"value": "$1.92"
+			},
+			"ExDividendDate": {
+				"label": "Ex Dividend Date",
+				"value": "Sep 28, 2023"
+			},
+			"DividendPaymentDate": {
+				"label": "Dividend Pay Date",
+				"value": "Oct 16, 2023"
+			},
+			"Yield": {
+				"label": "Current Yield",
+				"value": "5.1%"
+			},
+			"Beta": {
+				"label": "Beta",
+				"value": 0.0
+			}
+		},
+		"assetClass": "STOCKS",
+		"additionalData": null,
+		"bidAsk": {
+			"Bid * Size": {
+				"label": "Bid * Size",
+				"value": "N/A"
+			},
+			"Ask * Size": {
+				"label": "Ask * Size",
+				"value": "N/A"
+			}
+		}
+	},
+	"message": null,
+	"status": {
+		"rCode": 200,
+		"bCodeMessage": null,
+		"developerMessage": null
+	}
+}

@@ -1,0 +1,1549 @@
+{
+    "data": {
+        "calendar": {
+            "asOf": "Tue, Nov 21, 2023",
+            "headers": {
+                "symbol": "Symbol",
+                "companyName": "Name",
+                "dividend_Ex_Date": "Ex-Dividend Date",
+                "payment_Date": "Payment Date",
+                "record_Date": "Record Date",
+                "dividend_Rate": "Dividend",
+                "indicated_Annual_Dividend": "Indicated Annual Dividend",
+                "announcement_Date": "Announcement Date"
+            },
+            "rows": [
+                {
+                    "companyName": "Amcor plc Ordinary Shares",
+                    "symbol": "AMCR",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/12/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.125,
+                    "indicated_Annual_Dividend": 0.5,
+                    "announcement_Date": "10/31/2023"
+                },
+                {
+                    "companyName": "Barnes Group, Inc. Common Stock",
+                    "symbol": "B",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/08/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.16,
+                    "indicated_Annual_Dividend": 0.64,
+                    "announcement_Date": "10/12/2023"
+                },
+                {
+                    "companyName": "BrandywineGLOBAL Global Income Opportunities Fund Inc.",
+                    "symbol": "BWG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.08,
+                    "indicated_Annual_Dividend": 0.99,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Brunswick Corporation Common Stock",
+                    "symbol": "BC",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/15/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.4,
+                    "indicated_Annual_Dividend": 1.6,
+                    "announcement_Date": "10/17/2023"
+                },
+                {
+                    "companyName": "Discover Financial Services Common Stock",
+                    "symbol": "DFS",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/07/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.7,
+                    "indicated_Annual_Dividend": 2.8,
+                    "announcement_Date": "10/18/2023"
+                },
+                {
+                    "companyName": "E-mini S&P MidCap 400 Futures ",
+                    "symbol": "EMD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0845,
+                    "indicated_Annual_Dividend": 1.014,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
+                    "symbol": "EVM",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0292,
+                    "indicated_Annual_Dividend": 0.3504,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETV",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0949,
+                    "indicated_Annual_Dividend": 1.1388,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETW",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0582,
+                    "indicated_Annual_Dividend": 0.6984,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest",
+                    "symbol": "EOI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1095,
+                    "indicated_Annual_Dividend": 1.314,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Enhance Equity Income Fund II Common Stock",
+                    "symbol": "EOS",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1152,
+                    "indicated_Annual_Dividend": 1.3824,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest",
+                    "symbol": "EFT",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.116,
+                    "indicated_Annual_Dividend": 1.392,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
+                    "symbol": "EIM",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0333,
+                    "indicated_Annual_Dividend": 0.3996,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest",
+                    "symbol": "ETX           ",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0583,
+                    "indicated_Annual_Dividend": 0.6996,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST",
+                    "symbol": "EOT",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0625,
+                    "indicated_Annual_Dividend": 0.75,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
+                    "symbol": "ENX",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0297,
+                    "indicated_Annual_Dividend": 0.3564,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETJ",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0579,
+                    "indicated_Annual_Dividend": 0.6948,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest",
+                    "symbol": "EFR",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.118,
+                    "indicated_Annual_Dividend": 1.416,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "EVG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0744,
+                    "indicated_Annual_Dividend": 1.0655,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "EVT",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1488,
+                    "indicated_Annual_Dividend": 1.7856,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock",
+                    "symbol": "ETO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1374,
+                    "indicated_Annual_Dividend": 1.6488,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1001,
+                    "indicated_Annual_Dividend": 1.2012,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETB",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0932,
+                    "indicated_Annual_Dividend": 1.1184,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",
+                    "symbol": "ETY",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0805,
+                    "indicated_Annual_Dividend": 0.966,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "EXG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0553,
+                    "indicated_Annual_Dividend": 0.6636,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Ecofin Sustainable and Social Impact Term Fund",
+                    "symbol": "TEAF",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.09,
+                    "indicated_Annual_Dividend": 1.08,
+                    "announcement_Date": "8/10/2023"
+                },
+                {
+                    "companyName": "EOS",
+                    "symbol": "EOS",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1152,
+                    "indicated_Annual_Dividend": 1.3824,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Evergy, Inc. Common Stock",
+                    "symbol": "EVRG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/20/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.6425,
+                    "indicated_Annual_Dividend": 2.45,
+                    "announcement_Date": "10/31/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock",
+                    "symbol": "DFP",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.104,
+                    "indicated_Annual_Dividend": 1.248,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Preferred and Income Fund Incorporated",
+                    "symbol": "PFD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.055,
+                    "indicated_Annual_Dividend": 0.66,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated",
+                    "symbol": "PFO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.045,
+                    "indicated_Annual_Dividend": 0.54,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Preferred and Income Securities Fund Incorporated",
+                    "symbol": "FFC",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0815,
+                    "indicated_Annual_Dividend": 0.978,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Total Return Fund Inc Common Stock",
+                    "symbol": "FLC",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0835,
+                    "indicated_Annual_Dividend": 1.002,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "Forward Air Corporation Common Stock",
+                    "symbol": "FWRD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/07/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.24,
+                    "indicated_Annual_Dividend": 0.96,
+                    "announcement_Date": "10/24/2023"
+                },
+                {
+                    "companyName": "Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",
+                    "symbol": "GIL",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/18/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.186,
+                    "indicated_Annual_Dividend": 0.744,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Highland Opportunities and Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "HFRO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.077,
+                    "indicated_Annual_Dividend": 0.924,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Kelly Services, Inc. Class A Common Stock",
+                    "symbol": "KELYA",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/06/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.075,
+                    "indicated_Annual_Dividend": 0.3,
+                    "announcement_Date": "11/07/2023"
+                },
+                {
+                    "companyName": "Kelly Services, Inc. Class B Common Stock",
+                    "symbol": "KELYB",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/06/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.075,
+                    "indicated_Annual_Dividend": 0.3,
+                    "announcement_Date": "11/07/2023"
+                },
+                {
+                    "companyName": "Littelfuse, Inc. Common Stock",
+                    "symbol": "LFUS",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/07/2023",
+                    "record_Date": "11/23/2023",
+                    "dividend_Rate": 0.65,
+                    "indicated_Annual_Dividend": 2.6,
+                    "announcement_Date": "10/25/2023"
+                },
+                {
+                    "companyName": "LMP Capital and Income Fund Inc. Common Stock",
+                    "symbol": "SCD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.113,
+                    "indicated_Annual_Dividend": 1.356,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Marriott International Class A Common Stock",
+                    "symbol": "MAR",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/29/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.52,
+                    "indicated_Annual_Dividend": 2.08,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Microchip Technology Incorporated Common Stock",
+                    "symbol": "MCHP",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/06/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.439,
+                    "indicated_Annual_Dividend": 1.64,
+                    "announcement_Date": "11/02/2023"
+                },
+                {
+                    "companyName": "Newmark Group, Inc. Class A Common Stock",
+                    "symbol": "NMRK",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/06/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.03,
+                    "indicated_Annual_Dividend": 0.12,
+                    "announcement_Date": "10/31/2023"
+                },
+                {
+                    "companyName": "OFS Credit Company, Inc. 5.25% Series E Term Preferred Stock Due 2026",
+                    "symbol": "OCCIN",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/23/2023",
+                    "dividend_Rate": 0.109375,
+                    "indicated_Annual_Dividend": 1.3125,
+                    "announcement_Date": "6/01/2023"
+                },
+                {
+                    "companyName": "OFS Credit Company, Inc. 6.125% Series C Term Preferred Stock",
+                    "symbol": "OCCIO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/23/2023",
+                    "dividend_Rate": 0.1276042,
+                    "indicated_Annual_Dividend": 1.53125,
+                    "announcement_Date": "6/01/2023"
+                },
+                {
+                    "companyName": "Patria Investments Limited Class A Common Shares",
+                    "symbol": "PAX",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/08/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.199,
+                    "indicated_Annual_Dividend": 1.004,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Pitney Bowes Inc 6.70% Notes Due 2043",
+                    "symbol": "PBI^B",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/07/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.41875,
+                    "indicated_Annual_Dividend": 1.675,
+                    "announcement_Date": "11/17/2023"
+                },
+                {
+                    "companyName": "Regional Management Corp. Common Stock",
+                    "symbol": "RM",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/13/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.3,
+                    "indicated_Annual_Dividend": 1.2,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Southside Bancshares, Inc. Common Stock",
+                    "symbol": "SBSI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/07/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.37,
+                    "indicated_Annual_Dividend": 1.4,
+                    "announcement_Date": "11/02/2023"
+                },
+                {
+                    "companyName": "Superior Group of Companies, Inc. Common Stock",
+                    "symbol": "SGC",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/06/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.14,
+                    "indicated_Annual_Dividend": 0.56,
+                    "announcement_Date": "11/06/2023"
+                },
+                {
+                    "companyName": "TORM plc Class A Common Stock",
+                    "symbol": "TRMD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/05/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 1.46,
+                    "indicated_Annual_Dividend": 0,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Vinci Partners Investments Ltd. Class A Common Shares",
+                    "symbol": "VINP",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/07/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.17,
+                    "indicated_Annual_Dividend": 0.8,
+                    "announcement_Date": "11/07/2023"
+                },
+                {
+                    "companyName": "Western Asset Diversified Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "WDI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.14,
+                    "indicated_Annual_Dividend": 1.68,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Emerging Markets Debt Fund Inc Common Stock",
+                    "symbol": "EMD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0845,
+                    "indicated_Annual_Dividend": 1.014,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Global Corporate Defined Opportunity Fund Inc.",
+                    "symbol": "GDO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.102,
+                    "indicated_Annual_Dividend": 1.224,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Global High Income Fund Inc Common Stock",
+                    "symbol": "EHI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.067,
+                    "indicated_Annual_Dividend": 0.804,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset High Income Fund II Inc. Common Stock",
+                    "symbol": "HIX",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.049,
+                    "indicated_Annual_Dividend": 0.588,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset High Income Opportunity Fund, Inc. Common Stock",
+                    "symbol": "HIO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0355,
+                    "indicated_Annual_Dividend": 0.426,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset High Yield Defined Opportunity Fund Inc. Common Stock",
+                    "symbol": "HYI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.095,
+                    "indicated_Annual_Dividend": 1.14,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Inflation-Linked Income Fund",
+                    "symbol": "WIA",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.05,
+                    "indicated_Annual_Dividend": 0.6,
+                    "announcement_Date": "5/17/2023"
+                },
+                {
+                    "companyName": "Western Asset Inflation-Linked Opportunities & Income Fund",
+                    "symbol": "WIW",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0605,
+                    "indicated_Annual_Dividend": 0.726,
+                    "announcement_Date": "5/17/2023"
+                },
+                {
+                    "companyName": "Western Asset Intermediate Muni Fund Inc Common Stock",
+                    "symbol": "SBI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0235,
+                    "indicated_Annual_Dividend": 0.282,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock",
+                    "symbol": "IGI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0685,
+                    "indicated_Annual_Dividend": 0.822,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Managed Municipals Fund, Inc. Common Stock",
+                    "symbol": "MMU",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0365,
+                    "indicated_Annual_Dividend": 0.438,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Mortgage Opportunity Fund Inc. Common Stock",
+                    "symbol": "DMO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.115,
+                    "indicated_Annual_Dividend": 1.38,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Municipal High Income Fund, Inc. Common Stock",
+                    "symbol": "MHF",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0208,
+                    "indicated_Annual_Dividend": 0.2496,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Bancroft Fund, Ltd.",
+                    "symbol": "BCV",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/28/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.32,
+                    "indicated_Annual_Dividend": 1.28,
+                    "announcement_Date": "11/16/2023"
+                },
+                {
+                    "companyName": "abrdn Australia Equity Fund, Inc. Common Stock",
+                    "symbol": "IAF",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "1/10/2024",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.11,
+                    "indicated_Annual_Dividend": 0.44,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "abrdn Asia-Pacific Income Fund, Inc. Common Stock",
+                    "symbol": "FAX",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0275,
+                    "indicated_Annual_Dividend": 0.33,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "abrdn Global Income Fund, Inc. Common Stock",
+                    "symbol": "FCO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.07,
+                    "indicated_Annual_Dividend": 0.84,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "abrdn National Municipal Income Fund Common Stock",
+                    "symbol": "VFL",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0325,
+                    "indicated_Annual_Dividend": 0.39,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
+                    "symbol": "EIM",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0333,
+                    "indicated_Annual_Dividend": 0.3996,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
+                    "symbol": "ENX",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0297,
+                    "indicated_Annual_Dividend": 0.3564,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
+                    "symbol": "EVM",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0292,
+                    "indicated_Annual_Dividend": 0.3504,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "EVG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0744,
+                    "indicated_Annual_Dividend": 0.8928,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Brunswick Corporation Common Stock",
+                    "symbol": "BC",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/15/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.4,
+                    "indicated_Annual_Dividend": 1.6,
+                    "announcement_Date": "10/17/2023"
+                },
+                {
+                    "companyName": "Tortoise Midstream Energy Fund, Inc. Common Stock",
+                    "symbol": "NTG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.77,
+                    "indicated_Annual_Dividend": 3.08,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "abrdn Life Sciences Investors Shares of Beneficial Interest",
+                    "symbol": "HQL",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "1/10/2024",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.3,
+                    "indicated_Annual_Dividend": 1.2,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Barnes Group, Inc. Common Stock",
+                    "symbol": "B",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/08/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.16,
+                    "indicated_Annual_Dividend": 0.64,
+                    "announcement_Date": "10/12/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Preferred and Income Securities Fund Incorporated",
+                    "symbol": "FFC",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0815,
+                    "indicated_Annual_Dividend": 0.978,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",
+                    "symbol": "GIL",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/18/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.186,
+                    "indicated_Annual_Dividend": 0.744,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "abrdn Healthcare Investors Shares of Beneficial Interest",
+                    "symbol": "HQH",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "1/10/2024",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.38,
+                    "indicated_Annual_Dividend": 1.52,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest",
+                    "symbol": "EFR",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.118,
+                    "indicated_Annual_Dividend": 1.416,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Western Asset Inflation-Linked Income Fund",
+                    "symbol": "WIA",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.05,
+                    "indicated_Annual_Dividend": 0.6,
+                    "announcement_Date": "5/17/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Total Return Fund Inc Common Stock",
+                    "symbol": "FLC",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0835,
+                    "indicated_Annual_Dividend": 1.002,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "India Fund, Inc. (The) Common Stock",
+                    "symbol": "IFN",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "1/10/2024",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.41,
+                    "indicated_Annual_Dividend": 1.64,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "PHX Minerals Inc. Common Stock",
+                    "symbol": "PHX",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/07/2023",
+                    "record_Date": "11/23/2023",
+                    "dividend_Rate": 0.03,
+                    "indicated_Annual_Dividend": 0.12,
+                    "announcement_Date": "11/08/2023"
+                },
+                {
+                    "companyName": "Tortoise Energy Infrastructure Corporation Common Stock",
+                    "symbol": "TYG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.71,
+                    "indicated_Annual_Dividend": 2.84,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Western Asset High Income Fund II Inc. Common Stock",
+                    "symbol": "HIX",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.049,
+                    "indicated_Annual_Dividend": 0.588,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Managed Municipals Fund, Inc. Common Stock",
+                    "symbol": "MMU",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0365,
+                    "indicated_Annual_Dividend": 0.438,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset High Yield Defined Opportunity Fund Inc. Common Stock",
+                    "symbol": "HYI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.095,
+                    "indicated_Annual_Dividend": 1.14,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Municipal High Income Fund, Inc. Common Stock",
+                    "symbol": "MHF",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0208,
+                    "indicated_Annual_Dividend": 0.2496,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Preferred and Income Fund Incorporated",
+                    "symbol": "PFD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.055,
+                    "indicated_Annual_Dividend": 0.66,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "Western Asset Intermediate Muni Fund Inc Common Stock",
+                    "symbol": "SBI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0235,
+                    "indicated_Annual_Dividend": 0.282,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated",
+                    "symbol": "PFO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.045,
+                    "indicated_Annual_Dividend": 0.54,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "abrdn Japan Equity Fund, Inc. Common Stock",
+                    "symbol": "JEQ",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "1/10/2024",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1,
+                    "indicated_Annual_Dividend": 0.4,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Western Asset High Income Opportunity Fund, Inc. Common Stock",
+                    "symbol": "HIO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0355,
+                    "indicated_Annual_Dividend": 0.426,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Federated Hermes Premier Municipal Income Fund",
+                    "symbol": "FMN",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.035,
+                    "indicated_Annual_Dividend": 0.42,
+                    "announcement_Date": "11/10/2023"
+                },
+                {
+                    "companyName": "Western Asset Global High Income Fund Inc Common Stock",
+                    "symbol": "EHI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.067,
+                    "indicated_Annual_Dividend": 0.804,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "EVT",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1488,
+                    "indicated_Annual_Dividend": 1.7856,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "E-mini S&P MidCap 400 Futures ",
+                    "symbol": "EMD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0845,
+                    "indicated_Annual_Dividend": 1.014,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1001,
+                    "indicated_Annual_Dividend": 1.2012,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock",
+                    "symbol": "EMO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.65,
+                    "indicated_Annual_Dividend": 2.6,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Moog Inc. Class A Common Stock",
+                    "symbol": "MOG.A",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/08/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.27,
+                    "indicated_Annual_Dividend": 1.08,
+                    "announcement_Date": "11/03/2023"
+                },
+                {
+                    "companyName": "Moog Inc. Class B Common Stock",
+                    "symbol": "MOG.B",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/08/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.27,
+                    "indicated_Annual_Dividend": 1.08,
+                    "announcement_Date": "11/03/2023"
+                },
+                {
+                    "companyName": "LMP Capital and Income Fund Inc. Common Stock",
+                    "symbol": "SCD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.113,
+                    "indicated_Annual_Dividend": 1.356,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Inflation-Linked Opportunities & Income Fund",
+                    "symbol": "WIW",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0605,
+                    "indicated_Annual_Dividend": 0.726,
+                    "announcement_Date": "5/17/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock",
+                    "symbol": "ETO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1374,
+                    "indicated_Annual_Dividend": 1.6488,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest",
+                    "symbol": "EFT",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.116,
+                    "indicated_Annual_Dividend": 1.392,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest",
+                    "symbol": "EOI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1095,
+                    "indicated_Annual_Dividend": 1.314,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Ormat Technologies, Inc. Common Stock",
+                    "symbol": "ORA",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/06/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.12,
+                    "indicated_Annual_Dividend": 0.48,
+                    "announcement_Date": "11/08/2023"
+                },
+                {
+                    "companyName": "EOS",
+                    "symbol": "EOS",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1152,
+                    "indicated_Annual_Dividend": 1.3824,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETB",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0932,
+                    "indicated_Annual_Dividend": 1.1184,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETV",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0949,
+                    "indicated_Annual_Dividend": 1.1388,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETW",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0582,
+                    "indicated_Annual_Dividend": 0.6984,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Discover Financial Services Common Stock",
+                    "symbol": "DFS",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/07/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.7,
+                    "indicated_Annual_Dividend": 2.8,
+                    "announcement_Date": "10/18/2023"
+                },
+                {
+                    "companyName": "abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest",
+                    "symbol": "AGD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.065,
+                    "indicated_Annual_Dividend": 0.78,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Hyatt Hotels Corporation Class A Common Stock",
+                    "symbol": "H",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/06/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.15,
+                    "indicated_Annual_Dividend": 0.6,
+                    "announcement_Date": "11/02/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",
+                    "symbol": "ETY",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0805,
+                    "indicated_Annual_Dividend": 0.966,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest",
+                    "symbol": "AOD",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0575,
+                    "indicated_Annual_Dividend": 0.69,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "EXG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0553,
+                    "indicated_Annual_Dividend": 0.6636,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "abrdn Global Premier Properties Fund Common Shares of Beneficial Interest",
+                    "symbol": "AWP",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.04,
+                    "indicated_Annual_Dividend": 0.48,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock",
+                    "symbol": "DFP",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.104,
+                    "indicated_Annual_Dividend": 1.248,
+                    "announcement_Date": "10/19/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "ETJ",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0579,
+                    "indicated_Annual_Dividend": 0.6948,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Loews Corporation Common Stock",
+                    "symbol": "L",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/05/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0625,
+                    "indicated_Annual_Dividend": 0.25,
+                    "announcement_Date": "11/07/2023"
+                },
+                {
+                    "companyName": "Tortoise Pipeline & Energy Fund, Inc. Common Stock",
+                    "symbol": "TTP",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.59,
+                    "indicated_Annual_Dividend": 2.36,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "ClearBridge MLP and Midstream Fund Inc. Common Stock",
+                    "symbol": "CEM",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.77,
+                    "indicated_Annual_Dividend": 3.08,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST",
+                    "symbol": "EOT",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0625,
+                    "indicated_Annual_Dividend": 0.8125,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock",
+                    "symbol": "IGI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0685,
+                    "indicated_Annual_Dividend": 0.822,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Tortoise Power and Energy Infrastructure Fund, Inc Common Stock",
+                    "symbol": "TPZ",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.105,
+                    "indicated_Annual_Dividend": 1.26,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock",
+                    "symbol": "CTR",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.7,
+                    "indicated_Annual_Dividend": 2.8,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Western Asset Global Corporate Defined Opportunity Fund Inc.",
+                    "symbol": "GDO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.102,
+                    "indicated_Annual_Dividend": 1.224,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Western Asset Mortgage Opportunity Fund Inc. Common Stock",
+                    "symbol": "DMO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.115,
+                    "indicated_Annual_Dividend": 1.38,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "abrdn Income Credit Strategies Fund Common Shares",
+                    "symbol": "ACP",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1,
+                    "indicated_Annual_Dividend": 1.2,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Apollo Senior Floating Rate Fund Inc. Common Stock",
+                    "symbol": "AFT",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.135,
+                    "indicated_Annual_Dividend": 1.442,
+                    "announcement_Date": "11/10/2023"
+                },
+                {
+                    "companyName": "Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest",
+                    "symbol": "ETX",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.0583,
+                    "indicated_Annual_Dividend": 0.6996,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "BrandywineGLOBAL Global Income Opportunities Fund Inc.",
+                    "symbol": "BWG",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.08,
+                    "indicated_Annual_Dividend": 0.99,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "Regional Management Corp. Common Stock",
+                    "symbol": "RM",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/13/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.3,
+                    "indicated_Annual_Dividend": 1.2,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Tortoise Energy Independence Fund, Inc. Common Stock",
+                    "symbol": "NDP",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.63,
+                    "indicated_Annual_Dividend": 2.52,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Apollo Tactical Income Fund Inc. Common Stock",
+                    "symbol": "AIF",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.125,
+                    "indicated_Annual_Dividend": 1.47,
+                    "announcement_Date": "11/10/2023"
+                },
+                {
+                    "companyName": "abrdn Healthcare Opportunities Fund Shares of Beneficial Interest",
+                    "symbol": "THQ",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1125,
+                    "indicated_Annual_Dividend": 1.35,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)",
+                    "symbol": "GNK",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.15,
+                    "indicated_Annual_Dividend": 0.6,
+                    "announcement_Date": "11/08/2023"
+                },
+                {
+                    "companyName": "abrdn World Healthcare Fund Shares of Beneficial Interest",
+                    "symbol": "THW",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.1167,
+                    "indicated_Annual_Dividend": 1.4004,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Highland Opportunities and Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "HFRO",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.077,
+                    "indicated_Annual_Dividend": 0.924,
+                    "announcement_Date": "11/01/2023"
+                },
+                {
+                    "companyName": "Ecofin Sustainable and Social Impact Term Fund",
+                    "symbol": "TEAF",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.09,
+                    "indicated_Annual_Dividend": 1.08,
+                    "announcement_Date": "8/10/2023"
+                },
+                {
+                    "companyName": "Amcor plc Ordinary Shares",
+                    "symbol": "AMCR",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/12/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.125,
+                    "indicated_Annual_Dividend": 0.5,
+                    "announcement_Date": "10/31/2023"
+                },
+                {
+                    "companyName": "abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "ASGI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.12,
+                    "indicated_Annual_Dividend": 1.44,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Angel Oak Mortgage REIT, Inc. Common Stock",
+                    "symbol": "AOMR",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "11/30/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.32,
+                    "indicated_Annual_Dividend": 1.28,
+                    "announcement_Date": "11/07/2023"
+                },
+                {
+                    "companyName": "Western Asset Diversified Income Fund Common Shares of Beneficial Interest",
+                    "symbol": "WDI",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/01/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.14,
+                    "indicated_Annual_Dividend": 1.68,
+                    "announcement_Date": "8/02/2023"
+                },
+                {
+                    "companyName": "STE TransCore Holdings Inc ADR",
+                    "symbol": "SGGKY",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/18/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.258823,
+                    "indicated_Annual_Dividend": 0.5176,
+                    "announcement_Date": "N/A"
+                },
+                {
+                    "companyName": "Sagicor Financial Company Ltd",
+                    "symbol": "SGCFF",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/13/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.05625,
+                    "indicated_Annual_Dividend": 0.225,
+                    "announcement_Date": "11/09/2023"
+                },
+                {
+                    "companyName": "Pernod Ricard S.A. (France) ADR (Sponsored)",
+                    "symbol": "PRNDY",
+                    "dividend_Ex_Date": "11/21/2023",
+                    "payment_Date": "12/27/2023",
+                    "record_Date": "11/22/2023",
+                    "dividend_Rate": 0.558888,
+                    "indicated_Annual_Dividend": 1.1178,
+                    "announcement_Date": "N/A"
+                }
+            ]
+        },
+        "timeframe": {
+            "minDate": "1922-05-22T00:00:00",
+            "maxDate": "2104-06-02T00:00:00"
+        }
+    },
+    "message": null,
+    "status": {
+        "rCode": 200,
+        "bCodeMessage": null,
+        "developerMessage": null
+    }
+}
