@@ -1,0 +1,120 @@
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+Alcoa Corporation Common Stock ,AA,5/20/2024,6/07/2024,5/21/2024,0.1,0.4,5/09/2024
+"Apogee Enterprises, Inc. Common Stock",APOG,5/20/2024,6/05/2024,5/21/2024,0.25,1.0,5/01/2024
+"Ares Dynamic Credit Allocation Fund, Inc. Common Shares",ARDC,5/20/2024,5/31/2024,5/21/2024,0.1175,1.41,5/10/2024
+Atkore Inc. Common Stock,ATKR,5/20/2024,5/31/2024,5/21/2024,0.32,1.28,5/02/2024
+"BGC Group, Inc. Class A Common Stock",BGC,5/20/2024,6/04/2024,5/21/2024,0.02,0.08,4/29/2024
+Blue Owl Capital Inc. Class A Common Stock,OWL,5/20/2024,5/30/2024,5/21/2024,0.18,0.72,5/02/2024
+Clipper Realty Inc. Common Stock,CLPR,5/20/2024,5/30/2024,5/21/2024,0.095,0.38,5/07/2024
+Crescent Energy Company Class A Common Stock,CRGY,5/20/2024,6/07/2024,5/21/2024,0.12,0.48,5/06/2024
+ENI S.p.A. Common Stock,E,5/20/2024,6/07/2024,5/21/2024,0.499284,1.9971,4/15/2024
+Ferrovial SE Ordinary Shares,FER,5/20/2024,6/21/2024,5/21/2024,0.32988152,0.659763,5/09/2024
+Global X Dow 30 Covered Call & Growth ETF,DYLG,5/20/2024,5/29/2024,5/21/2024,0.0793,0.8239,12/29/2023
+Global X Dow 30 Covered Call ETF,DJIA,5/20/2024,5/29/2024,5/21/2024,0.131,1.4308,12/29/2023
+Global X Financials Covered Call & Growth ETF,FYLG,5/20/2024,5/29/2024,5/21/2024,0.1347,1.2507,12/28/2023
+Global X Health Care Covered Call & Growth ETF,HYLG,5/20/2024,5/29/2024,5/21/2024,0.1005,1.6379,12/28/2023
+Global X Information Technology Covered Call & Growth ETF,TYLG,5/20/2024,5/29/2024,5/21/2024,0.1337,3.6359,12/28/2023
+Global X MLP & Energy Infrastructure Covered Call ETF,MLPD,5/20/2024,5/29/2024,5/21/2024,0.1756,2.1072,5/20/2024
+Global X MSCI Emerging Markets Covered Call ETF,EMCC,5/20/2024,5/29/2024,5/21/2024,0.1365,2.7517,12/28/2023
+Global X Nasdaq 100 Covered Call & Growth ETF,QYLG,5/20/2024,5/29/2024,5/21/2024,0.1392,1.6704,5/17/2024
+Global X NASDAQ 100 Covered Call ETF,QYLD,5/20/2024,5/29/2024,5/21/2024,0.1628,1.9536,5/17/2024
+Global X Nasdaq 100 ESG Covered Call ETF,QYLE,5/20/2024,5/29/2024,5/21/2024,0.2327,2.7924,5/17/2024
+Global X NASDAQ 100 Risk Managed Income ETF,QRMI,5/20/2024,5/29/2024,5/21/2024,0.1698,2.0376,5/17/2024
+Global X Russell 2000 Covered Call & Growth ETF,RYLG,5/20/2024,5/29/2024,5/21/2024,0.1364,1.5705,12/28/2023
+Global X Russell 2000 Covered Call ETF,RYLD,5/20/2024,5/29/2024,5/21/2024,0.1654,2.0374,12/28/2023
+Global X S&P 500 Covered Call & Growth ETF,XYLG,5/20/2024,5/29/2024,5/21/2024,0.1037,1.3385,12/28/2023
+Global X S&P 500 Covered Call ETF,XYLD,5/20/2024,5/29/2024,5/21/2024,0.2819,3.8823,12/28/2023
+Global X S&P 500 ESG Covered Call ETF,XYLE,5/20/2024,5/29/2024,5/21/2024,0.1666,1.7592,12/28/2023
+Global X S&P 500 Quality Dividend Covered Call ETF,QDCC,5/20/2024,5/29/2024,5/21/2024,0.1686,0.0,5/17/2024
+Global X S&P 500 Risk Managed Income ETF,XRMI,5/20/2024,5/29/2024,5/21/2024,0.1895,2.3334,12/28/2023
+High Income Securities Fund Common Stock,PCF,5/20/2024,5/31/2024,5/21/2024,0.0622,0.7464,4/03/2024
+InfraCap MLP ETF,AMZA,5/20/2024,5/28/2024,5/21/2024,0.26,2.96,1/24/2024
+Invesco BulletShares 2024 Corporate Bond ETF,BSCO,5/20/2024,5/24/2024,5/21/2024,0.06579,0.78948,5/21/2024
+Invesco BulletShares 2024 High Yield Corporate Bond ETF,BSJO,5/20/2024,5/24/2024,5/21/2024,0.11553,1.38636,5/21/2024
+Invesco BulletShares 2024 Municipal Bond ETF,BSMO,5/20/2024,5/24/2024,5/21/2024,0.05627,0.67524,5/21/2024
+Invesco BulletShares 2025 Corporate Bond ETF,BSCP,5/20/2024,5/24/2024,5/21/2024,0.06796,0.81552,5/21/2024
+Invesco BulletShares 2025 High Yield Corporate Bond ETF,BSJP,5/20/2024,5/24/2024,5/21/2024,0.10985,1.3182,5/21/2024
+Invesco BulletShares 2025 Municipal Bond ETF,BSMP,5/20/2024,5/24/2024,5/21/2024,0.05261,0.63132,5/21/2024
+Invesco BulletShares 2026 Corporate Bond ETF,BSCQ,5/20/2024,5/24/2024,5/21/2024,0.06585,0.7902,5/21/2024
+Invesco BulletShares 2026 High Yield Corporate Bond ETF,BSJQ,5/20/2024,5/24/2024,5/21/2024,0.13366,1.60392,5/21/2024
+Invesco BulletShares 2026 Municipal Bond ETF,BSMQ,5/20/2024,5/24/2024,5/21/2024,0.05361,0.64332,5/21/2024
+Invesco BulletShares 2027 Corporate Bond ETF,BSCR,5/20/2024,5/24/2024,5/21/2024,0.07052,0.84624,5/21/2024
+Invesco BulletShares 2027 High Yield Corporate Bond ETF,BSJR,5/20/2024,5/24/2024,5/21/2024,0.12902,1.54824,5/21/2024
+Invesco BulletShares 2027 Municipal Bond ETF,BSMR,5/20/2024,5/24/2024,5/21/2024,0.05584,0.67008,5/21/2024
+Invesco BulletShares 2028 Corporate Bond ETF,BSCS,5/20/2024,5/24/2024,5/21/2024,0.07843,0.94116,5/21/2024
+Invesco BulletShares 2028 High Yield Corporate Bond ETF,BSJS,5/20/2024,5/24/2024,5/21/2024,0.13455,1.6146,5/21/2024
+Invesco BulletShares 2028 Municipal Bond ETF,BSMS,5/20/2024,5/24/2024,5/21/2024,0.0571,0.6852,5/21/2024
+Invesco BulletShares 2029 Corporate Bond ETF,BSCT,5/20/2024,5/24/2024,5/21/2024,0.0725,0.87,5/21/2024
+Invesco BulletShares 2029 High Yield Corporate Bond ETF,BSJT,5/20/2024,5/24/2024,5/21/2024,0.12236,1.46832,5/21/2024
+Invesco BulletShares 2029 Municipal Bond ETF,BSMT,5/20/2024,5/24/2024,5/21/2024,0.05507,0.66084,5/21/2024
+Invesco BulletShares 2030 Corporate Bond ETF,BSCU,5/20/2024,5/24/2024,5/21/2024,0.06704,0.80448,5/21/2024
+Invesco BulletShares 2030 High Yield Corporate Bond ETF,BSJU,5/20/2024,5/24/2024,5/21/2024,0.15322,1.83864,5/21/2024
+Invesco BulletShares 2030 Municipal Bond ETF,BSMU,5/20/2024,5/24/2024,5/21/2024,0.05463,0.65556,5/21/2024
+Invesco BulletShares 2031 Corporate Bond ETF,BSCV,5/20/2024,5/24/2024,5/21/2024,0.06744,0.80928,5/21/2024
+Invesco BulletShares 2031 High Yield Corporate Bond ETF,BSJV,5/20/2024,5/24/2024,5/21/2024,0.15454,1.85448,5/21/2024
+Invesco BulletShares 2031 Municipal Bond ETF,BSMV,5/20/2024,5/24/2024,5/21/2024,0.05588,0.67056,5/21/2024
+Invesco BulletShares 2032 Corporate Bond ETF,BSCW,5/20/2024,5/24/2024,5/21/2024,0.08721,1.04652,5/21/2024
+Invesco BulletShares 2032 Municipal Bond ETF,BSMW,5/20/2024,5/24/2024,5/21/2024,0.07428,0.89136,5/21/2024
+Invesco BulletShares 2033 Corporate Bond ETF,BSCX,5/20/2024,5/24/2024,5/21/2024,0.09049,1.08588,5/21/2024
+Invesco BulletShares 2033 Municipal Bond ETF,BSSX,5/20/2024,5/24/2024,5/21/2024,0.06729,0.80748,5/21/2024
+Invesco California AMT-Free Municipal Bond ETF,PWZ,5/20/2024,5/24/2024,5/21/2024,0.0672,0.7406,1/05/2024
+Invesco CEF Income Composite ETF,PCEF,5/20/2024,5/24/2024,5/21/2024,0.14299,1.744,1/05/2024
+Invesco Emerging Markets Sovereign Debt ETF,PCY,5/20/2024,5/24/2024,5/21/2024,0.10961,1.355,1/05/2024
+Invesco Equal Weight 0-30 Year Treasury ETF,GOVI,5/20/2024,5/24/2024,5/21/2024,0.08269,0.99228,5/21/2024
+Invesco Financial Preferred ETF,PGF,5/20/2024,5/24/2024,5/21/2024,0.07019,0.9193,1/10/2024
+Invesco Fundamental High Yield Corporate Bond ETF,PHB,5/20/2024,5/24/2024,5/21/2024,0.0879,0.905,1/11/2024
+Invesco Fundamental Investment Grade Corporate Bond ETF,PFIG,5/20/2024,5/24/2024,5/21/2024,0.08068,0.8658,1/10/2024
+Invesco Global Short Term High Yield Bond ETF,PGHY,5/20/2024,5/24/2024,5/21/2024,0.11791,1.6001,1/11/2024
+Invesco High Yield Bond Factor ETF,IHYF,5/20/2024,5/24/2024,5/21/2024,0.12349,1.48188,5/21/2024
+Invesco High Yield Equity Dividend Achievers ETF,PEY,5/20/2024,5/24/2024,5/21/2024,0.07567,0.90804,5/21/2024
+Invesco International Corporate Bond ETF,PICB,5/20/2024,5/24/2024,5/21/2024,0.05632,0.5724,1/11/2024
+Invesco Investment Grade Defensive ETF,IIGD,5/20/2024,5/24/2024,5/21/2024,0.07651,0.9586,1/11/2024
+Invesco KBW High Dividend Yield Financial ETF,KBWD,5/20/2024,5/24/2024,5/21/2024,0.15485,1.8582,5/21/2024
+Invesco KBW Premium Yield Equity REIT ETF,KBWY,5/20/2024,5/24/2024,5/21/2024,0.13197,1.58364,5/21/2024
+Invesco National AMT-Free Municipal Bond ETF,PZA,5/20/2024,5/24/2024,5/21/2024,0.06364,0.72,1/05/2024
+Invesco New York AMT-Free Municipal Bond ETF,PZT,5/20/2024,5/24/2024,5/21/2024,0.05269,0.6552,1/05/2024
+Invesco Preferred ETF,PGX,5/20/2024,5/24/2024,5/21/2024,0.05541,0.7233,1/11/2024
+Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,XRLV,5/20/2024,5/24/2024,5/21/2024,0.08426,1.2194,1/10/2024
+Invesco S&P 500 High Dividend Growers ETF,DIVG,5/20/2024,5/24/2024,5/21/2024,0.10122,1.1384,2/17/2024
+Invesco S&P 500 High Dividend Low Volatility ETF,SPHD,5/20/2024,5/24/2024,5/21/2024,0.13625,1.8799,1/05/2024
+Invesco S&P 500 Low Volatility ETF,SPLV,5/20/2024,5/24/2024,5/21/2024,0.11028,1.524,1/05/2024
+Invesco Senior Loan ETF,BKLN,5/20/2024,5/24/2024,5/21/2024,0.15679,1.8449,1/05/2024
+Invesco Taxable Municipal Bond ETF,BAB,5/20/2024,5/24/2024,5/21/2024,0.0899,1.003,1/05/2024
+Invesco Total Return Bond ETF,GTO,5/20/2024,5/24/2024,5/21/2024,0.18189,1.9694,1/10/2024
+Invesco Treasury Collateral ETF,TBLL,5/20/2024,5/24/2024,5/21/2024,0.4376,5.2316,1/05/2024
+Invesco Ultra Short Duration ETF,GSY,5/20/2024,5/24/2024,5/21/2024,0.22827,2.6775,1/10/2024
+Invesco Variable Rate Investment Grade ETF,VRIG,5/20/2024,5/24/2024,5/21/2024,0.12668,1.52016,5/21/2024
+Invesco Variable Rate Preferred ETF,VRP,5/20/2024,5/24/2024,5/21/2024,0.10211,1.4939,1/10/2024
+Invesco VRDO Tax-Free ETF,PVI,5/20/2024,5/24/2024,5/21/2024,0.06241,0.8439,1/11/2024
+Johnson & Johnson Common Stock,JNJ,5/20/2024,6/04/2024,5/21/2024,1.24,4.96,4/16/2024
+Logan Ridge Finance Corporation Common Stock,LRFC,5/20/2024,5/31/2024,5/21/2024,0.33,1.32,5/08/2024
+LPL Financial Holdings Inc. Common Stock,LPLA,5/20/2024,6/04/2024,5/21/2024,0.3,1.2,4/26/2024
+Mexco Energy Corporation Common Stock,MXC,5/20/2024,6/04/2024,5/21/2024,0.1,0.0,4/30/2024
+Natural Resource Partners LP Limited Partnership,NRP,5/20/2024,5/28/2024,5/21/2024,0.75,3.0,5/07/2024
+Nordson Corporation Common Stock,NDSN,5/20/2024,6/04/2024,5/21/2024,0.68,2.72,5/09/2024
+Nuvei Corporation Subordinate Voting Shares,NVEI,5/20/2024,6/06/2024,5/21/2024,0.1,0.4,5/07/2024
+"OFS Credit Company, Inc. 5.25% Series E Term Preferred Stock Due 2026",OCCIN,5/20/2024,5/31/2024,5/21/2024,0.109375,1.3125,2/01/2024
+"OFS Credit Company, Inc. 6.125% Series C Term Preferred Stock",OCCIO,5/20/2024,5/31/2024,5/21/2024,0.1276042,1.53125,2/01/2024
+"OFS Credit Company, Inc. Common Stock",OCCI,5/20/2024,5/31/2024,5/21/2024,0.105,1.26,5/01/2024
+Pan American Silver Corp. Common Stock,PAAS,5/20/2024,6/03/2024,5/21/2024,0.1,0.4,5/08/2024
+Permian Resources Corporation Class A Common Stock,PR,5/20/2024,5/29/2024,5/21/2024,0.2,0.25,5/07/2024
+Portman Ridge Finance Corporation Common Stock,PTMN,5/20/2024,5/31/2024,5/21/2024,0.69,2.76,5/08/2024
+"Primerica, Inc. Common Stock",PRI,5/20/2024,6/12/2024,5/21/2024,0.75,3.0,5/06/2024
+"Prudential Financial, Inc. Common Stock",PRU,5/20/2024,6/13/2024,5/21/2024,1.3,5.2,5/07/2024
+Sitio Royalties Corp. Class A Common Stock,STR,5/20/2024,5/31/2024,5/21/2024,0.41,1.64,5/08/2024
+"Skyworks Solutions, Inc. Common Stock",SWKS,5/20/2024,6/11/2024,5/21/2024,0.68,2.72,4/30/2024
+"Special Opportunities Fund, Inc Common Stock",SPE,5/20/2024,5/31/2024,5/21/2024,0.0954,1.1448,4/05/2024
+Sprott Inc. Common Shares,SII,5/20/2024,6/05/2024,5/21/2024,0.25,1.0,5/07/2024
+TechnipFMC plc Ordinary Share,FTI,5/20/2024,6/05/2024,5/21/2024,0.05,0.2,4/23/2024
+Teekay Tankers Ltd.,TNK,5/20/2024,5/31/2024,5/21/2024,0.25,1.0,5/09/2024
+Teekay Tankers Ltd.,TNK,5/20/2024,5/31/2024,5/21/2024,2.0,1.0,5/09/2024
+Tenaris S.A. American Depositary Shares,TS,5/20/2024,5/22/2024,5/21/2024,0.8,1.6,2/21/2024
+Virtus InfraCap U.S. Preferred Stock ETF,PFFA,5/20/2024,5/28/2024,5/21/2024,0.1675,1.99,1/24/2024
+Virtus Newfleet ABS/MBS ETF,VABS,5/20/2024,5/28/2024,5/21/2024,0.0881,1.0249,1/24/2024
+Virtus Newfleet High Yield Bond ETF,VSHY,5/20/2024,5/28/2024,5/21/2024,0.1194,1.5789,1/25/2024
+Virtus Newfleet Multi-Sector Bond ETF,NFLT,5/20/2024,5/28/2024,5/21/2024,0.1027,1.3444,5/17/2024
+Virtus Newfleet Short Duration Core Plus Bond ETF,SDCP,5/20/2024,5/28/2024,5/21/2024,0.103,1.2165,1/24/2024
+Virtus Seix Senior Loan ETF,SEIX,5/20/2024,5/28/2024,5/21/2024,0.1553,2.1857,1/24/2024
+Virtus Stone Harbor Emerging Markets High Yield Bond ETF,VEMY,5/20/2024,5/28/2024,5/21/2024,0.162,2.1858,1/25/2024
+"Walgreens Boots Alliance, Inc. Common Stock",WBA,5/20/2024,6/12/2024,5/21/2024,0.25,1.0,4/25/2024
+Westlake Corporation Common Stock,WLK,5/20/2024,6/06/2024,5/21/2024,0.5,2.0,5/10/2024

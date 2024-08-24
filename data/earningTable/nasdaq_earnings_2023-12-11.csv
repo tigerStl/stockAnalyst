@@ -1,54 +1,54 @@
-,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts
-0,N/A,$0.95,time-after-hours,ORCL,Oracle Corporation,"$320,997,428,360",Nov/2023,$1.05,1
-1,12/06/2022,$3.67,time-after-hours,CASY,"Caseys General Stores, Inc.","$10,297,144,193",Oct/2023,$3.65,5
-2,N/A,($3.44),time-not-supplied,KEP,Korea Electric Power Corporation,"$9,488,229,058",Sep/2023,,1
-3,11/14/2022,$0.46,time-not-supplied,KT,KT Corporation,"$6,631,505,360",Sep/2023,,N/A
-4,N/A,($0.67),time-after-hours,BLBD,Blue Bird Corporation,"$630,068,048",Sep/2023,$0.46,1
-5,N/A,$0.08,time-not-supplied,LANV,Lanvin Group Holdings Limited,"$429,585,109",Sep/2023,,1
-6,N/A,$0.46,time-not-supplied,VALU,"Value Line, Inc.","$418,697,150",Oct/2023,,1
-7,N/A,$0.78,time-after-hours,ODC,Oil-Dri Corporation Of America,"$407,632,344",Oct/2023,,1
-8,N/A,($0.37),time-not-supplied,QD,Qudian Inc.,"$380,883,974",Sep/2023,,1
-9,N/A,($0.01),time-not-supplied,VZLA,Vizsla Silver Corp.,"$257,850,335",Oct/2023,($0.01),1
-10,N/A,N/A,time-not-supplied,MRDB,MariaDB plc,"$239,598,286",Sep/2023,,1
-11,N/A,($0.03),time-not-supplied,SHAP,Spree Acquisition Corp. 1 Limited,"$227,679,922",Sep/2023,,1
-12,N/A,($0.05),time-not-supplied,LATG,Chenghe Acquisition I Co.,"$179,562,500",Sep/2023,,1
-13,12/12/2022,$0.03,time-not-supplied,MAMA,"Mama's Creations, Inc.","$151,645,717",Oct/2023,$0.04,1
-14,11/14/2022,($0.38),time-not-supplied,ATNM,"Actinium Pharmaceuticals, Inc.","$138,163,742",Sep/2023,($0.54),3
-15,N/A,($0.08),time-not-supplied,OPA,Magnum Opus Acquisition Limited,"$124,067,751",Sep/2023,,1
-16,12/29/2022,N/A,time-not-supplied,OTLK,"Outlook Therapeutics, Inc.","$123,043,844",Sep/2023,($0.06),3
-17,12/12/2022,$0.48,time-not-supplied,VIRC,Virco Manufacturing Corporation,"$113,532,095",Oct/2023,$0.39,1
-18,N/A,$0.07,time-not-supplied,SJ,Scienjoy Holding Corporation,"$102,112,220",Sep/2023,,1
-19,N/A,$0.68,time-not-supplied,AXR,AMREP Corporation,"$91,615,350",Oct/2023,,1
-20,12/12/2022,$0.43,time-not-supplied,OCCI,"OFS Credit Company, Inc.","$75,971,975",Oct/2023,,N/A
-21,N/A,N/A,time-not-supplied,IRAA,Iris Acquisition Corp,"$75,477,270",Sep/2023,,1
-22,1/10/2023,($0.09),time-after-hours,NOTV,"Inotiv, Inc.","$75,285,606",Sep/2023,$0.11,1
-23,N/A,($0.18),time-not-supplied,ENZ,"Enzo Biochem, Inc.","$64,122,009",Oct/2023,,1
-24,N/A,$0.22,time-not-supplied,YS,"YS Biopharma Co., Ltd.","$49,330,151",Sep/2023,,1
-25,N/A,$0.02,time-not-supplied,NSTS,"NSTS Bancorp, Inc.","$47,731,043",Sep/2023,,1
-26,N/A,N/A,time-not-supplied,LIBY,Liberty Resources Acquisition Corp.,"$47,224,049",Sep/2023,,1
-27,N/A,($0.05),time-not-supplied,MMV,MultiMetaVerse Holdings Limited,"$43,624,561",Sep/2023,,1
-28,N/A,($99.99),time-not-supplied,XELA,"Exela Technologies, Inc.","$23,042,577",Sep/2023,,1
-29,N/A,$0.08,time-not-supplied,TAIT,Taitron Components Incorporated,"$20,231,164",Sep/2023,,1
-30,N/A,$0.25,time-not-supplied,TRKA,"Troika Media Group, Inc.","$20,178,882",Sep/2023,,1
-31,11/14/2022,($0.24),time-not-supplied,EVAX,Evaxion Biotech A/S,"$19,794,318",Sep/2023,,N/A
-32,11/14/2022,($0.49),time-not-supplied,MBOT,Microbot Medical Inc. ,"$15,102,438",Sep/2023,($0.25),1
-33,N/A,($1.60),time-not-supplied,BIMI,BIMI International Medical Inc.,"$13,113,242",Sep/2023,,1
-34,N/A,($0.01),time-not-supplied,MSN,Emerson Radio Corporation,"$11,577,667",Sep/2023,,1
-35,N/A,N/A,time-not-supplied,NIR,"Near Intelligence, Inc.","$10,938,998",Sep/2023,,1
-36,N/A,N/A,time-not-supplied,TPET,Trio Petroleum Corp.,"$9,917,283",Oct/2023,,1
-37,11/14/2022,($0.04),time-not-supplied,AIRI,Air Industries Group,"$9,573,396",Sep/2023,($0.16),1
-38,11/14/2022,($1.13),time-not-supplied,CSSE,"Chicken Soup for the Soul Entertainment, Inc.","$8,379,067",Sep/2023,($1.21),1
-39,N/A,($7.60),time-not-supplied,FUV,"Arcimoto, Inc.","$8,179,797",Sep/2023,,1
-40,11/07/2022,($0.90),time-not-supplied,MEDS,"TRxADE HEALTH, Inc.","$7,445,598",Sep/2023,,N/A
-41,N/A,($0.45),time-not-supplied,ALZN,"Alzamend Neuro, Inc.","$7,242,653",Oct/2023,,1
-42,N/A,$0.01,time-not-supplied,MI,NFT Limited,"$6,431,508",Sep/2023,,1
-43,N/A,($1.04),time-not-supplied,XCUR,"Exicure, Inc.","$4,065,569",Sep/2023,,1
-44,11/21/2022,$0.43,time-not-supplied,STAF,"Staffing 360 Solutions, Inc.","$3,920,156",Sep/2023,($0.31),1
-45,N/A,$0.04,time-not-supplied,NCPL,Netcapital Inc.,"$3,311,380",Oct/2023,,1
-46,11/14/2022,($0.90),time-not-supplied,WTER,The Alkaline Water Company Inc.,"$3,155,425",Sep/2023,,N/A
-47,11/14/2022,($3.86),time-not-supplied,VTAK,"Catheter Precision, Inc.","$2,662,366",Sep/2023,,N/A
-48,N/A,$67,time-not-supplied,FOXO,FOXO Technologies Inc.,"$2,616,304",Sep/2023,,1
-49,N/A,N/A,time-not-supplied,SONN,"Sonnet BioTherapeutics Holdings, Inc.","$2,538,401",Sep/2023,,1
-50,N/A,($0.66),time-not-supplied,JAN,JanOne Inc.,"$2,121,872",Sep/2023,,1
-51,N/A,($1.80),time-not-supplied,IONM,Assure Holdings Corp.,"$1,838,604",Sep/2023,,1
-52,N/A,N/A,time-not-supplied,NVNI,Nvni Group Limited,,Sep/2023,,1
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,N/A,$0.95,time-after-hours,ORCL,Oracle Corporation,"$320,997,428,360",Nov/2023,$1.05,1,,,2023-12-11,,0,1.05
+1,12/06/2022,$3.67,time-after-hours,CASY,"Caseys General Stores, Inc.","$10,322,112,839",Oct/2023,$3.65,5,,,2023-12-11,,0,3.65
+2,N/A,($3.44),time-not-supplied,KEP,Korea Electric Power Corporation,"$9,488,229,058",Sep/2023,,1,,,2023-12-11,,0,
+3,11/14/2022,$0.46,time-not-supplied,KT,KT Corporation,"$6,631,505,360",Sep/2023,,N/A,,,2023-12-11,,0,
+4,N/A,($0.67),time-after-hours,BLBD,Blue Bird Corporation,"$629,425,121",Sep/2023,$0.46,1,,,2023-12-11,,0,0.46
+5,N/A,$0.08,time-not-supplied,LANV,Lanvin Group Holdings Limited,"$429,585,109",Sep/2023,,1,,,2023-12-11,,0,
+6,N/A,$0.46,time-not-supplied,VALU,"Value Line, Inc.","$418,697,150",Oct/2023,,1,,,2023-12-11,,0,
+7,N/A,$0.78,time-after-hours,ODC,Oil-Dri Corporation Of America,"$404,065,560",Oct/2023,,1,,,2023-12-11,,0,
+8,N/A,($0.37),time-not-supplied,QD,Qudian Inc.,"$380,883,974",Sep/2023,,1,,,2023-12-11,,0,
+9,N/A,($0.01),time-not-supplied,VZLA,Vizsla Silver Corp.,"$257,850,335",Oct/2023,($0.01),1,,,2023-12-11,,0,-0.01
+10,N/A,N/A,time-not-supplied,MRDB,MariaDB plc,"$239,598,286",Sep/2023,,1,,,2023-12-11,,0,
+11,N/A,($0.03),time-not-supplied,SHAP,Spree Acquisition Corp. 1 Limited,"$227,679,922",Sep/2023,,1,,,2023-12-11,,0,
+12,N/A,($0.05),time-not-supplied,LATG,Chenghe Acquisition I Co.,"$178,750,000",Sep/2023,,1,,,2023-12-11,,0,
+13,11/14/2022,($0.38),time-not-supplied,ATNM,"Actinium Pharmaceuticals, Inc.","$152,418,731",Sep/2023,($0.54),3,,,2023-12-11,,0,-0.54
+14,12/12/2022,$0.03,time-not-supplied,MAMA,"Mama's Creations, Inc.","$147,152,510",Oct/2023,$0.04,1,,,2023-12-11,,0,0.04
+15,N/A,($0.08),time-not-supplied,OPA,Magnum Opus Acquisition Limited,"$124,067,751",Sep/2023,,1,,,2023-12-11,,0,
+16,12/12/2022,$0.48,time-not-supplied,VIRC,Virco Manufacturing Corporation,"$119,825,811",Oct/2023,$0.39,1,,,2023-12-11,,0,0.39
+17,12/29/2022,N/A,time-not-supplied,OTLK,"Outlook Therapeutics, Inc.","$113,675,023",Sep/2023,($0.06),3,,,2023-12-11,,0,-0.06
+18,N/A,$0.07,time-not-supplied,SJ,Scienjoy Holding Corporation,"$102,112,220",Sep/2023,,1,,,2023-12-11,,0,
+19,N/A,$0.68,time-not-supplied,AXR,AMREP Corporation,"$98,512,858",Oct/2023,,1,,,2023-12-11,,0,
+20,12/12/2022,$0.43,time-not-supplied,OCCI,"OFS Credit Company, Inc.","$75,507,315",Oct/2023,,N/A,,,2023-12-11,,0,
+21,N/A,N/A,time-not-supplied,IRAA,Iris Acquisition Corp,"$75,477,270",Sep/2023,,1,,,2023-12-11,,0,
+22,1/10/2023,($0.09),time-after-hours,NOTV,"Inotiv, Inc.","$72,707,332",Sep/2023,$0.11,1,,,2023-12-11,,0,0.11
+23,N/A,($0.18),time-not-supplied,ENZ,"Enzo Biochem, Inc.","$63,617,111",Oct/2023,,1,,,2023-12-11,,0,
+24,N/A,$0.22,time-not-supplied,YS,"YS Biopharma Co., Ltd.","$50,195,593",Sep/2023,,1,,,2023-12-11,,0,
+25,N/A,$0.02,time-not-supplied,NSTS,"NSTS Bancorp, Inc.","$47,943,654",Sep/2023,,1,,,2023-12-11,,0,
+26,N/A,N/A,time-not-supplied,LIBY,Liberty Resources Acquisition Corp.,"$47,137,320",Sep/2023,,1,,,2023-12-11,,0,
+27,N/A,($0.05),time-not-supplied,MMV,MultiMetaVerse Holdings Limited,"$40,980,648",Sep/2023,,1,,,2023-12-11,,0,
+28,N/A,($99.99),time-not-supplied,XELA,"Exela Technologies, Inc.","$24,570,262",Sep/2023,,1,,,2023-12-11,,0,
+29,N/A,$0.25,time-not-supplied,TRKA,"Troika Media Group, Inc.","$24,181,304",Sep/2023,,1,,,2023-12-11,,0,
+30,N/A,$0.08,time-not-supplied,TAIT,Taitron Components Incorporated,"$20,502,117",Sep/2023,,1,,,2023-12-11,,0,
+31,11/14/2022,($0.24),time-not-supplied,EVAX,Evaxion Biotech A/S,"$19,791,904",Sep/2023,,N/A,,,2023-12-11,,0,
+32,11/14/2022,($0.49),time-not-supplied,MBOT,Microbot Medical Inc. ,"$14,985,365",Sep/2023,($0.25),1,,,2023-12-11,,0,-0.25
+33,N/A,($1.60),time-not-supplied,BIMI,BIMI International Medical Inc.,"$13,640,407",Sep/2023,,1,,,2023-12-11,,0,
+34,N/A,($0.01),time-not-supplied,MSN,Emerson Radio Corporation,"$11,752,321",Sep/2023,,1,,,2023-12-11,,0,
+35,N/A,N/A,time-not-supplied,NIR,"Near Intelligence, Inc.","$11,590,992",Sep/2023,,1,,,2023-12-11,,0,
+36,N/A,N/A,time-not-supplied,TPET,Trio Petroleum Corp.,"$9,923,207",Oct/2023,,1,,,2023-12-11,,0,
+37,11/14/2022,($0.04),time-not-supplied,AIRI,Air Industries Group,"$9,783,945",Sep/2023,($0.16),1,,,2023-12-11,,0,-0.16
+38,11/14/2022,($1.13),time-not-supplied,CSSE,"Chicken Soup for the Soul Entertainment, Inc.","$8,925,119",Sep/2023,($1.21),1,,,2023-12-11,,0,-1.21
+39,11/07/2022,($0.90),time-not-supplied,MEDS,"TRxADE HEALTH, Inc.","$7,732,323",Sep/2023,,N/A,,,2023-12-11,,0,
+40,N/A,($7.60),time-not-supplied,FUV,"Arcimoto, Inc.","$7,396,953",Sep/2023,,1,,,2023-12-11,,0,
+41,N/A,($0.45),time-not-supplied,ALZN,"Alzamend Neuro, Inc.","$6,660,654",Oct/2023,,1,,,2023-12-11,,0,
+42,N/A,$0.01,time-not-supplied,MI,NFT Limited,"$6,123,580",Sep/2023,,1,,,2023-12-11,,0,
+43,11/21/2022,$0.43,time-not-supplied,STAF,"Staffing 360 Solutions, Inc.","$3,835,785",Sep/2023,($0.31),1,,,2023-12-11,,0,-0.31
+44,N/A,($1.04),time-not-supplied,XCUR,"Exicure, Inc.","$3,459,322",Sep/2023,,1,,,2023-12-11,,0,
+45,N/A,$0.04,time-not-supplied,NCPL,Netcapital Inc.,"$3,303,833",Oct/2023,,1,,,2023-12-11,,0,
+46,11/14/2022,($0.90),time-not-supplied,WTER,The Alkaline Water Company Inc.,"$3,268,741",Sep/2023,,N/A,,,2023-12-11,,0,
+47,N/A,N/A,time-not-supplied,SONN,"Sonnet BioTherapeutics Holdings, Inc.","$2,835,811",Sep/2023,,1,,,2023-12-11,,0,
+48,11/14/2022,($3.86),time-not-supplied,VTAK,"Catheter Precision, Inc.","$2,597,954",Sep/2023,,N/A,,,2023-12-11,,0,
+49,N/A,($0.66),time-not-supplied,JAN,JanOne Inc.,"$2,439,162",Sep/2023,,1,,,2023-12-11,,0,
+50,N/A,$67,time-not-supplied,FOXO,FOXO Technologies Inc.,"$2,208,826",Sep/2023,,1,,,2023-12-11,,0,
+51,N/A,($1.80),time-not-supplied,IONM,Assure Holdings Corp.,"$1,572,926",Sep/2023,,1,,,2023-12-11,,0,
+52,N/A,N/A,time-not-supplied,NVNI,Nvni Group Limited,,Sep/2023,,1,,,2023-12-11,,0,

@@ -1,1 +1,5 @@
-
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+Lakeland Financial Corporation Common Stock,LKFN,1/24/2024,2/05/2024,1/25/2024,0.48,1.84,1/09/2024
+VSE Corporation Common Stock,VSEC,1/24/2024,2/08/2024,1/25/2024,0.1,0.4,1/11/2024
+"Greenbrier Companies, Inc. (The) Common Stock",GBX,1/24/2024,2/15/2024,1/25/2024,0.3,1.2,1/05/2024
+Acerinox ADR,ANIOY,1/24/2024,2/12/2024,1/25/2024,0.121875,0.4875,N/A

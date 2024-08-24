@@ -1,1 +1,4 @@
-
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+ABB Ltd.,ABBNY,3/25/2024,1/01/0001,3/26/2024,0.964851,0.9649,N/A
+Givaudan SA ADR,GVDNY,3/25/2024,4/11/2024,3/26/2024,0.974476,0.9745,N/A
+Valmet Corporation ADR,VLMTY,3/25/2024,4/26/2024,3/26/2024,0.7330196,1.4228,N/A

@@ -1,8 +1,12 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
 Elme Communities Common Stock,ELME,12/20/2023,1/04/2024,12/21/2023,0.18,0.72,10/26/2023
+H World Group Limited American Depositary Shares,HTHT,12/20/2023,1/17/2024,12/21/2023,0.93,0.0,11/29/2023
 "Kulicke and Soffa Industries, Inc. Common Stock",KLIC,12/20/2023,1/09/2024,12/21/2023,0.2,0.76,11/15/2023
 Seagate Technology Holdings PLC Ordinary Shares (Ireland),STX,12/20/2023,1/09/2024,12/21/2023,0.7,2.8,10/26/2023
+"Smith & Wesson Brands, Inc. Common Stock",SWBI,12/20/2023,1/04/2024,12/21/2023,0.12,0.48,12/07/2023
 Turkcell Iletisim Hizmetleri AS Common Stock,TKC,12/20/2023,12/29/2023,12/21/2023,0.095258,0.0953,8/09/2023
+"Caleres, Inc. Common Stock",CAL,12/20/2023,1/05/2024,12/21/2023,0.07,0.28,12/07/2023
+"Altria Group, Inc.",MO,12/20/2023,1/10/2024,12/21/2023,0.98,3.92,12/06/2023
 Elme Communities Common Stock,ELME,12/20/2023,1/04/2024,12/21/2023,0.18,0.72,10/26/2023
 Southwest Airlines Company Common Stock,LUV,12/20/2023,1/11/2024,12/21/2023,0.18,0.72,11/16/2023
 Western Asset Investment Grade Income Fund Inc.,PAI,12/20/2023,12/29/2023,12/21/2023,0.0485,0.582,11/21/2023
@@ -11,6 +15,7 @@ Western Asset Intermediate Muni Fund Inc Common Stock,SBI,12/20/2023,12/29/2023,
 "Western Asset Managed Municipals Fund, Inc. Common Stock",MMU,12/20/2023,12/29/2023,12/21/2023,0.0415,0.498,11/14/2023
 "Western Asset High Income Opportunity Fund, Inc. Common Stock",HIO,12/20/2023,12/29/2023,12/21/2023,0.0355,0.426,11/14/2023
 Western Asset High Income Fund II Inc. Common Stock,HIX,12/20/2023,12/29/2023,12/21/2023,0.049,0.588,11/14/2023
+Korn Ferry Common Stock,KFY,12/20/2023,1/12/2024,12/21/2023,0.33,1.32,12/05/2023
 Turkcell Iletisim Hizmetleri AS Common Stock,TKC,12/20/2023,12/29/2023,12/21/2023,0.095258,0.0953,8/09/2023
 Western Asset Bond Fund Share of Beneficial Interest,WEA,12/20/2023,12/29/2023,12/21/2023,0.07,0.84,11/21/2023
 Western Asset Global High Income Fund Inc Common Stock,EHI,12/20/2023,12/29/2023,12/21/2023,0.067,0.804,11/14/2023
@@ -18,15 +23,29 @@ Western Asset Inflation-Linked Income Fund,WIA,12/20/2023,12/29/2023,12/21/2023,
 E-mini S&P MidCap 400 Futures ,EMD,12/20/2023,12/29/2023,12/21/2023,0.0845,1.014,11/14/2023
 LMP Capital and Income Fund Inc. Common Stock,SCD,12/20/2023,12/29/2023,12/21/2023,0.113,1.356,11/14/2023
 Western Asset Inflation-Linked Opportunities & Income Fund,WIW,12/20/2023,12/29/2023,12/21/2023,0.0605,0.726,11/21/2023
+Philip Morris International Inc Common Stock,PM,12/20/2023,1/10/2024,12/21/2023,1.3,5.2,12/07/2023
 Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock,IGI,12/20/2023,12/29/2023,12/21/2023,0.0695,0.834,11/14/2023
 Western Asset Global Corporate Defined Opportunity Fund Inc.,GDO,12/20/2023,12/29/2023,12/21/2023,0.102,1.224,11/14/2023
 Western Asset Mortgage Opportunity Fund Inc. Common Stock,DMO,12/20/2023,12/29/2023,12/21/2023,0.12,1.44,11/14/2023
 Western Asset High Yield Defined Opportunity Fund Inc. Common Stock,HYI,12/20/2023,12/29/2023,12/21/2023,0.095,1.14,11/14/2023
+Marriott Vacations Worldwide Corporation Common Stock,VAC,12/20/2023,1/04/2024,12/21/2023,0.76,3.04,12/07/2023
 BrandywineGLOBAL Global Income Opportunities Fund Inc.,BWG,12/20/2023,12/29/2023,12/21/2023,0.08,0.9877,11/14/2023
+Synovus Financial Corp. Common Stock,SNV,12/20/2023,1/02/2024,12/21/2023,0.38,1.52,12/01/2023
+"Overseas Shipholding Group, Inc. Class A Common Stock",OSG,12/20/2023,1/04/2024,12/21/2023,0.06,0.06,12/06/2023
 Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,BABA,12/20/2023,1/18/2024,12/21/2023,1.0,1.0,11/16/2023
 Restaurant Brands International Inc. Common Shares,QSR,12/20/2023,1/04/2024,12/21/2023,0.55,2.2,11/03/2023
+VICI Properties Inc. Common Stock,VICI,12/20/2023,1/04/2024,12/21/2023,0.415,1.66,12/07/2023
+Carrier Global Corporation Common Stock ,CARR,12/20/2023,2/09/2024,12/21/2023,0.19,0.76,12/06/2023
 Western Asset Diversified Income Fund Common Shares of Beneficial Interest,WDI,12/20/2023,12/29/2023,12/21/2023,0.143,1.716,11/14/2023
+FS Credit Opportunities Corp. Common Stock,FSCO,12/20/2023,12/29/2023,12/21/2023,0.057,0.684,12/08/2023
+MBT Bancshares Inc,MBKL,12/20/2023,1/02/2024,12/21/2023,0.5,2.0,11/28/2023
+Mills Music Trust Unit,MMTRS,12/20/2023,12/22/2023,12/21/2023,0.640576,2.5623,12/08/2023
 Restaurant Brands International Limited Partnership Unit,RSTRF,12/20/2023,1/04/2024,12/21/2023,0.55,2.2,11/03/2023
+HKBN Ltd. ADR,HKBNY,12/20/2023,1/23/2024,12/21/2023,0.217917,0.4358,N/A
 Alibaba Group Holding Ltd,BABAF,12/20/2023,1/11/2024,12/21/2023,0.125,0.125,N/A
 Sodexo ADR,SDXAY,12/20/2023,1/01/0001,12/21/2023,0.66557,0.6656,N/A
+Beaver Coal Ltd,BVERS,12/20/2023,12/21/2023,12/21/2023,115.0,460.0,12/11/2023
+Promotora Y Operadora De Infraestructura S.A. ADR,PUODY,12/20/2023,1/03/2024,12/21/2023,2.75835,10.4501,N/A
 Southern Realty Co.,SRLY,12/20/2023,1/02/2024,12/21/2023,3.0,0.0,11/14/2023
+Colruyt Group N.V. ADR,CUYTY,12/20/2023,1/08/2024,12/21/2023,0.166813,0.1668,N/A
+PRIO S.A ADR,PTRRY,12/20/2023,1/09/2024,12/21/2023,0.0117854,0.0118,N/A

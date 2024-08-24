@@ -1,8 +1,8 @@
-,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts
-0,11/03/2022,$0.99,time-pre-market,JCI,Johnson Controls International plc,"$36,662,446,632",Sep/2023,$1.09,7
-1,12/13/2022,$0.60,time-not-supplied,PLAB,"Photronics, Inc.","$1,325,402,587",Oct/2023,$0.53,1
-2,12/13/2022,($0.14),time-not-supplied,EPIX,ESSA Pharma Inc.,"$237,703,516",Sep/2023,($0.22),4
-3,12/13/2022,N/A,time-not-supplied,CSBR,"Champions Oncology, Inc.","$71,439,839",Oct/2023,($0.17),1
-4,N/A,($0.22),time-not-supplied,RFL,"Rafael Holdings, Inc.","$44,847,142",Oct/2023,,1
-5,N/A,($0.23),time-not-supplied,LPTV,"Loop Media, Inc.","$29,092,799",Sep/2023,($0.13),1
-6,N/A,($0.01),time-not-supplied,ZDGE,"Zedge, Inc.","$25,838,231",Oct/2023,,1
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,11/03/2022,$0.99,time-pre-market,JCI,Johnson Controls International plc,"$36,662,446,632",Sep/2023,$1.09,7,,,2023-12-12,,0,1.09
+1,12/13/2022,$0.60,time-not-supplied,PLAB,"Photronics, Inc.","$1,311,016,434",Oct/2023,$0.53,1,,,2023-12-12,,0,0.53
+2,12/13/2022,($0.14),time-not-supplied,EPIX,ESSA Pharma Inc.,"$236,380,491",Sep/2023,($0.22),4,,,2023-12-12,,0,-0.22
+3,12/13/2022,N/A,time-not-supplied,CSBR,"Champions Oncology, Inc.","$70,765,878",Oct/2023,($0.17),1,,,2023-12-12,,0,-0.17
+4,N/A,($0.22),time-not-supplied,RFL,"Rafael Holdings, Inc.","$44,847,142",Oct/2023,,1,,,2023-12-12,,0,
+5,N/A,($0.23),time-not-supplied,LPTV,"Loop Media, Inc.","$36,122,570",Sep/2023,($0.13),1,,,2023-12-12,,0,-0.13
+6,N/A,($0.01),time-not-supplied,ZDGE,"Zedge, Inc.","$28,709,146",Oct/2023,,1,,,2023-12-12,,0,

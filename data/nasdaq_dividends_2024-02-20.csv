@@ -1,5 +1,8 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
 AFLAC Incorporated Common Stock,AFL,2/20/2024,3/01/2024,2/21/2024,0.5,1.68,11/01/2023
+Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,USOI,2/20/2024,2/26/2024,2/21/2024,1.5445,10.11,2/07/2024
+"Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",GLDI,2/20/2024,2/26/2024,2/21/2024,0.8643,12.2592,2/07/2024
+"Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",SLVO,2/20/2024,2/26/2024,2/21/2024,0.4387,6.234,2/07/2024
 Gladstone Capital Corporation Common Stock,GLAD,2/20/2024,2/29/2024,2/21/2024,0.0825,0.99,1/09/2024
 "Gladstone Commercial Corporation 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share",GOODO,2/20/2024,2/29/2024,2/21/2024,0.125,1.5,1/09/2024
 Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock,GOODN,2/20/2024,2/29/2024,2/21/2024,0.138021,1.656252,1/09/2024
@@ -8,7 +11,66 @@ Gladstone Investment Corporation Business Development Company,GAIN,2/20/2024,2/2
 Gladstone Land Corporation 5.00% Series D Cumulative Term Preferred Stock,LANDM,2/20/2024,2/29/2024,2/21/2024,0.104167,1.250004,1/09/2024
 Gladstone Land Corporation 6.00% Series B Cumulative Redeemable Preferred Stock,LANDO,2/20/2024,2/29/2024,2/21/2024,0.125,1.5,1/09/2024
 Gladstone Land Corporation 6.00% Series C Cumulative Redeemable Preferred Stock,LANDP,2/20/2024,2/29/2024,2/21/2024,0.125,1.5,1/09/2024
-Gladstone Land Corporation Common Stock,LAND,2/20/2024,2/29/2024,2/21/2024,0.0465,0.5568,1/09/2024
+Gladstone Land Corporation Common Stock,LAND,2/20/2024,2/29/2024,2/21/2024,0.0465,0.558,1/09/2024
+Global X Nasdaq 100 Covered Call & Growth ETF,QYLG,2/20/2024,2/28/2024,2/21/2024,0.1507,1.7952,2/16/2024
+Global X NASDAQ 100 Covered Call ETF,QYLD,2/20/2024,2/28/2024,2/21/2024,0.1772,2.148,2/16/2024
+Global X Nasdaq 100 ESG Covered Call ETF,QYLE,2/20/2024,2/28/2024,2/21/2024,0.2528,3.1608,2/16/2024
+Global X NASDAQ 100 Risk Managed Income ETF,QRMI,2/20/2024,2/28/2024,2/21/2024,0.173,2.1096,2/16/2024
+Invesco BulletShares 2024 Corporate Bond ETF,BSCO,2/20/2024,2/23/2024,2/21/2024,0.05442,0.6252,2/19/2024
+Invesco BulletShares 2024 High Yield Corporate Bond ETF,BSJO,2/20/2024,2/23/2024,2/21/2024,0.1167,1.3536,2/19/2024
+Invesco BulletShares 2024 Municipal Bond ETF,BSMO,2/20/2024,2/23/2024,2/21/2024,0.05004,0.57672,2/19/2024
+Invesco BulletShares 2025 Corporate Bond ETF,BSCP,2/20/2024,2/23/2024,2/21/2024,0.06401,0.74688,2/19/2024
+Invesco BulletShares 2025 High Yield Corporate Bond ETF,BSJP,2/20/2024,2/23/2024,2/21/2024,0.12534,1.94316,2/19/2024
+Invesco BulletShares 2025 Municipal Bond ETF,BSMP,2/20/2024,2/23/2024,2/21/2024,0.04997,0.59628,2/19/2024
+Invesco BulletShares 2026 Corporate Bond ETF,BSCQ,2/20/2024,2/23/2024,2/21/2024,0.05928,0.72072,2/19/2024
+Invesco BulletShares 2026 High Yield Corporate Bond ETF,BSJQ,2/20/2024,2/23/2024,2/21/2024,0.12347,1.506,2/19/2024
+Invesco BulletShares 2026 Municipal Bond ETF,BSMQ,2/20/2024,2/23/2024,2/21/2024,0.04882,0.61824,2/19/2024
+Invesco BulletShares 2027 Corporate Bond ETF,BSCR,2/20/2024,2/23/2024,2/21/2024,0.06416,0.7674,2/19/2024
+Invesco BulletShares 2027 High Yield Corporate Bond ETF,BSJR,2/20/2024,2/23/2024,2/21/2024,0.12331,1.41276,2/19/2024
+Invesco BulletShares 2027 Municipal Bond ETF,BSMR,2/20/2024,2/23/2024,2/21/2024,0.05236,0.61188,2/19/2024
+Invesco BulletShares 2028 Corporate Bond ETF,BSCS,2/20/2024,2/23/2024,2/21/2024,0.07043,0.822,2/19/2024
+Invesco BulletShares 2028 High Yield Corporate Bond ETF,BSJS,2/20/2024,2/23/2024,2/21/2024,0.11393,1.3626,2/19/2024
+Invesco BulletShares 2028 Municipal Bond ETF,BSMS,2/20/2024,2/23/2024,2/21/2024,0.05155,0.64884,2/19/2024
+Invesco BulletShares 2029 Corporate Bond ETF,BSCT,2/20/2024,2/23/2024,2/21/2024,0.06395,0.74748,2/19/2024
+Invesco BulletShares 2029 High Yield Corporate Bond ETF,BSJT,2/20/2024,2/23/2024,2/21/2024,0.1105,1.27836,2/19/2024
+Invesco BulletShares 2029 Municipal Bond ETF,BSMT,2/20/2024,2/23/2024,2/21/2024,0.04763,0.62664,2/19/2024
+Invesco BulletShares 2030 Corporate Bond ETF,BSCU,2/20/2024,2/23/2024,2/21/2024,0.05765,0.68496,2/19/2024
+Invesco BulletShares 2030 High Yield Corporate Bond ETF,BSJU,2/20/2024,2/23/2024,2/21/2024,0.13748,1.64808,2/19/2024
+Invesco BulletShares 2030 Municipal Bond ETF,BSMU,2/20/2024,2/23/2024,2/21/2024,0.04955,0.60372,2/19/2024
+Invesco BulletShares 2031 Corporate Bond ETF,BSCV,2/20/2024,2/23/2024,2/21/2024,0.06117,0.72612,2/19/2024
+Invesco BulletShares 2031 High Yield Corporate Bond ETF,BSJV,2/20/2024,2/23/2024,2/21/2024,0.14198,1.437,2/19/2024
+Invesco BulletShares 2031 Municipal Bond ETF,BSMV,2/20/2024,2/23/2024,2/21/2024,0.05153,0.6324,2/19/2024
+Invesco BulletShares 2032 Corporate Bond ETF,BSCW,2/20/2024,2/23/2024,2/21/2024,0.0793,0.9702,2/19/2024
+Invesco BulletShares 2032 Municipal Bond ETF,BSMW,2/20/2024,2/23/2024,2/21/2024,0.06837,0.93108,2/19/2024
+Invesco BulletShares 2033 Corporate Bond ETF,BSCX,2/20/2024,2/23/2024,2/21/2024,0.07159,0.67044,2/19/2024
+Invesco BulletShares 2033 Municipal Bond ETF,BSSX,2/20/2024,2/23/2024,2/21/2024,0.07166,0.85728,2/19/2024
+Invesco Equal Weight 0-30 Year Treasury ETF,GOVI,2/20/2024,2/23/2024,2/21/2024,0.07764,0.92124,2/19/2024
+Invesco High Yield Bond Factor ETF,IHYF,2/20/2024,2/23/2024,2/21/2024,0.13118,1.61616,2/19/2024
+Invesco High Yield Equity Dividend Achievers ETF,PEY,2/20/2024,2/23/2024,2/21/2024,0.08061,1.0116,2/19/2024
+Invesco KBW High Dividend Yield Financial ETF,KBWD,2/20/2024,2/23/2024,2/21/2024,0.14287,1.7106,2/19/2024
+Invesco KBW Premium Yield Equity REIT ETF,KBWY,2/20/2024,2/23/2024,2/21/2024,0.13154,1.575,2/19/2024
+Invesco Variable Rate Investment Grade ETF,VRIG,2/20/2024,2/23/2024,2/21/2024,0.12938,1.56936,2/19/2024
+Karat Packaging Inc. Common Stock,KRT,2/20/2024,2/29/2024,2/21/2024,0.3,0.8,2/07/2024
+Thomson Reuters Corp Common Shares,TRI,2/20/2024,3/08/2024,2/21/2024,0.54,2.16,2/08/2024
+Target Corporation Common Stock,TGT,2/20/2024,3/10/2024,2/21/2024,1.1,4.4,1/17/2024
+Loews Corporation Common Stock,L,2/20/2024,3/05/2024,2/21/2024,0.0625,0.25,2/06/2024
+"Rollins, Inc. Common Stock",ROL,2/20/2024,3/11/2024,2/21/2024,0.15,0.6,1/22/2024
 AFLAC Incorporated Common Stock,AFL,2/20/2024,3/01/2024,2/21/2024,0.5,2.0,11/01/2023
+Marathon Oil Corporation Common Stock,MRO,2/20/2024,3/11/2024,2/21/2024,0.11,0.44,1/31/2024
 Litecoin,LTC,2/20/2024,2/29/2024,2/21/2024,0.19,2.28,1/02/2024
+"Yum! Brands, Inc.",YUM,2/20/2024,3/08/2024,2/21/2024,0.67,2.68,1/24/2024
+"DHT Holdings, Inc.",DHT,2/20/2024,2/28/2024,2/21/2024,0.22,0.88,2/06/2024
 Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests,BGH,2/20/2024,3/01/2024,2/21/2024,0.1056,1.2672,12/12/2023
+"Primerica, Inc. Common Stock",PRI,2/20/2024,3/12/2024,2/21/2024,0.75,3.0,2/08/2024
+Marathon Petroleum Corporation Common Stock,MPC,2/20/2024,3/11/2024,2/21/2024,0.825,3.3,1/26/2024
+Xylem Inc. Common Stock New,XYL,2/20/2024,3/20/2024,2/21/2024,0.36,1.44,2/06/2024
+"Ares Dynamic Credit Allocation Fund, Inc. Common Shares",ARDC,2/20/2024,2/29/2024,2/21/2024,0.1175,1.41,2/09/2024
+"Energizer Holdings, Inc. Common Stock",ENR,2/20/2024,3/14/2024,2/21/2024,0.3,1.2,1/29/2024
+Herc Holdings Inc. Common Stock ,HRI,2/20/2024,3/07/2024,2/21/2024,0.665,2.66,2/07/2024
+Invesco High Yield Select ETF,HIYS,2/20/2024,2/23/2024,2/21/2024,0.1443,1.8852,2/16/2024
+Invesco AAA CLO Floating Rate Note ETF,ICLO,2/20/2024,2/23/2024,2/21/2024,0.13883,1.8234,2/16/2024
+Invesco Short Duration Bond ETF,ISDB,2/20/2024,2/23/2024,2/21/2024,0.11452,1.4133,2/16/2024
+Invesco S&P SmallCap High Dividend Low Volatility ETF,XSHD,2/20/2024,2/23/2024,2/21/2024,0.09314,1.2441,2/16/2024
+Invesco Real Assets ESG ETF,IVRA,2/20/2024,2/23/2024,2/21/2024,0.0246,0.3493,2/16/2024
+Invesco Municipal Strategic Income ETF,IMSI,2/20/2024,2/23/2024,2/21/2024,0.1822,2.0572,2/16/2024
+Globe Telecom Inc. ADR,GTMEY,2/20/2024,3/22/2024,2/21/2024,0.294662,1.1786,N/A

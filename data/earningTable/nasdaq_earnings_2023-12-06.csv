@@ -1,60 +1,60 @@
-,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts
-0,N/A,$0.47,time-pre-market,BF.A,Brown Forman Corporation,"$29,520,811,629",Oct/2023,,1
-1,12/07/2022,$0.47,time-pre-market,BF.B,Brown Forman Corporation,"$28,734,612,683",Oct/2023,$0.50,6
-2,12/01/2022,$0.69,time-after-hours,VEEV,Veeva Systems Inc.,"$28,731,633,196",Oct/2023,$0.77,12
-3,12/07/2022,$1.02,time-pre-market,CPB,Campbell Soup Company,"$12,096,575,932",Oct/2023,$0.87,9
-4,12/08/2022,$0.01,time-after-hours,CHWY,"Chewy, Inc.","$7,883,650,583",Oct/2023,($0.06),5
-5,N/A,($0.35),time-after-hours,BRZE,"Braze, Inc.","$5,566,204,555",Oct/2023,($0.39),1
-6,12/07/2022,$2.53,time-pre-market,THO,"Thor Industries, Inc.","$5,559,083,103",Oct/2023,$0.87,6
-7,11/09/2022,$0.09,time-not-supplied,SKM,"SK Telecom Co., Ltd.","$4,823,082,493",Sep/2023,,N/A
-8,12/07/2022,($0.31),time-after-hours,GME,GameStop Corporation,"$4,670,191,798",Oct/2023,($0.12),3
-9,12/07/2022,$0.37,time-pre-market,OLLI,"Ollie's Bargain Outlet Holdings, Inc.","$4,613,631,632",Oct/2023,$0.45,8
-10,12/06/2022,($0.02),time-after-hours,CXM,"Sprinklr, Inc.","$4,419,544,179",Oct/2023,$0.02,7
-11,12/07/2022,($0.63),time-after-hours,AI,"C3.ai, Inc.","$3,651,252,489",Oct/2023,($0.65),8
-12,N/A,$1.83,time-after-hours,GEF.B,"Greif, Inc.","$3,296,034,930",Oct/2023,,1
-13,12/07/2022,$1.83,time-after-hours,GEF,"Greif, Inc.","$3,287,141,907",Oct/2023,$1.30,3
-14,12/08/2022,$1.43,time-pre-market,KFY,Korn Ferry ,"$2,788,601,920",Oct/2023,$0.96,2
-15,12/07/2022,$1.20,time-pre-market,WLY,"John Wiley & Sons, Inc.","$1,723,613,303",Oct/2023,,N/A
-16,N/A,$1.20,time-pre-market,WLYB,"John Wiley & Sons, Inc.","$1,718,644,527",Oct/2023,,1
-17,N/A,N/A,time-after-hours,MNR,Mach Natural Resources LP,"$1,690,050,000",Sep/2023,$1.05,1
-18,12/07/2022,$0.41,time-after-hours,VRNT,Verint Systems Inc.,"$1,604,207,354",Oct/2023,$0.31,3
-19,12/07/2022,$1.46,time-after-hours,OXM,"Oxford Industries, Inc.","$1,463,002,355",Oct/2023,$0.97,4
-20,12/07/2022,$0.17,time-after-hours,NAPA,"The Duckhorn Portfolio, Inc.","$1,201,595,929",Oct/2023,$0.14,3
-21,11/30/2022,$0.60,time-after-hours,SMTC,Semtech Corporation,"$1,079,413,508",Oct/2023,($0.32),7
-22,12/06/2022,($0.37),time-after-hours,BASE,"Couchbase, Inc.","$949,493,249",Oct/2023,($0.34),3
-23,12/07/2022,$1.13,time-pre-market,UNFI,"United Natural Foods, Inc.","$912,599,032",Oct/2023,($0.26),5
-24,12/01/2022,($0.24),time-after-hours,CHPT,"ChargePoint Holdings, Inc.","$727,309,051",Oct/2023,($0.31),4
-25,N/A,($0.02),time-not-supplied,SDA,SunCar Technology Group Inc.,"$727,071,470",Sep/2023,,1
-26,N/A,$0.56,time-after-hours,AGX,"Argan, Inc.","$625,976,691",Oct/2023,,1
-27,N/A,($1.36),time-after-hours,SGU,"Star Group, L.P.","$465,325,354",Sep/2023,,1
-28,12/07/2022,($0.55),time-pre-market,LOVE,The Lovesac Company,"$334,656,501",Oct/2023,($0.31),2
-29,12/07/2022,$0.20,time-pre-market,VRA,"Vera Bradley, Inc.","$237,337,046",Oct/2023,$0.09,2
-30,N/A,$0.17,time-after-hours,ALCO,"Alico, Inc.","$216,520,175",Sep/2023,($0.35),1
-31,11/09/2022,$0.35,time-not-supplied,INSE,"Inspired Entertainment, Inc.","$215,960,005",Sep/2023,$0.32,1
-32,12/07/2022,$0.17,time-not-supplied,VBNK,VersaBank,"$205,321,438",Oct/2023,$0.32,1
-33,12/05/2022,$0.24,time-after-hours,DLHC,DLH Holdings Corp.,"$195,155,564",Sep/2023,,N/A
-34,12/07/2022,$0.34,time-after-hours,SPWH,"Sportsman's Warehouse Holdings, Inc.","$190,665,973",Oct/2023,($0.11),1
-35,N/A,N/A,time-not-supplied,MLGO,"MicroAlgo, Inc.","$144,727,143",Sep/2023,,1
-36,N/A,$0.46,time-not-supplied,BANX,ArrowMark Financial Corp.,"$121,667,983",Sep/2023,,1
-37,N/A,($0.42),time-not-supplied,XBIT,XBiotech Inc.,"$121,139,116",Sep/2023,,1
-38,12/08/2022,$0.19,time-after-hours,LAKE,"Lakeland Industries, Inc.","$110,029,469",Oct/2023,$0.27,1
-39,11/30/2022,$0.30,time-after-hours,ASYS,"Amtech Systems, Inc.","$109,513,623",Sep/2023,$0.09,1
-40,N/A,$0.11,time-pre-market,ALOT,"AstroNova, Inc.","$106,915,104",Oct/2023,,1
-41,11/02/2022,$0.14,time-not-supplied,TUP,Tupperware Brands Corporation,"$87,911,708",Sep/2023,,N/A
-42,N/A,$0.16,time-not-supplied,BYFC,Broadway Financial Corporation,"$69,497,455",Sep/2023,,1
-43,N/A,$0.08,time-pre-market,MNY,MoneyHero Limited,"$69,279,276",Sep/2023,,1
-44,N/A,($0.16),time-not-supplied,VIOT,"Viomi Technology Co., Ltd","$63,600,830",Sep/2023,,1
-45,N/A,$0.46,time-pre-market,BNED,"Barnes & Noble Education, Inc","$60,084,129",Oct/2023,,1
-46,N/A,($0.09),time-after-hours,KEQU,Kewaunee Scientific Corporation,"$51,184,656",Oct/2023,,1
-47,N/A,$0.19,time-not-supplied,HNNA,"Hennessy Advisors, Inc.","$49,219,555",Sep/2023,,1
-48,N/A,($0.10),time-not-supplied,ICLK,iClick Interactive Asia Group Limited,"$37,934,606",Sep/2023,,1
-49,11/30/2022,($0.10),time-not-supplied,GNS,Genius Group Limited,"$31,481,685",Sep/2023,,N/A
-50,11/02/2022,($0.03),time-not-supplied,QMCO,Quantum Corporation,"$27,561,776",Sep/2023,($0.07),3
-51,N/A,$0.02,time-after-hours,YQ,17 Education & Technology Group Inc.,"$26,760,199",Sep/2023,,1
-52,N/A,$0.05,time-not-supplied,VIAO,VIA optronics AG,"$20,382,735",Sep/2023,,1
-53,11/09/2022,($0.47),time-not-supplied,LMDX,LumiraDx Limited,"$19,200,838",Sep/2023,,N/A
-54,N/A,($0.43),time-pre-market,VNCE,Vince Holding Corp.,"$16,114,841",Oct/2023,,1
-55,N/A,($1.80),time-not-supplied,BNRG,Brenmiller Energy Ltd,"$11,276,540",Sep/2023,,1
-56,11/23/2022,($0.17),time-not-supplied,STKH,Steakholder Foods Ltd.,"$9,520,659",Sep/2023,($0.02),1
-57,N/A,($1.32),time-not-supplied,AAMC,Altisource Asset Management Corp,"$9,011,076",Sep/2023,,1
-58,N/A,($99.99),time-not-supplied,AGFY,Agrify Corporation,"$2,443,895",Sep/2023,,1
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,N/A,$0.47,time-pre-market,BF.A,Brown Forman Corporation,"$29,794,063,702",Oct/2023,,7,,,2023-12-06,,0,
+1,12/07/2022,$0.47,time-pre-market,BF.B,Brown Forman Corporation,"$28,945,544,108",Oct/2023,$0.50,6,,,2023-12-06,,0,0.50
+2,12/01/2022,$0.69,time-after-hours,VEEV,Veeva Systems Inc.,"$28,731,633,196",Oct/2023,$0.77,12,,,2023-12-06,,0,0.77
+3,12/07/2022,$1.02,time-pre-market,CPB,Campbell Soup Company,"$12,096,575,932",Oct/2023,$0.87,9,,,2023-12-06,,0,0.87
+4,12/08/2022,$0.01,time-after-hours,CHWY,"Chewy, Inc.","$7,883,650,583",Oct/2023,($0.06),5,,,2023-12-06,,0,-0.06
+5,12/07/2022,$2.53,time-pre-market,THO,"Thor Industries, Inc.","$5,632,656,851",Oct/2023,$0.87,6,,,2023-12-06,,0,0.87
+6,N/A,($0.35),time-after-hours,BRZE,"Braze, Inc.","$5,603,773,964",Oct/2023,($0.39),7,,,2023-12-06,,0,-0.39
+7,11/09/2022,$0.09,time-not-supplied,SKM,"SK Telecom Co., Ltd.","$4,823,082,493",Sep/2023,,N/A,,,2023-12-06,,0,
+8,12/07/2022,$0.37,time-pre-market,OLLI,"Ollie's Bargain Outlet Holdings, Inc.","$4,706,805,148",Oct/2023,$0.45,8,,,2023-12-06,,0,0.45
+9,12/07/2022,($0.31),time-after-hours,GME,GameStop Corporation,"$4,670,191,798",Oct/2023,($0.12),3,,,2023-12-06,,0,-0.12
+10,12/06/2022,($0.02),time-after-hours,CXM,"Sprinklr, Inc.","$4,419,544,179",Oct/2023,$0.02,7,,,2023-12-06,,0,0.02
+11,12/07/2022,($0.63),time-after-hours,AI,"C3.ai, Inc.","$3,651,252,489",Oct/2023,($0.65),8,,,2023-12-06,,0,-0.65
+12,N/A,$1.83,time-after-hours,GEF.B,"Greif, Inc.","$3,296,034,930",Oct/2023,,7,,,2023-12-06,,0,
+13,12/07/2022,$1.83,time-after-hours,GEF,"Greif, Inc.","$3,287,141,907",Oct/2023,$1.30,3,,,2023-12-06,,0,1.30
+14,12/08/2022,$1.43,time-pre-market,KFY,Korn Ferry ,"$2,788,601,920",Oct/2023,$0.96,2,,,2023-12-06,,0,0.96
+15,12/07/2022,$1.20,time-pre-market,WLY,"John Wiley & Sons, Inc.","$1,723,613,303",Oct/2023,,N/A,,,2023-12-06,,0,
+16,N/A,$1.20,time-pre-market,WLYB,"John Wiley & Sons, Inc.","$1,718,644,527",Oct/2023,,7,,,2023-12-06,,0,
+17,N/A,N/A,time-after-hours,MNR,Mach Natural Resources LP,"$1,690,050,000",Sep/2023,$1.05,7,,,2023-12-06,,0,1.05
+18,12/07/2022,$0.41,time-after-hours,VRNT,Verint Systems Inc.,"$1,575,928,058",Oct/2023,$0.31,3,,,2023-12-06,,0,0.31
+19,12/07/2022,$1.46,time-after-hours,OXM,"Oxford Industries, Inc.","$1,443,476,913",Oct/2023,$0.97,4,,,2023-12-06,,0,0.97
+20,12/07/2022,$0.17,time-after-hours,NAPA,"The Duckhorn Portfolio, Inc.","$1,201,595,929",Oct/2023,$0.14,3,,,2023-12-06,,0,0.14
+21,11/30/2022,$0.60,time-after-hours,SMTC,Semtech Corporation,"$1,078,771,764",Oct/2023,($0.32),7,,,2023-12-06,,0,-0.32
+22,12/06/2022,($0.37),time-after-hours,BASE,"Couchbase, Inc.","$942,432,070",Oct/2023,($0.34),3,,,2023-12-06,,0,-0.34
+23,12/07/2022,$1.13,time-pre-market,UNFI,"United Natural Foods, Inc.","$912,599,032",Oct/2023,($0.26),5,,,2023-12-06,,0,-0.26
+24,N/A,($0.02),time-not-supplied,SDA,SunCar Technology Group Inc.,"$769,840,380",Sep/2023,,7,,,2023-12-06,,0,
+25,12/01/2022,($0.24),time-after-hours,CHPT,"ChargePoint Holdings, Inc.","$727,309,051",Oct/2023,($0.31),4,,,2023-12-06,,0,-0.31
+26,N/A,$0.56,time-after-hours,AGX,"Argan, Inc.","$625,976,691",Oct/2023,,7,,,2023-12-06,,0,
+27,N/A,($1.36),time-after-hours,SGU,"Star Group, L.P.","$465,325,354",Sep/2023,,7,,,2023-12-06,,0,
+28,12/07/2022,($0.55),time-pre-market,LOVE,The Lovesac Company,"$339,457,219",Oct/2023,($0.31),2,,,2023-12-06,,0,-0.31
+29,12/07/2022,$0.20,time-pre-market,VRA,"Vera Bradley, Inc.","$223,158,469",Oct/2023,$0.09,2,,,2023-12-06,,0,0.09
+30,N/A,$0.17,time-after-hours,ALCO,"Alico, Inc.","$218,879,446",Sep/2023,($0.35),7,,,2023-12-06,,0,-0.35
+31,11/09/2022,$0.35,time-not-supplied,INSE,"Inspired Entertainment, Inc.","$210,956,053",Sep/2023,$0.32,1,,,2023-12-06,,0,0.32
+32,12/07/2022,$0.17,time-not-supplied,VBNK,VersaBank,"$208,432,368",Oct/2023,$0.32,1,,,2023-12-06,,0,0.32
+33,12/05/2022,$0.24,time-after-hours,DLHC,DLH Holdings Corp.,"$205,441,541",Sep/2023,,N/A,,,2023-12-06,,0,
+34,12/07/2022,$0.34,time-after-hours,SPWH,"Sportsman's Warehouse Holdings, Inc.","$197,395,360",Oct/2023,($0.11),1,,,2023-12-06,,0,-0.11
+35,N/A,N/A,time-not-supplied,MLGO,"MicroAlgo, Inc.","$125,430,190",Sep/2023,,7,,,2023-12-06,,0,
+36,N/A,$0.46,time-not-supplied,BANX,ArrowMark Financial Corp.,"$120,815,668",Sep/2023,,7,,,2023-12-06,,0,
+37,N/A,($0.42),time-not-supplied,XBIT,XBiotech Inc.,"$119,617,268",Sep/2023,,7,,,2023-12-06,,0,
+38,12/08/2022,$0.19,time-after-hours,LAKE,"Lakeland Industries, Inc.","$107,304,509",Oct/2023,$0.27,1,,,2023-12-06,,0,0.27
+39,N/A,$0.11,time-pre-market,ALOT,"AstroNova, Inc.","$106,618,117",Oct/2023,,7,,,2023-12-06,,0,
+40,11/30/2022,$0.30,time-after-hours,ASYS,"Amtech Systems, Inc.","$106,255,132",Sep/2023,$0.09,1,,,2023-12-06,,0,0.09
+41,11/02/2022,$0.14,time-not-supplied,TUP,Tupperware Brands Corporation,"$87,911,708",Sep/2023,,N/A,,,2023-12-06,,0,
+42,N/A,$0.08,time-pre-market,MNY,MoneyHero Limited,"$72,875,086",Sep/2023,,7,,,2023-12-06,,0,
+43,N/A,$0.16,time-not-supplied,BYFC,Broadway Financial Corporation,"$69,590,242",Sep/2023,,7,,,2023-12-06,,0,
+44,N/A,($0.16),time-not-supplied,VIOT,"Viomi Technology Co., Ltd","$63,600,830",Sep/2023,,7,,,2023-12-06,,0,
+45,N/A,$0.46,time-pre-market,BNED,"Barnes & Noble Education, Inc","$60,084,129",Oct/2023,,7,,,2023-12-06,,0,
+46,N/A,$0.19,time-not-supplied,HNNA,"Hennessy Advisors, Inc.","$49,867,530",Sep/2023,,7,,,2023-12-06,,0,
+47,N/A,($0.09),time-after-hours,KEQU,Kewaunee Scientific Corporation,"$49,391,378",Oct/2023,,7,,,2023-12-06,,0,
+48,N/A,($0.10),time-not-supplied,ICLK,iClick Interactive Asia Group Limited,"$37,598,299",Sep/2023,,7,,,2023-12-06,,0,
+49,11/30/2022,($0.10),time-not-supplied,GNS,Genius Group Limited,"$29,725,633",Sep/2023,,N/A,,,2023-12-06,,0,
+50,11/02/2022,($0.03),time-not-supplied,QMCO,Quantum Corporation,"$26,611,370",Sep/2023,($0.07),3,,,2023-12-06,,0,-0.07
+51,N/A,$0.02,time-after-hours,YQ,17 Education & Technology Group Inc.,"$25,838,946",Sep/2023,,7,,,2023-12-06,,0,
+52,N/A,$0.05,time-not-supplied,VIAO,VIA optronics AG,"$20,382,735",Sep/2023,,7,,,2023-12-06,,0,
+53,11/09/2022,($0.47),time-not-supplied,LMDX,LumiraDx Limited,"$19,735,048",Sep/2023,,N/A,,,2023-12-06,,0,
+54,N/A,($0.43),time-pre-market,VNCE,Vince Holding Corp.,"$16,114,841",Oct/2023,,7,,,2023-12-06,,0,
+55,N/A,($1.80),time-not-supplied,BNRG,Brenmiller Energy Ltd,"$12,518,994",Sep/2023,,7,,,2023-12-06,,0,
+56,11/23/2022,($0.17),time-not-supplied,STKH,Steakholder Foods Ltd.,"$9,520,659",Sep/2023,($0.02),1,,,2023-12-06,,0,-0.02
+57,N/A,($1.32),time-not-supplied,AAMC,Altisource Asset Management Corp,"$9,259,848",Sep/2023,,7,,,2023-12-06,,0,
+58,N/A,($99.99),time-not-supplied,AGFY,Agrify Corporation,"$2,434,153",Sep/2023,,7,,,2023-12-06,,0,

@@ -1,5 +1,6 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
 Arcos Dorados Holdings Inc. Class A Shares,ARCO,12/21/2023,12/27/2023,12/22/2023,0.04,0.16,3/14/2023
+Bank7 Corp. Common stock,BSVN,12/21/2023,1/04/2024,12/22/2023,0.21,0.84,11/16/2023
 "British American Tobacco  Industries, p.l.c. Common Stock ADR",BTI,12/21/2023,2/06/2024,12/22/2023,0.700605,2.8024,2/09/2023
 Clough Global Dividend and Income Fund Common Shares of beneficial interest,GLV,12/21/2023,12/29/2023,12/22/2023,0.0597,0.7164,10/09/2023
 Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,GLQ,12/21/2023,12/29/2023,12/22/2023,0.0599,0.7188,10/09/2023
@@ -10,18 +11,49 @@ Hackett Group Inc (The). Common Stock,HCKT,12/21/2023,1/05/2024,12/22/2023,0.11,
 OFS Capital Corporation Common Stock,OFS,12/21/2023,12/29/2023,12/22/2023,0.34,1.36,10/31/2023
 "OFS Credit Company, Inc. 5.25% Series E Term Preferred Stock Due 2026",OCCIN,12/21/2023,12/29/2023,12/22/2023,0.109375,1.3125,6/01/2023
 "OFS Credit Company, Inc. 6.125% Series C Term Preferred Stock",OCCIO,12/21/2023,12/29/2023,12/22/2023,0.1276042,1.53125,6/01/2023
+"OFS Credit Company, Inc. Common Stock",OCCI,12/21/2023,12/29/2023,12/22/2023,0.2,0.0,11/28/2023
 Seanergy Maritime Holdings Corp. Common Stock,SHIP,12/21/2023,1/10/2024,12/22/2023,0.025,0.1,11/13/2023
 United Maritime Corporation Common Stock,USEA,12/21/2023,1/10/2024,12/22/2023,0.075,0.3,11/14/2023
+Virco Manufacturing Corporation Common Stock,VIRC,12/21/2023,1/10/2024,12/22/2023,0.02,0.0,12/05/2023
+"Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",EIM,12/21/2023,12/29/2023,12/22/2023,0.0333,0.3996,12/01/2023
+"Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",ENX,12/21/2023,12/29/2023,12/22/2023,0.0297,0.3564,12/01/2023
+"Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",EVM,12/21/2023,12/29/2023,12/22/2023,0.0292,0.3504,12/01/2023
 Clough Global Dividend and Income Fund Common Shares of beneficial interest,GLV,12/21/2023,12/29/2023,12/22/2023,0.0597,0.7164,10/09/2023
 Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,GLQ,12/21/2023,12/29/2023,12/22/2023,0.0599,0.7188,10/09/2023
 Clough Global Opportunities Fund Common Stock,GLO,12/21/2023,12/29/2023,12/22/2023,0.0483,0.5796,10/09/2023
+Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,EVG,12/21/2023,12/29/2023,12/22/2023,0.0768,0.9216,12/01/2023
+Boyd Gaming Corporation Common Stock,BYD,12/21/2023,1/15/2024,12/22/2023,0.16,0.64,12/07/2023
+Insight Select Income Fund,INSI,12/21/2023,12/27/2023,12/22/2023,0.2,0.8,12/08/2023
+"British American Tobacco  Industries, p.l.c. Common Stock ADR",BTI,12/21/2023,2/06/2024,12/22/2023,0.700605,2.8024,2/09/2023
+Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,EFR,12/21/2023,12/29/2023,12/22/2023,0.121,1.452,12/01/2023
 Putnam Premier Income Trust Common Stock,PPT,12/21/2023,1/02/2024,12/22/2023,0.026,0.312,11/17/2023
 Putnam Master Intermediate Income Trust Common Stock,PIM,12/21/2023,1/02/2024,12/22/2023,0.022,0.264,11/17/2023
 Putnam Managed Municipal Income Trust Common Stock,PMM,12/21/2023,1/02/2024,12/22/2023,0.0238,0.2856,11/17/2023
 Putnam Municipal Opportunities Trust Common Stock,PMO,12/21/2023,1/02/2024,12/22/2023,0.035,0.42,11/17/2023
-"British American Tobacco  Industries, p.l.c. Common Stock ADR",BTI,12/21/2023,2/06/2024,12/22/2023,0.700605,2.8024,2/09/2023
+Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,EVT,12/21/2023,12/29/2023,12/22/2023,0.1488,1.7856,12/01/2023
+Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,ETG,12/21/2023,12/29/2023,12/22/2023,0.1001,1.2012,12/01/2023
+Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,ETO,12/21/2023,12/29/2023,12/22/2023,0.1374,1.6488,12/01/2023
+Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,EFT,12/21/2023,12/29/2023,12/22/2023,0.118,1.416,12/01/2023
+Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest,EOI,12/21/2023,12/29/2023,12/22/2023,0.1095,1.314,12/01/2023
+EOS,EOS,12/21/2023,12/29/2023,12/22/2023,0.1152,1.3824,12/01/2023
+Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest,ETB,12/21/2023,12/29/2023,12/22/2023,0.0932,1.1184,12/01/2023
+Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,ETV,12/21/2023,12/29/2023,12/22/2023,0.0949,1.1388,12/01/2023
+Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest,ETW,12/21/2023,12/29/2023,12/22/2023,0.0582,0.6984,12/01/2023
+"Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",ETY,12/21/2023,12/29/2023,12/22/2023,0.0805,0.966,12/01/2023
+Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest,EXG,12/21/2023,12/29/2023,12/22/2023,0.0553,0.6636,12/01/2023
+Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,ETJ,12/21/2023,12/29/2023,12/22/2023,0.0579,0.6948,12/01/2023
+Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST,EOT,12/21/2023,12/29/2023,12/22/2023,0.0625,0.75,12/01/2023
+Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest,ETX,12/21/2023,12/29/2023,12/22/2023,0.0583,0.6996,12/01/2023
 Arcos Dorados Holdings Inc. Class A Shares,ARCO,12/21/2023,12/27/2023,12/22/2023,0.04,0.16,3/14/2023
+Highland Opportunities and Income Fund Common Shares of Beneficial Interest,HFRO,12/21/2023,12/29/2023,12/22/2023,0.077,0.924,12/01/2023
 Ecofin Sustainable and Social Impact Term Fund,TEAF,12/21/2023,12/29/2023,12/22/2023,0.09,1.08,11/09/2023
+"Global Indemnity Group, LLC Class A Common Stock (DE)",GBLI,12/21/2023,12/29/2023,12/22/2023,0.25,1.0,12/07/2023
 Heartland Bancorp.,HLAN,12/21/2023,1/10/2024,12/25/2023,0.759,3.036,10/24/2023
+Britvic ADR,BTVCY,12/21/2023,2/20/2024,12/22/2023,0.547712,1.0954,N/A
 Eastern Michigan Financial Corp.,EFIN,12/21/2023,12/29/2023,12/22/2023,0.4,1.6,11/21/2023
 United Utilities Group PLC ADR,UUGRY,12/21/2023,2/08/2024,12/22/2023,0.389268,0.7785,N/A
+Grupo de Inversiones Suramericana S.A. ADR,GIVSY,12/21/2023,1/12/2024,12/22/2023,0.140726,0.5629,N/A
+Grupo de Inversiones Suramericana S.A. ADR (Representing 1 Pref. Shares),GIVPY,12/21/2023,1/12/2024,12/22/2023,0.070363,0.2815,N/A
+Halma plc ADR,HALMY,12/21/2023,2/16/2024,12/22/2023,0.179363,0.6099,N/A
+Garden City Co Colorado,GCCO,12/21/2023,12/29/2023,12/22/2023,25.0,20.0,12/05/2023
+Garden City Co Colorado,GCCO,12/21/2023,12/29/2023,12/22/2023,5.0,20.0,12/05/2023

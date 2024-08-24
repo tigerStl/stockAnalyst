@@ -1,47 +1,236 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+Abbott Laboratories Common Stock,ABT,1/11/2024,2/15/2024,1/12/2024,0.55,2.2,12/15/2023
+Advance Auto Parts Inc.,AAP,1/11/2024,1/26/2024,1/12/2024,0.25,1.0,10/31/2023
+Advent Convertible and Income Fund,AVK,1/11/2024,1/31/2024,1/12/2024,0.1172,1.4064,1/02/2024
+Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),ALTG^A,1/11/2024,1/31/2024,1/15/2024,0.625,2.5,1/03/2024
+"American Financial Group, Inc. Common Stock",AFG,1/11/2024,1/25/2024,1/15/2024,0.71,2.84,1/02/2024
 "Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",APO^A,1/11/2024,1/31/2024,1/15/2024,0.8438,3.3752,11/01/2023
+Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock,ABR^E,1/11/2024,1/30/2024,1/15/2024,0.390625,1.5625,12/29/2023
+"Arbor Realty Trust 6.25% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per share",ABR^F,1/11/2024,1/30/2024,1/15/2024,0.390625,1.5625,12/29/2023
+"Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share",ABR^D,1/11/2024,1/30/2024,1/15/2024,0.3984375,1.5938,12/29/2023
+"Arcosa, Inc. Common Stock ",ACA,1/11/2024,1/31/2024,1/12/2024,0.05,0.2,12/14/2023
+Argo Blockchain plc 8.75% Senior Notes due 2026,ARBKL,1/11/2024,1/31/2024,1/15/2024,0.5468,2.1872,1/11/2024
+Atlanticus Holdings Corporation 6.125% Senior Notes due 2026,ATLCL,1/11/2024,2/01/2024,1/15/2024,0.3828125,1.53125,1/03/2024
+Atlas Corp. 7.125% Notes due 2027,ATCOL,1/11/2024,1/30/2024,1/15/2024,0.445313,1.781252,12/08/2023
+"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",RILYG,1/11/2024,1/31/2024,1/15/2024,0.3125,1.25,1/11/2024
+"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",RILYZ,1/11/2024,1/31/2024,1/15/2024,0.328125,1.3125,1/11/2024
+"B. Riley Financial, Inc. 5.50% Senior Notes Due 2026",RILYK,1/11/2024,1/31/2024,1/15/2024,0.34375,1.375,1/11/2024
+"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",RILYT,1/11/2024,1/31/2024,1/15/2024,0.375,1.5,1/11/2024
+"B. Riley Financial, Inc. 6.375% Senior Notes due 2025",RILYM,1/11/2024,1/31/2024,1/15/2024,0.3984375,1.59375,1/11/2024
+"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",RILYN,1/11/2024,1/31/2024,1/15/2024,0.40625,1.625,1/11/2024
+"B. Riley Financial, Inc. 6.75% Senior Notes due 2024",RILYO,1/11/2024,1/31/2024,1/15/2024,0.421875,1.6875,1/11/2024
+"Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026",BWSN,1/11/2024,1/31/2024,1/12/2024,0.5078125,2.0312,1/11/2024
+"Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.375% Non-Cumulative Preferred Stock, Series NN",BAC^O,1/11/2024,2/05/2024,1/15/2024,0.2734375,1.0938,12/15/2023
+"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non-Cumulative Preferred Stock, Series PP",BAC^P,1/11/2024,2/02/2024,1/15/2024,0.2578125,1.0312,12/15/2023
+"BankUnited, Inc. Common Stock",BKU,1/11/2024,1/31/2024,1/12/2024,0.27,1.08,12/28/2023
 Bel Fuse Inc. Class A Common Stock,BELFA,1/11/2024,2/01/2024,1/15/2024,0.06,0.24,10/25/2023
 Bel Fuse Inc. Class B Common Stock,BELFB,1/11/2024,2/01/2024,1/15/2024,0.07,0.28,10/25/2023
-City Holding Company Common Stock,CHCO,1/11/2024,1/31/2024,1/15/2024,0.715,2.86,11/14/2023
-Gladstone Investment Corporation 4.875% Notes due 2028,GAINZ,1/11/2024,2/01/2024,1/15/2024,0.3046875,1.21875,11/25/2023
-Gladstone Investment Corporation 5.00% Notes Due 2026,GAINN,1/11/2024,2/01/2024,1/15/2024,0.3125,1.25,11/25/2023
-Gladstone Investment Corporation 8.00% Notes due 2028,GAINL,1/11/2024,2/01/2024,1/15/2024,0.5,0.0,11/25/2023
-Immersion Corporation Common Stock,IMMR,1/11/2024,1/25/2024,1/14/2024,0.045,0.12,11/25/2023
-Virtus Total Return Fund Inc.,ZTR,1/11/2024,1/30/2024,1/12/2024,0.05,0.6,11/16/2023
+BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,BMN,1/11/2024,2/01/2024,1/12/2024,0.09375,1.125,11/14/2023
+BlackRock California Municipal Income Trust,BFZ,1/11/2024,2/01/2024,1/12/2024,0.051,0.612,11/14/2023
+BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,BCAT,1/11/2024,1/31/2024,1/12/2024,0.1275,1.53,1/02/2024
+"Blackrock Capital and Income Fund, Inc.",CII,1/11/2024,1/31/2024,1/12/2024,0.0995,1.194,1/02/2024
+Blackrock Core Bond Trust,BHK,1/11/2024,1/31/2024,1/12/2024,0.0746,0.8952,1/02/2024
+"Blackrock Corporate High Yield Fund, Inc. Common Stock",HYT,1/11/2024,1/31/2024,1/12/2024,0.0779,0.9348,1/02/2024
+BlackRock Credit Allocation Income Trust,BTZ,1/11/2024,1/31/2024,1/12/2024,0.0839,1.0068,1/02/2024
+"Blackrock Debt Strategies Fund, Inc. Common Stock",DSU,1/11/2024,1/31/2024,1/12/2024,0.09873,1.1848,1/02/2024
+BlackRock Energy and Resources Trust,BGR,1/11/2024,1/31/2024,1/12/2024,0.0657,0.7884,1/02/2024
+Blackrock Enhanced Equity Dividend Trust,BDJ,1/11/2024,1/31/2024,1/12/2024,0.0562,0.6744,1/02/2024
+Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,BOE,1/11/2024,1/31/2024,1/12/2024,0.063,0.756,1/02/2024
+"Blackrock Enhanced Government Fund, Inc. Common Stock",EGF,1/11/2024,1/31/2024,1/12/2024,0.041,0.492,1/02/2024
+Blackrock Enhanced International Dividend Trust,BGY,1/11/2024,1/31/2024,1/12/2024,0.0338,0.4056,1/02/2024
+BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest,ECAT,1/11/2024,1/31/2024,1/12/2024,0.15,1.8,1/02/2024
+Blackrock Floating Rate Income Strategies Fund Inc  Common Stock,FRA,1/11/2024,1/31/2024,1/12/2024,0.12384,1.4861,1/02/2024
+BlackRock Floating Rate Income Trust,BGT,1/11/2024,1/31/2024,1/12/2024,0.12028,1.4434,1/02/2024
+BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest,BMEZ,1/11/2024,1/31/2024,1/12/2024,0.09091,1.0909,1/02/2024
+Blackrock Health Sciences Trust,BME,1/11/2024,1/31/2024,1/12/2024,0.213,2.556,1/02/2024
+BlackRock Income Trust Inc. (The),BKT,1/11/2024,1/31/2024,1/12/2024,0.0882,1.0584,1/02/2024
+BlackRock Innovation and Growth Term Trust Common Shares of Beneficial Interest,BIGZ,1/11/2024,1/31/2024,1/12/2024,0.04472,0.5366,1/02/2024
+BlackRock Investment Quality Municipal Trust Inc. (The),BKN,1/11/2024,2/01/2024,1/12/2024,0.057,0.684,11/14/2023
+Blackrock Limited Duration Income Trust,BLW,1/11/2024,1/31/2024,1/12/2024,0.1079,1.2948,1/02/2024
+BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest,BTA,1/11/2024,2/01/2024,1/12/2024,0.0435,0.522,11/14/2023
+BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,BIT,1/11/2024,1/31/2024,1/12/2024,0.1237,1.4844,1/02/2024
+"Blackrock MuniAssets Fund, Inc Common Stock",MUA,1/11/2024,2/01/2024,1/12/2024,0.0555,0.666,11/14/2023
+BlackRock Municipal 2030 Target Term Trust,BTT,1/11/2024,2/01/2024,1/12/2024,0.0464,0.5568,11/14/2023
+"BlackRock Municipal Income Fund, Inc. Common Stock",MUI,1/11/2024,2/01/2024,1/12/2024,0.055,0.66,11/14/2023
+Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest,BYM,1/11/2024,2/01/2024,1/12/2024,0.0525,0.63,11/14/2023
+BlackRock Municipal Income Trust,BFK,1/11/2024,2/01/2024,1/12/2024,0.05,0.6,11/14/2023
+BlackRock Municipal Income Trust II,BLE,1/11/2024,2/01/2024,1/12/2024,0.052,0.624,11/14/2023
+"Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock",MUC,1/11/2024,2/01/2024,1/12/2024,0.0485,0.582,11/14/2023
+"Blackrock MuniHoldings Fund, Inc. Common Stock",MHD,1/11/2024,2/01/2024,1/12/2024,0.0525,0.63,11/14/2023
+"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",MUJ,1/11/2024,2/01/2024,1/12/2024,0.05,0.6,11/14/2023
+"Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",MHN,1/11/2024,2/01/2024,1/12/2024,0.0435,0.522,11/14/2023
+"Blackrock MuniHoldings Quality Fund II, Inc. Common Stock",MUE,1/11/2024,2/01/2024,1/12/2024,0.045,0.54,11/14/2023
+"Blackrock MuniVest Fund II, Inc.  Common Stock",MVT,1/11/2024,2/01/2024,1/12/2024,0.0505,0.606,11/14/2023
 "Blackrock MuniVest Fund, Inc. Common Stock",MVF,1/11/2024,2/01/2024,1/12/2024,0.03,0.36,11/14/2023
-IDEX Corporation Common Stock,IEX,1/11/2024,1/26/2024,1/12/2024,0.64,2.56,11/08/2023
 "Blackrock MuniYield Fund, Inc.  Common Stock",MYD,1/11/2024,2/01/2024,1/12/2024,0.0525,0.63,11/14/2023
+"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",MIY,1/11/2024,2/01/2024,1/12/2024,0.0465,0.558,11/14/2023
 "Blackrock MuniYield New York Quality Fund, Inc.Common Stock",MYN,1/11/2024,2/01/2024,1/12/2024,0.0442,0.5304,11/14/2023
+Blackrock MuniYield Pennsylvania Quality Fund Common Stock,MPA,1/11/2024,2/01/2024,1/12/2024,0.048,0.576,11/14/2023
+"Blackrock MuniYield Quality Fund II, Inc. Common Stock",MQT,1/11/2024,2/01/2024,1/12/2024,0.049,0.588,11/14/2023
 "Blackrock MuniYield Quality Fund III, Inc Common Stock",MYI,1/11/2024,2/01/2024,1/12/2024,0.0555,0.666,11/14/2023
 "Blackrock MuniYield Quality Fund, Inc. Common Stock",MQY,1/11/2024,2/01/2024,1/12/2024,0.058,0.696,11/14/2023
-"Blackrock MuniYield Quality Fund II, Inc. Common Stock",MQT,1/11/2024,2/01/2024,1/12/2024,0.049,0.588,11/14/2023
-Blackrock MuniYield Pennsylvania Quality Fund Common Stock,MPA,1/11/2024,2/01/2024,1/12/2024,0.048,0.576,11/14/2023
-"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",MIY,1/11/2024,2/01/2024,1/12/2024,0.0465,0.558,11/14/2023
-"Blackrock MuniVest Fund II, Inc.  Common Stock",MVT,1/11/2024,2/01/2024,1/12/2024,0.0505,0.606,11/14/2023
-"Blackrock MuniAssets Fund, Inc Common Stock",MUA,1/11/2024,2/01/2024,1/12/2024,0.0555,0.666,11/14/2023
-"Blackrock MuniHoldings Fund, Inc. Common Stock",MHD,1/11/2024,2/01/2024,1/12/2024,0.0525,0.63,11/14/2023
-"Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",MHN,1/11/2024,2/01/2024,1/12/2024,0.0435,0.522,11/14/2023
-"Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock",MUC,1/11/2024,2/01/2024,1/12/2024,0.0485,0.582,11/14/2023
-"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",MUJ,1/11/2024,2/01/2024,1/12/2024,0.05,0.6,11/14/2023
-"Blackrock MuniHoldings Quality Fund II, Inc. Common Stock",MUE,1/11/2024,2/01/2024,1/12/2024,0.045,0.54,11/14/2023
-BlackRock Municipal Income Trust,BFK,1/11/2024,2/01/2024,1/12/2024,0.05,0.6,11/14/2023
-Advance Auto Parts Inc.,AAP,1/11/2024,1/26/2024,1/12/2024,0.25,1.0,10/31/2023
+BlackRock New York Municipal Income Trust,BNY,1/11/2024,2/01/2024,1/12/2024,0.043,0.516,11/14/2023
+BlackRock Resources Common Shares of Beneficial Interest,BCX,1/11/2024,1/31/2024,1/12/2024,0.0518,0.6216,1/02/2024
+BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,BSTZ,1/11/2024,1/31/2024,1/12/2024,0.10271,1.2325,1/02/2024
+BlackRock Science and Technology Trust Common Shares of Beneficial Interest,BST,1/11/2024,1/31/2024,1/12/2024,0.25,3.0,1/02/2024
+BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,BBN,1/11/2024,1/31/2024,1/12/2024,0.0929,1.1148,1/02/2024
+"BlackRock Utility, Infrastructure & Power Opportunities Trust",BUI,1/11/2024,1/31/2024,1/12/2024,0.121,1.452,1/02/2024
 BlackRock Virginia Municipal Bond Trust,BHV,1/11/2024,2/01/2024,1/12/2024,0.0395,0.474,11/14/2023
-BlackRock Municipal Income Trust II,BLE,1/11/2024,2/01/2024,1/12/2024,0.052,0.624,11/14/2023
-Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest,BYM,1/11/2024,2/01/2024,1/12/2024,0.0525,0.63,11/14/2023
+Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,BEPH,1/11/2024,1/30/2024,1/15/2024,0.2890625,1.1562,1/11/2024
+Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,BEPI,1/11/2024,1/30/2024,1/15/2024,0.3046875,1.2188,1/11/2024
+"Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17",BEP^A,1/11/2024,1/31/2024,1/15/2024,0.328125,1.3125,11/02/2023
+"Buckle, Inc. (The) Common Stock",BKE,1/11/2024,1/26/2024,1/12/2024,0.35,1.4,12/04/2023
+"Buckle, Inc. (The) Common Stock",BKE,1/11/2024,1/26/2024,1/12/2024,2.5,1.4,12/04/2023
+Caledonia Mining Corporation Plc Common Shares,CMCL,1/11/2024,1/26/2024,1/12/2024,0.14,0.56,1/02/2024
+Camden National Corporation Common Stock,CAC,1/11/2024,1/31/2024,1/15/2024,0.42,1.68,12/19/2023
+Capital Southwest Corporation 7.75% Notes due 2028,CSWCZ,1/11/2024,2/01/2024,1/15/2024,0.484375,1.9375,1/11/2024
+City Holding Company Common Stock,CHCO,1/11/2024,1/31/2024,1/15/2024,0.715,2.86,11/14/2023
+Compass Diversified Holdings 7.250% Series A Preferred Shares representing beneficial interest in Compass Diversified Holdings,CODI^A,1/11/2024,1/30/2024,1/15/2024,0.453125,1.8125,1/04/2024
+Compass Diversified Holdings 7.875% Series B Fixed-to-Floating Rate Cumulative Preferred Shares representing beneficial interests in Compass Diversified Holdings,CODI^B,1/11/2024,1/30/2024,1/15/2024,0.4921875,1.9688,1/04/2024
+Compass Diversified Holdings 7.875% Series C Cumulative Preferred Shares,CODI^C,1/11/2024,1/30/2024,1/15/2024,0.4921875,1.9688,1/04/2024
+"Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares",VTMX,1/11/2024,1/11/2024,1/12/2024,0.171567,0.1716,9/29/2023
+Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock,CMRE^D,1/11/2024,1/16/2024,1/12/2024,0.546875,2.1875,1/02/2024
+"Costamare Inc. 8.875% Series E Cumulative Redeemable Perpetual Preferred Stock, par value $0.0001",CMRE^E,1/11/2024,1/16/2024,1/12/2024,0.554688,2.2188,1/02/2024
+Costamare Inc. Perpetual Preferred Series C (Marshall Islands),CMRE^C,1/11/2024,1/16/2024,1/12/2024,0.53125,2.125,1/02/2024
+Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),CMRE^B,1/11/2024,1/16/2024,1/12/2024,0.476563,1.9063,1/02/2024
+Diana Shipping Inc. Perpetual Preferred Shares Series B (Marshall Islands),DSX^B,1/11/2024,1/16/2024,1/12/2024,0.554688,2.2188,12/19/2023
+Diversified Healthcare Trust 5.625% Senior Notes due 2042,DHCNI,1/11/2024,2/01/2024,1/15/2024,0.3515625,1.40625,1/11/2024
+Eaton Vance California Municipal Income Trust Shares of Beneficial Interest,CEV,1/11/2024,1/19/2024,1/12/2024,0.0434,0.5208,1/02/2024
+Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest,EVV,1/11/2024,1/19/2024,1/12/2024,0.0803,0.9636,1/02/2024
+Eaton Vance Municipal Income Trust Common Stock,EVN,1/11/2024,1/19/2024,1/12/2024,0.0461,0.5532,1/02/2024
+"EIDP, Inc. Preferred Stock $3.50 Series",CTA^A,1/11/2024,1/25/2024,1/12/2024,0.875,3.5,11/02/2023
+"EIDP, Inc. Preferred Stock $4.50 Series",CTA^B,1/11/2024,1/25/2024,1/12/2024,1.125,4.5,11/02/2023
+First Trust Income Opportunities ETF,FCEF,1/11/2024,1/31/2024,1/12/2024,0.12,1.44,1/10/2024
+"Fortress Biotech, Inc. 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock",FBIOP,1/11/2024,1/31/2024,1/15/2024,0.1953125,2.34375,1/11/2024
+"Freeport-McMoRan, Inc. Common Stock",FCX,1/11/2024,2/01/2024,1/12/2024,0.075,0.3,12/20/2023
+"Freeport-McMoRan, Inc. Common Stock",FCX,1/11/2024,2/01/2024,1/12/2024,0.075,0.3,12/20/2023
+Generation Income Properties Inc. Common Stock,GIPR,1/11/2024,1/30/2024,1/15/2024,0.039,0.468,1/03/2024
+Gladstone Investment Corporation 4.875% Notes due 2028,GAINZ,1/11/2024,2/01/2024,1/15/2024,0.3046875,1.21875,1/11/2024
+Gladstone Investment Corporation 5.00% Notes Due 2026,GAINN,1/11/2024,2/01/2024,1/15/2024,0.3125,1.25,1/11/2024
+Gladstone Investment Corporation 8.00% Notes due 2028,GAINL,1/11/2024,2/01/2024,1/15/2024,0.5,0.0,1/11/2024
+Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,GMRE^A,1/11/2024,1/31/2024,1/15/2024,0.46875,1.875,12/12/2023
+"Global Net Lease, Inc. Common Stock",GNL,1/11/2024,1/16/2024,1/12/2024,0.354,1.416,1/02/2024
+Greenidge Generation Holdings Inc. 8.50% Senior Notes due 2026,GREEL,1/11/2024,1/31/2024,1/15/2024,0.53125,2.125,1/11/2024
+Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,GUG,1/11/2024,1/31/2024,1/12/2024,0.11875,1.425,1/02/2024
+Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,GOF,1/11/2024,1/31/2024,1/12/2024,0.1821,2.1852,1/02/2024
+Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,GBAB,1/11/2024,1/31/2024,1/12/2024,0.12573,1.5088,1/02/2024
+"Harrow,  Inc. 11.875% Senior Notes due 2027",HROWM,1/11/2024,1/31/2024,1/15/2024,0.7421875,2.96875,1/11/2024
+"Harrow, Inc. 8.625% Senior Notes due 2026",HROWL,1/11/2024,1/31/2024,1/15/2024,0.5390625,2.15625,1/11/2024
+"Hercules Capital, Inc. 6.25% Notes due 2033",HCXY,1/11/2024,1/30/2024,1/12/2024,0.390625,1.5625,1/11/2024
+IDEX Corporation Common Stock,IEX,1/11/2024,1/26/2024,1/12/2024,0.64,2.56,11/08/2023
+Immersion Corporation Common Stock,IMMR,1/11/2024,1/25/2024,1/14/2024,0.045,0.18,1/11/2024
+"Ingles Markets, Incorporated Class A Common Stock",IMKTA,1/11/2024,1/19/2024,1/12/2024,0.165,0.66,1/02/2024
+John Hancock Pfd Income Fund II Pfd Income Fund II,HPF,1/11/2024,1/31/2024,1/12/2024,0.1235,1.482,1/02/2024
+John Hancock Preferred Income Fund III Preferred Income Fund III,HPS,1/11/2024,1/31/2024,1/12/2024,0.11,1.32,1/02/2024
+John Hancock Premium Dividend Fund,PDT,1/11/2024,1/31/2024,1/12/2024,0.0825,0.99,1/02/2024
+John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,HTD,1/11/2024,1/31/2024,1/12/2024,0.138,1.656,1/02/2024
+KKR Income Opportunities Fund Common Shares,KIO,1/11/2024,1/31/2024,1/12/2024,0.1215,1.458,12/26/2023
+"Methode Electronics, Inc. Common Stock",MEI,1/11/2024,1/26/2024,1/12/2024,0.14,0.56,12/06/2023
+"Mid-America Apartment Communities, Inc. Common Stock",MAA,1/11/2024,1/31/2024,1/12/2024,1.47,5.88,12/12/2023
+"NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock",NREF^A,1/11/2024,1/25/2024,1/12/2024,0.53125,2.125,12/12/2023
+Norwood Financial Corp. Common Stock,NWFL,1/11/2024,2/01/2024,1/12/2024,0.3,1.2,12/12/2023
+Nuveen AMT-Free Municipal Credit Income Fund ,NVG,1/11/2024,2/01/2024,1/12/2024,0.0505,0.606,1/02/2024
+Nuveen AMT-Free Municipal Value Fund,NUW,1/11/2024,2/01/2024,1/12/2024,0.0425,0.51,1/02/2024
+Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,NEA,1/11/2024,2/01/2024,1/12/2024,0.0425,0.51,1/02/2024
+Nuveen Arizona Quality Municipal Income Fund Common Stock,NAZ,1/11/2024,2/01/2024,1/12/2024,0.035,0.42,1/02/2024
+Nuveen California AMT-Free Quality Municipal Income Fund,NKX,1/11/2024,2/01/2024,1/12/2024,0.0455,0.546,1/02/2024
+Nuveen California Municipal Value Fund,NCA,1/11/2024,2/01/2024,1/12/2024,0.029,0.348,1/02/2024
+Nuveen California Quality Municipal Income Fund,NAC,1/11/2024,2/01/2024,1/12/2024,0.0435,0.522,1/02/2024
+Nuveen California Select Tax-Free Income Portfolio Common Stock,NXC,1/11/2024,2/01/2024,1/12/2024,0.0455,0.546,1/02/2024
+Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,NPCT,1/11/2024,2/01/2024,1/12/2024,0.083,0.996,1/02/2024
+Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,JQC,1/11/2024,2/01/2024,1/12/2024,0.054,0.648,1/02/2024
+Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,NDMO,1/11/2024,2/01/2024,1/12/2024,0.062,0.744,1/02/2024
+Nuveen Floating Rate Income Fund Common Stock,JFR,1/11/2024,2/01/2024,1/12/2024,0.085,1.02,1/02/2024
+Nuveen Global High Income Fund Common Shares of Beneficial Interest,JGH,1/11/2024,2/01/2024,1/12/2024,0.1035,1.242,1/02/2024
+Nuveen Massachusetts Quality Municipal Income Fund Common Stock,NMT,1/11/2024,2/01/2024,1/12/2024,0.031,0.372,1/02/2024
+Nuveen Minnesota Quality Municipal Income Fund ,NMS,1/11/2024,2/01/2024,1/12/2024,0.041,0.492,1/02/2024
+Nuveen Missouri Quality Municipal Income Fund ,NOM,1/11/2024,2/01/2024,1/12/2024,0.0315,0.378,1/02/2024
+Nuveen Mortgage and Income Fund,JLS,1/11/2024,2/01/2024,1/12/2024,0.142,1.704,1/02/2024
+Nuveen Multi-Market Income Fund (MA),JMM,1/11/2024,2/01/2024,1/12/2024,0.0275,0.33,1/02/2024
+Nuveen Municipal Credit Income Fund ,NZF,1/11/2024,2/01/2024,1/12/2024,0.0515,0.618,1/02/2024
+Nuveen Municipal Credit Opportunities Fund Common Shares,NMCO,1/11/2024,2/01/2024,1/12/2024,0.0455,0.546,1/02/2024
+"Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share",NMZ,1/11/2024,2/01/2024,1/12/2024,0.0425,0.51,1/02/2024
+"Nuveen Municipal Income Fund, Inc. Common Stock",NMI,1/11/2024,2/01/2024,1/12/2024,0.034,0.408,1/02/2024
+"Nuveen Municipal Value Fund, Inc. Common Stock",NUV,1/11/2024,2/01/2024,1/12/2024,0.029,0.348,1/02/2024
+Nuveen New Jersey Qualified Municipal Fund ,NXJ,1/11/2024,2/01/2024,1/12/2024,0.0345,0.414,1/02/2024
+Nuveen New York AMT-Free Quality Municipal Income Fund ,NRK,1/11/2024,2/01/2024,1/12/2024,0.041,0.492,1/02/2024
+Nuveen New York Municipal Value Fund Common Stock,NNY,1/11/2024,2/01/2024,1/12/2024,0.028,0.336,1/02/2024
+Nuveen New York Quality Municipal Income Fund Common Stock,NAN,1/11/2024,2/01/2024,1/12/2024,0.043,0.516,1/02/2024
+Nuveen New York Select Tax-Free Income Portfolio Common Stock,NXN,1/11/2024,2/01/2024,1/12/2024,0.041,0.492,1/02/2024
+Nuveen Pennsylvania Quality Municipal Income Fund Common Stock,NQP,1/11/2024,2/01/2024,1/12/2024,0.0325,0.39,1/02/2024
+Nuveen Preferred & Income Opportunities Fund,JPC,1/11/2024,2/01/2024,1/12/2024,0.0475,0.57,1/02/2024
+Nuveen Preferred and Income Term Fund Common Shares of Beneficial Interest,JPI,1/11/2024,2/01/2024,1/12/2024,0.098,1.176,1/02/2024
+Nuveen Quality Municipal Income Fund Common Stock,NAD,1/11/2024,2/01/2024,1/12/2024,0.044,0.528,1/02/2024
+Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,JRI,1/11/2024,2/01/2024,1/12/2024,0.1,1.2,1/02/2024
+Nuveen Select Maturities Municipal Fund Common Stock,NIM,1/11/2024,2/01/2024,1/12/2024,0.026,0.312,1/02/2024
+Nuveen Select Tax Free Income Portfolio Common Stock,NXP,1/11/2024,2/01/2024,1/12/2024,0.0485,0.582,1/02/2024
+Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,NBB,1/11/2024,2/01/2024,1/12/2024,0.0735,0.882,1/02/2024
+Nuveen Variable Rate Preferred & Income Fund Common Shares,NPFD,1/11/2024,2/01/2024,1/12/2024,0.0935,1.122,1/02/2024
+Nuveen Virginia Quality Municipal Income Fund Common Stock,NPV,1/11/2024,2/01/2024,1/12/2024,0.0365,0.438,1/02/2024
+OFS Capital Corporation 4.95% Notes due 2028,OFSSH,1/11/2024,1/31/2024,1/15/2024,0.309375,1.2375,1/11/2024
+Oxford Square Capital Corp. 5.50% Notes due 2028,OXSQG,1/11/2024,1/31/2024,1/15/2024,0.34375,1.375,1/11/2024
+Oxford Square Capital Corp. 6.25% Notes due 2026,OXSQZ,1/11/2024,1/31/2024,1/15/2024,0.390625,1.5625,1/11/2024
+"Pathfinder Bancorp, Inc. Common Stock (MD)",PBHC,1/11/2024,2/02/2024,1/12/2024,0.09,0.36,12/26/2023
+"PCM Fund, Inc. Common Stock",PCM,1/11/2024,2/01/2024,1/12/2024,0.08,0.96,1/02/2024
+PhenixFIN Corporation  5.25% Notes due 2028,PFXNZ,1/11/2024,2/01/2024,1/12/2024,0.328125,1.3125,1/11/2024
+PIMCO Access Income Fund Common Shares of Beneficial Interest,PAXS,1/11/2024,2/01/2024,1/12/2024,0.1494,1.7928,1/02/2024
+PIMCO California Municipal Income Fund Common Stock,PCQ,1/11/2024,2/01/2024,1/12/2024,0.036,0.432,1/02/2024
+Pimco California Municipal Income Fund II Common Shares of Beneficial Interest,PCK,1/11/2024,2/01/2024,1/12/2024,0.0215,0.258,1/02/2024
+PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest,PZC,1/11/2024,2/01/2024,1/12/2024,0.0295,0.354,1/02/2024
+Pimco Corporate & Income Opportunity Fund,PTY,1/11/2024,2/01/2024,1/12/2024,0.1188,1.4256,1/02/2024
+Pimco Corporate & Income Strategy Fund Common Stock,PCN,1/11/2024,2/01/2024,1/12/2024,0.1125,1.35,1/02/2024
+PIMCO Dynamic Income Fund Common Stock,PDI,1/11/2024,2/01/2024,1/12/2024,0.2205,2.646,1/02/2024
+PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest,PDO,1/11/2024,2/01/2024,1/12/2024,0.1279,1.5348,1/02/2024
+Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest,PGP,1/11/2024,2/01/2024,1/12/2024,0.069,0.828,1/02/2024
+Pimco High Income Fund,PHK,1/11/2024,2/01/2024,1/12/2024,0.048,0.576,1/02/2024
+PIMCO Income Strategy Fund II,PFN,1/11/2024,2/01/2024,1/12/2024,0.0718,0.8616,1/02/2024
+PIMCO Income Strategy Fund Shares of Beneficial Interest,PFL,1/11/2024,2/01/2024,1/12/2024,0.0814,0.9768,1/02/2024
+PIMCO Municipal Income Fund Common Stock,PMF,1/11/2024,2/01/2024,1/12/2024,0.042,0.504,1/02/2024
+Pimco Municipal Income Fund II Common Shares of Beneficial Interest,PML,1/11/2024,2/01/2024,1/12/2024,0.0395,0.474,1/02/2024
+PIMCO Municipal Income Fund III Common Shares of Beneficial Interest,PMX,1/11/2024,2/01/2024,1/12/2024,0.033,0.396,1/02/2024
+PIMCO New York Municipal Income Fund Common Stock,PNF,1/11/2024,2/01/2024,1/12/2024,0.0335,0.402,1/02/2024
+Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,PNI,1/11/2024,2/01/2024,1/12/2024,0.0295,0.354,1/02/2024
+PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest,PYN,1/11/2024,2/01/2024,1/12/2024,0.0248,0.2976,1/02/2024
+"PIMCO Strategic Income Fund, Inc.",RCS,1/11/2024,2/01/2024,1/12/2024,0.051,0.612,1/02/2024
+"Popular, Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",BPOPM,1/11/2024,2/01/2024,1/15/2024,0.127604,1.531248,1/04/2024
+Pyxis Tankers Inc. 7.75% Series A Cumulative Convertible Preferred Shares,PXSAP,1/11/2024,1/22/2024,1/13/2024,0.1615,1.938,1/03/2024
+"Ramaco Resources, Inc. 9.00% Senior Notes due 2026",METCL,1/11/2024,1/31/2024,1/15/2024,0.5625,2.25,1/11/2024
+Ready Capital Corporation 5.75% Senior Notes due 2026,RCC,1/11/2024,1/30/2024,1/12/2024,0.359375,1.4375,1/11/2024
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION Common Stock,SAIC,1/11/2024,1/26/2024,1/12/2024,0.37,1.48,12/01/2023
+"Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060",SOJE,1/11/2024,1/16/2024,1/12/2024,0.2625,1.05,1/11/2024
+"Synchronoss Technologies, Inc. 8.375% Senior Notes due 2026",SNCRL,1/11/2024,1/31/2024,1/15/2024,0.523438,2.093752,1/11/2024
+Tellurian Inc. 8.25% Senior Notes due 2028,TELZ,1/11/2024,1/31/2024,1/12/2024,0.515625,2.0625,1/11/2024
+Thornburg Income Builder Opportunities Trust Common Stock,TBLD,1/11/2024,1/22/2024,1/12/2024,0.10417,1.25004,1/02/2024
+"Toll Brothers, Inc. Common Stock",TOL,1/11/2024,1/26/2024,1/12/2024,0.21,0.84,12/13/2023
+"Trinity Industries, Inc. Common Stock",TRN,1/11/2024,1/31/2024,1/12/2024,0.28,1.12,12/06/2023
+Two Harbors Investment Corp,TWO,1/11/2024,1/29/2024,1/12/2024,0.45,1.8,12/18/2023
+Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,TWO^C,1/11/2024,1/26/2024,1/12/2024,0.45313,1.8125,12/18/2023
+Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,TWO^B,1/11/2024,1/26/2024,1/12/2024,0.47656,1.9062,12/18/2023
+Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),TWO^A,1/11/2024,1/26/2024,1/12/2024,0.50781,2.0312,12/18/2023
+VictoryShares Core Intermediate Bond ETF,UITB,1/11/2024,1/16/2024,1/12/2024,0.055755,0.66906,1/10/2024
+VictoryShares Core Plus Intermediate Bond ETF,UBND,1/11/2024,1/16/2024,1/12/2024,0.032101,0.385212,1/10/2024
+VictoryShares Corporate Bond ETF,UCRD,1/11/2024,1/16/2024,1/12/2024,0.02217,0.26604,1/10/2024
+VictoryShares Dividend Accelerator ETF,VSDA,1/11/2024,1/16/2024,1/12/2024,0.023446,0.281352,1/10/2024
+VictoryShares Free Cash Flow ETF,VFLO,1/11/2024,1/16/2024,1/12/2024,0.011477,0.137724,1/10/2024
+VictoryShares International Value Momentum ETF,UIVM,1/11/2024,1/16/2024,1/12/2024,0.058258,0.699096,1/10/2024
+VictoryShares International Volatility Wtd ETF,CIL,1/11/2024,1/16/2024,1/12/2024,0.026766,0.321192,1/10/2024
+VictoryShares Nasdaq Next 50 ETF,QQQN,1/11/2024,1/16/2024,1/12/2024,0.002358,0.028296,1/10/2024
+VictoryShares Short-Term Bond ETF,USTB,1/11/2024,1/16/2024,1/12/2024,0.094494,1.133928,1/10/2024
+VictoryShares US 500 Enhanced Volatility Wtd ETF,CFO,1/11/2024,1/16/2024,1/12/2024,0.204606,2.455272,1/10/2024
+VictoryShares US 500 Volatility Wtd ETF,CFA,1/11/2024,1/16/2024,1/12/2024,0.026765,0.32118,1/10/2024
+VictoryShares US Discovery Enhanced Volatility Wtd ETF,CSF,1/11/2024,1/16/2024,1/12/2024,0.016914,0.202968,1/10/2024
+VictoryShares US EQ Income Enhanced Volatility Wtd ETF,CDC,1/11/2024,1/16/2024,1/12/2024,0.046723,0.560676,1/10/2024
+VictoryShares US Large Cap High Div Volatility Wtd ETF,CDL,1/11/2024,1/16/2024,1/12/2024,0.035943,0.431316,1/10/2024
+VictoryShares US Multi-Factor Minimum Volatility ETF,VSMV,1/11/2024,1/16/2024,1/12/2024,0.01803,0.21636,1/10/2024
+VictoryShares US Small Mid Cap Value Momentum ETF,USVM,1/11/2024,1/16/2024,1/12/2024,0.113815,1.36578,1/10/2024
+VictoryShares US Value Momentum ETF,ULVM,1/11/2024,1/16/2024,1/12/2024,0.020374,0.244488,1/10/2024
+VictoryShares WestEnd U.S. Sector ETF,MODL,1/11/2024,1/16/2024,1/12/2024,0.010257,0.041028,1/10/2024
+Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,AIO,1/11/2024,1/30/2024,1/12/2024,0.15,1.8,11/16/2023
+Virtus Convertible & Income 2024 Target Term Fund Common Shares of Beneficial Interest,CBH,1/11/2024,1/30/2024,1/12/2024,0.046,0.552,11/16/2023
 Virtus Convertible & Income Fund Common Shares of Beneficial Interest,NCV,1/11/2024,1/30/2024,1/12/2024,0.034,0.408,11/16/2023
 Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,NCZ,1/11/2024,1/30/2024,1/12/2024,0.03,0.36,11/16/2023
-"BlackRock Municipal Income Fund, Inc. Common Stock",MUI,1/11/2024,2/01/2024,1/12/2024,0.055,0.66,11/14/2023
-BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest,BTA,1/11/2024,2/01/2024,1/12/2024,0.0435,0.522,11/14/2023
-Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest,EDF,1/11/2024,1/30/2024,1/12/2024,0.06,0.72,11/16/2023
-BlackRock California Municipal Income Trust,BFZ,1/11/2024,2/01/2024,1/12/2024,0.051,0.612,11/14/2023
-BlackRock Investment Quality Municipal Trust Inc. (The),BKN,1/11/2024,2/01/2024,1/12/2024,0.057,0.684,11/14/2023
-BlackRock New York Municipal Income Trust,BNY,1/11/2024,2/01/2024,1/12/2024,0.043,0.516,11/14/2023
-Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,VGI,1/11/2024,1/30/2024,1/12/2024,0.08,0.96,11/16/2023
-BlackRock Municipal 2030 Target Term Trust,BTT,1/11/2024,2/01/2024,1/12/2024,0.0464,0.6491,11/14/2023
 Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,ACV,1/11/2024,1/30/2024,1/12/2024,0.18,2.16,11/16/2023
-Virtus Convertible & Income 2024 Target Term Fund Common Shares of Beneficial Interest,CBH,1/11/2024,1/30/2024,1/12/2024,0.046,0.552,11/16/2023
-Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,AIO,1/11/2024,1/30/2024,1/12/2024,0.15,1.8,11/16/2023
-BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,BMN,1/11/2024,2/01/2024,1/12/2024,0.09375,1.125,11/14/2023
-Wisconsin Electric Power Co 6% PRF PERPETUAL USD 100,WELPM,1/11/2024,1/31/2024,1/12/2024,1.5,6.0,10/19/2023
-Origin Energy Limited ADR,OGFGY,1/11/2024,2/06/2024,1/12/2024,0.198808,0.3976,N/A
+Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,VGI,1/11/2024,1/30/2024,1/12/2024,0.08,0.96,11/16/2023
+Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest,EDF,1/11/2024,1/30/2024,1/12/2024,0.06,0.72,11/16/2023
+Virtus Total Return Fund Inc.,ZTR,1/11/2024,1/30/2024,1/12/2024,0.05,0.6,11/16/2023
+"Winnebago Industries, Inc. Common Stock",WGO,1/11/2024,1/26/2024,1/12/2024,0.31,1.24,12/15/2023

@@ -1,1 +1,19 @@
-
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"Avnet, Inc. Common Stock",AVT,3/05/2024,3/20/2024,3/06/2024,0.31,1.24,2/15/2024
+Fox Corporation Class A Common Stock,FOXA,3/05/2024,3/26/2024,3/06/2024,0.26,0.52,2/06/2024
+Fox Corporation Class B Common Stock,FOX,3/05/2024,3/26/2024,3/06/2024,0.26,0.52,2/06/2024
+"Old Dominion Freight Line, Inc. Common Stock",ODFL,3/05/2024,3/20/2024,3/06/2024,0.52,1.6,1/31/2024
+Phibro Animal Health Corporation Class A Common Stock,PAHC,3/05/2024,3/27/2024,3/06/2024,0.12,0.48,2/06/2024
+Kinross Gold Corporation Common Stock,KGC,3/05/2024,3/21/2024,3/06/2024,0.03,0.12,2/14/2024
+Avery Dennison Corporation Common Stock,AVY,3/05/2024,3/20/2024,3/06/2024,0.81,3.24,1/31/2024
+Halliburton Company Common Stock,HAL,3/05/2024,3/27/2024,3/06/2024,0.17,0.68,1/23/2024
+PVH Corp. Common Stock,PVH,3/05/2024,3/27/2024,3/06/2024,0.0375,0.15,2/07/2024
+Southwest Airlines Company Common Stock,LUV,3/05/2024,3/27/2024,3/06/2024,0.18,0.72,1/31/2024
+The Cigna Group Common Stock,CI,3/05/2024,3/21/2024,3/06/2024,1.4,5.6,2/02/2024
+"Cedar Fair, L.P. Common Stock",FUN,3/05/2024,3/20/2024,3/06/2024,0.3,1.2,2/15/2024
+Enpro Inc. Common Stock,NPO,3/05/2024,3/20/2024,3/06/2024,0.3,1.2,2/15/2024
+F.N.B. Corporation Common Stock,FNB,3/05/2024,3/15/2024,3/06/2024,0.12,0.48,2/13/2024
+PJT Partners Inc. Class A Common Stock,PJT,3/05/2024,3/20/2024,3/06/2024,0.25,1.0,2/06/2024
+Liberty Energy Inc. Class A common stock,LBRT,3/05/2024,3/20/2024,3/06/2024,0.07,0.28,1/23/2024
+CNB Financial Services Inc,CBFC,3/05/2024,3/07/2024,3/06/2024,1.33,1.2,2/14/2024
+Origin Energy Limited ADR,OGFGY,3/05/2024,4/11/2024,3/06/2024,0.143555,0.2871,N/A

@@ -1,15 +1,14 @@
-,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts
-0,12/08/2022,$3.10,time-after-hours,COST,Costco Wholesale Corporation,"$263,984,066,055",Nov/2023,$3.44,15
-1,12/14/2022,$5.02,time-after-hours,LEN,Lennar Corporation,"$37,415,417,610",Nov/2023,$4.64,8
-2,N/A,$5.02,time-after-hours,LEN.B,Lennar Corporation,"$34,239,173,388",Nov/2023,,15
-3,N/A,$0.39,time-not-supplied,FIZZ,National Beverage Corp.,"$4,481,932,549",Oct/2023,,15
-4,12/08/2022,($0.07),time-not-supplied,MANU,Manchester United Ltd.,"$3,187,815,227",Sep/2023,($0.09),2
-5,N/A,$0.75,time-after-hours,NX,Quanex Building Products Corporation,"$1,045,006,997",Oct/2023,,15
-6,12/08/2022,$0.16,time-not-supplied,CMTL,Comtech Telecommunications Corp.,"$343,436,750",Oct/2023,$0.20,3
-7,12/08/2022,($0.90),time-not-supplied,KALV,"KalVista Pharmaceuticals, Inc.","$303,438,499",Oct/2023,($0.71),3
-8,11/29/2022,$0.47,time-pre-market,KNOP,KNOT Offshore Partners LP,"$183,529,500",Sep/2023,($0.11),1
-9,N/A,$0.10,time-not-supplied,IH,iHuman Inc.,"$143,490,131",Sep/2023,,15
-10,N/A,$0.12,time-not-supplied,MAYS,"J. W. Mays, Inc.","$86,698,697",Oct/2023,,15
-11,N/A,$2.16,time-not-supplied,LEE,"Lee Enterprises, Incorporated","$69,225,268",Sep/2023,,15
-12,12/29/2022,($0.37),time-after-hours,MESA,"Mesa Air Group, Inc.","$31,847,863",Sep/2023,($0.15),1
-13,N/A,($0.25),time-not-supplied,SOFO,"Sonic Foundry, Inc.","$4,465,645",Sep/2023,,15
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,12/08/2022,$3.10,time-after-hours,COST,Costco Wholesale Corporation,"$265,237,021,873",Nov/2023,$3.44,15,,,2023-12-14,,0,3.44
+1,12/14/2022,$5.02,time-after-hours,LEN,Lennar Corporation,"$224,372,964,295",Nov/2023,$4.64,8,,,2023-12-14,,0,4.64
+2,N/A,$5.02,time-after-hours,LEN.B,Lennar Corporation,"$34,239,173,388",Nov/2023,,3,,,2023-12-14,,0,
+3,N/A,$0.39,time-not-supplied,FIZZ,National Beverage Corp.,"$4,532,343,788",Oct/2023,,3,,,2023-12-14,,0,
+4,12/08/2022,($0.07),time-not-supplied,MANU,Manchester United Ltd.,"$3,187,815,227",Sep/2023,($0.09),2,,,2023-12-14,,0,-0.09
+5,N/A,$0.75,time-after-hours,NX,Quanex Building Products Corporation,"$1,045,006,997",Oct/2023,,3,,,2023-12-14,,0,
+6,12/08/2022,$0.16,time-not-supplied,CMTL,Comtech Telecommunications Corp.,"$341,749,100",Oct/2023,$0.20,3,,,2023-12-14,,0,0.20
+7,12/08/2022,($0.90),time-not-supplied,KALV,"KalVista Pharmaceuticals, Inc.","$305,846,741",Oct/2023,($0.71),3,,,2023-12-14,,0,-0.71
+8,11/29/2022,$0.47,time-pre-market,KNOP,KNOT Offshore Partners LP,"$183,529,500",Sep/2023,($0.11),1,,,2023-12-14,,0,-0.11
+9,N/A,$0.10,time-not-supplied,IH,iHuman Inc.,"$143,490,131",Sep/2023,,3,,,2023-12-14,,0,
+10,N/A,$0.12,time-not-supplied,MAYS,"J. W. Mays, Inc.","$86,698,697",Oct/2023,,3,,,2023-12-14,,0,
+11,N/A,$2.16,time-not-supplied,LEE,"Lee Enterprises, Incorporated","$67,403,551",Sep/2023,,3,,,2023-12-14,,0,
+12,12/29/2022,($0.37),time-after-hours,MESA,"Mesa Air Group, Inc.","$40,422,288",Sep/2023,($0.15),1,,,2023-12-14,,0,-0.15

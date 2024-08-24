@@ -1,0 +1,5 @@
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"Old National Bancorp Depositary Shares, Each Representing a 1/40th Interest in a Share of Series A Preferred Stock",ONBPP,8/05/2024,8/20/2024,8/05/2024,0.4375,1.75,5/15/2024
+"Old National Bancorp Depositary Shares, Each Representing a 1/40th Interest in a Share of Series C Preferred Stock",ONBPO,8/05/2024,8/20/2024,8/05/2024,0.4375,1.75,5/15/2024
+Banco Bradesco Sa American Depositary Shares,BBD,8/05/2024,9/12/2024,8/05/2024,0.003469,0.0416,7/05/2024
+Banco Bradesco Sa American Depositary Shares (each representing one Common Share),BBDO,8/05/2024,9/12/2024,8/05/2024,0.003154,0.0378,7/05/2024

@@ -1,4 +1,77 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
-"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",CCLDP,1/30/2024,2/15/2024,1/31/2024,0.22917,2.75004,10/31/2023
-"CareCloud, Inc. 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",CCLDO,1/30/2024,2/15/2024,1/31/2024,0.18229,2.18748,10/31/2023
+A.O. Smith Corporation Common Stock,AOS,1/30/2024,2/15/2024,1/31/2024,0.32,1.28,1/16/2024
+AGNC Investment Corp. Common Stock,AGNC,1/30/2024,2/09/2024,1/31/2024,0.12,1.44,1/10/2024
+Agree Realty Corporation Common Stock,ADC,1/30/2024,2/14/2024,1/31/2024,0.247,2.964,1/11/2024
+Alliant Energy Corporation Common Stock,LNT,1/30/2024,2/15/2024,1/31/2024,0.48,1.92,1/12/2024
+"Apple Hospitality REIT, Inc. Common Shares",APLE,1/30/2024,2/15/2024,1/31/2024,0.08,0.96,1/19/2024
+"ARC Document Solutions, Inc. Common Stock",ARC,1/30/2024,2/29/2024,1/31/2024,0.05,0.2,12/06/2023
+"Ault Alliance, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",AULT^D,1/30/2024,2/12/2024,1/31/2024,0.2708333,3.25,1/18/2024
+AXS First Priority CLO Bond ETF,AAA,1/30/2024,2/01/2024,1/31/2024,0.1174,1.5169,1/29/2024
+Bank of America Corporation Depositary Sh repstg 1/1000th Perp Pfd Ser E,BAC^E,1/30/2024,2/15/2024,1/31/2024,0.38278,1.5311,1/18/2024
+"Cal-Maine Foods, Inc. Common Stock",CALM,1/30/2024,2/15/2024,1/31/2024,0.116,3.02,11/27/2007
+"Citizens Financial Group, Inc. Common Stock",CFG,1/30/2024,2/14/2024,1/31/2024,0.42,1.68,1/17/2024
+Cross Timbers Royalty Trust Common Stock,CRT,1/30/2024,2/14/2024,1/31/2024,0.115323,1.3839,1/19/2024
+CSI Compressco LP Common Units,CCLP,1/30/2024,2/14/2024,1/31/2024,0.01,0.04,1/18/2024
+Defiance Israel Bond ETF,CHAI,1/30/2024,2/01/2024,1/31/2024,0.0882901,1.0595,1/19/2024
+"DNP Select Income Fund, Inc. Common Stock",DNP,1/30/2024,2/12/2024,1/31/2024,0.065,0.78,12/14/2023
+Ellington Financial Inc. Common Stock ,EFC,1/30/2024,2/26/2024,1/31/2024,0.15,1.8,1/08/2024
+Ellington Residential Mortgage REIT Common Shares of Beneficial Interest,EARN,1/30/2024,2/26/2024,1/31/2024,0.08,0.96,1/08/2024
+"Entegris, Inc. Common Stock",ENTG,1/30/2024,2/21/2024,1/31/2024,0.1,0.4,1/17/2024
+Enterprise Products Partners L.P. Common Stock,EPD,1/30/2024,2/14/2024,1/31/2024,0.515,2.06,1/08/2024
+EPR Properties Common Stock,EPR,1/30/2024,2/15/2024,1/31/2024,0.275,3.3,1/16/2024
+Equity Commonwealth 6.50% Pfd Conv Shs Ser D,EQC^D,1/30/2024,2/15/2024,1/31/2024,0.40625,1.625,1/16/2024
+"F.N.B. Corporation Depositary Shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred  Stock, Series E",FNB^E,1/30/2024,2/15/2024,1/31/2024,0.45325,1.813,1/12/2024
+First Merchants Corporation Depository Shares,FRMEP,1/30/2024,2/15/2024,1/31/2024,0.4688,1.8752,1/18/2024
+"Genesis Energy, L.P. Common Units",GEL,1/30/2024,2/14/2024,1/31/2024,0.15,0.6,1/10/2024
+Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),AVAL,1/30/2024,2/08/2024,1/31/2024,0.0184012,0.2208,9/19/2023
+"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th  interest in a share of 5.75% Non-Cumulative  Preferred Stock, Series DD",JPM^D,1/30/2024,3/01/2024,1/31/2024,0.359375,1.4375,1/12/2024
+"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM",JPM^M,1/30/2024,3/01/2024,1/31/2024,0.2625,1.05,1/12/2024
+"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ",JPM^K,1/30/2024,3/01/2024,1/31/2024,0.284375,1.1375,1/12/2024
+"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL",JPM^L,1/30/2024,3/01/2024,1/31/2024,0.289075,1.1563,1/12/2024
+"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.00% Non-Cumulative  Preferred Stock, Series EE",JPM^C,1/30/2024,3/01/2024,1/31/2024,0.375,1.5,1/12/2024
+"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG",JPM^J,1/30/2024,3/01/2024,1/31/2024,0.296875,1.1875,1/12/2024
+"Kinder Morgan, Inc. Common Stock",KMI,1/30/2024,2/15/2024,1/31/2024,0.2825,1.13,1/17/2024
 LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock,LXP^C,1/30/2024,2/15/2024,1/31/2024,0.8125,3.25,10/31/2023
+Mesa Royalty Trust Common Stock,MTR,1/30/2024,4/30/2024,1/31/2024,0.02518586,0.3022,1/18/2024
+"MetroCity Bankshares, Inc. Common Stock",MCBS,1/30/2024,2/09/2024,1/31/2024,0.2,0.8,1/17/2024
+"Modiv Industrial, Inc. Class C Common Stock",MDV,1/30/2024,2/26/2024,1/31/2024,0.09583,1.15,12/14/2023
+Morgan Stanley Common Stock,MS,1/30/2024,2/15/2024,1/31/2024,0.85,3.4,1/16/2024
+Neuberger Berman Municipal Fund Inc. Common Stock,NBH,1/30/2024,2/15/2024,1/31/2024,0.03774,0.4529,1/16/2024
+"New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)",NYCB^U,1/30/2024,2/01/2024,1/31/2024,0.75,3.0,2/03/2024
+"NNN REIT, Inc. Common Stock",NNN,1/30/2024,2/15/2024,1/31/2024,0.565,2.26,1/16/2024
+Northern Technologies International Corporation Common Stock,NTIC,1/30/2024,2/14/2024,1/31/2024,0.07,0.28,1/17/2024
+Northwest Natural Holding Company Common Stock,NWN,1/30/2024,2/15/2024,1/31/2024,0.4875,1.95,1/11/2024
+OceanFirst Financial Corp. Depositary Shares,OCFCP,1/30/2024,2/15/2024,1/31/2024,0.4375,1.75,1/17/2024
+OneAscent Core Plus Bond ETF,OACP,1/30/2024,2/05/2024,1/31/2024,0.0806,0.8983,1/29/2024
+"Orchid Island Capital, Inc. Common Stock",ORC,1/30/2024,2/27/2024,1/31/2024,0.12,1.44,1/10/2024
+Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,PCG^I,1/30/2024,2/15/2024,1/31/2024,0.2725,1.09,12/13/2023
+Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,PCG^H,1/30/2024,2/15/2024,1/31/2024,0.28125,1.125,12/13/2023
+Pacific Gas & Electric Co. 4.80% 1st Preferred Stock,PCG^G,1/30/2024,2/15/2024,1/31/2024,0.3,1.2,12/13/2023
+Pacific Gas & Electric Co. 5 1/2% Preferred Stock,PCG^B,1/30/2024,2/15/2024,1/31/2024,0.34375,1.375,12/13/2023
+Pacific Gas & Electric Co. 5% 1st  Red. Preferred Stock,PCG^D,1/30/2024,2/15/2024,1/31/2024,0.3125,1.25,12/13/2023
+Pacific Gas & Electric Co. 5% 1st A Preferred Stock,PCG^E,1/30/2024,2/15/2024,1/31/2024,0.3125,1.25,12/13/2023
+Pacific Gas & Electric Co. 5% 1st Preferred Stock,PCG^C,1/30/2024,2/15/2024,1/31/2024,0.3125,1.25,12/13/2023
+Pacific Gas & Electric Co. 6% Preferred Stock,PCG^A,1/30/2024,2/15/2024,1/31/2024,0.375,1.5,12/13/2023
+Permian Basin Royalty Trust Common Stock,PBT,1/30/2024,2/14/2024,1/31/2024,0.031031,0.3724,1/19/2024
+PermRock Royalty Trust Trust Units,PRT,1/30/2024,2/14/2024,1/31/2024,0.034555,0.4147,1/19/2024
+"Plains All American Pipeline, L.P. Common Units representing Limited Partner Interests",PAA,1/30/2024,2/14/2024,1/31/2024,0.3175,1.27,1/08/2024
+"Plains GP Holdings, L.P. Class A Units representing Limited Partner Interests",PAGP,1/30/2024,2/14/2024,1/31/2024,0.3175,1.27,1/08/2024
+"Presidio Property Trust, Inc. 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share",SQFTP,1/30/2024,2/15/2024,1/31/2024,0.19531,2.34372,12/18/2023
+RBB Bancorp Common Stock,RBB,1/30/2024,2/09/2024,1/31/2024,0.16,0.64,1/18/2024
+RH Hedged Multi-Asset Income ETF,AMAX,1/30/2024,2/01/2024,1/31/2024,0.0105,0.5004,12/28/2023
+San Juan Basin Royalty Trust Common Stock,SJT,1/30/2024,2/14/2024,1/31/2024,0.01627,0.1952,1/19/2024
+Scholastic Corporation Common Stock,SCHL,1/30/2024,3/15/2024,1/31/2024,0.2,0.8,12/13/2023
+Sierra Bancorp Common Stock,BSRR,1/30/2024,2/12/2024,1/31/2024,0.23,0.92,1/18/2024
+SL Green Realty Corp Common Stock,SLG,1/30/2024,2/15/2024,1/31/2024,0.25,3.0,1/18/2024
+SoFi Weekly Dividend ETF,WKLY,1/30/2024,2/01/2024,1/31/2024,0.02,1.4703,12/28/2023
+"Stag Industrial, Inc. Common Stock",STAG,1/30/2024,2/15/2024,1/31/2024,0.123333,1.48,1/10/2024
+Stellus Capital Investment Corporation Common Stock,SCM,1/30/2024,2/15/2024,1/31/2024,0.1333,1.5996,1/15/2024
+"Synthetic Fixed-Income Securities, Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates, Series 2006-3",GJT,1/30/2024,2/01/2024,1/31/2024,0.1296,1.5552,2/03/2024
+Tanger Inc. Common Stock,SKT,1/30/2024,2/15/2024,1/31/2024,0.26,1.04,1/17/2024
+"Targa Resources, Inc. Common Stock",TRGP,1/30/2024,2/15/2024,1/31/2024,0.5,2.0,1/18/2024
+Tennessee Valley Authority,TVE,1/30/2024,2/01/2024,1/31/2024,0.1385,0.554,2/03/2024
+Texas Instruments Incorporated Common Stock,TXN,1/30/2024,2/13/2024,1/31/2024,1.3,5.2,1/18/2024
+Touchstone Securitized Income ETF,TSEC,1/30/2024,2/01/2024,1/31/2024,0.0822,1.5009,1/29/2024
+Touchstone Strategic Income Opportunities ETF,SIO,1/30/2024,2/01/2024,1/31/2024,0.099,1.2883,1/29/2024
+"Virtus Investment Partners, Inc. Common Stock",VRTS,1/30/2024,2/15/2024,1/31/2024,1.9,7.6,12/07/2023
+"West Pharmaceutical Services, Inc. Common Stock",WST,1/30/2024,2/07/2024,1/31/2024,0.2,0.8,12/06/2023

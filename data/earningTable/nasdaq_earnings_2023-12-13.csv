@@ -1,20 +1,20 @@
-,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts
-0,12/15/2022,$2.78,time-after-hours,ADBE,Adobe Inc.,"$275,256,168,000",Nov/2023,$3.32,12
-1,12/14/2022,$2.44,time-after-hours,NDSN,Nordson Corporation,"$13,702,864,208",Oct/2023,$2.40,5
-2,N/A,$0.89,time-pre-market,ABM,ABM Industries Incorporated,"$2,811,984,728",Oct/2023,$0.93,5
-3,12/14/2022,$0.25,time-pre-market,REVG,"REV Group, Inc.","$959,028,260",Oct/2023,$0.34,1
-4,12/14/2022,$1.45,time-not-supplied,RICK,"RCI Hospitality Holdings, Inc.","$579,410,975",Sep/2023,$0.92,2
-5,N/A,N/A,time-not-supplied,IREN,Iris Energy Limited,"$360,946,195",Sep/2023,$0.03,5
-6,12/14/2022,($0.02),time-not-supplied,UROY,Uranium Royalty Corp.,"$294,082,491",Oct/2023,,N/A
-7,N/A,N/A,time-not-supplied,MSB,Mesabi Trust,"$237,865,781",Oct/2023,,5
-8,N/A,$0.10,time-not-supplied,ISSC,"Innovative Solutions and Support, Inc.","$132,771,593",Sep/2023,,5
-9,N/A,N/A,time-pre-market,QSG,QuantaSing Group Limited,"$120,349,411",Sep/2023,($0.01),5
-10,12/14/2022,($0.07),time-not-supplied,BCTX,BriaCell Therapeutics Corp.,"$85,502,234",Oct/2023,($0.18),1
-11,N/A,$0.56,time-not-supplied,STCN,"Steel Connect, Inc.","$60,792,131",Oct/2023,,5
-12,N/A,($0.09),time-after-hours,OPTT,"Ocean Power Technologies, Inc.","$22,927,155",Oct/2023,,5
-13,N/A,N/A,time-not-supplied,SLNA,Selina Hospitality PLC,"$22,112,631",Sep/2023,($0.30),5
-14,N/A,($0.09),time-not-supplied,PMCB,"PharmaCyte  Biotech, Inc.","$19,838,508",Oct/2023,,5
-15,N/A,($0.07),time-not-supplied,STRM,"Streamline Health Solutions, Inc.","$16,785,095",Oct/2023,,5
-16,N/A,N/A,time-not-supplied,APDN,"Applied DNA Sciences, Inc.","$13,521,934",Sep/2023,($0.27),5
-17,N/A,$0.01,time-not-supplied,IHT,InnSuites Hospitality Trust,"$11,437,881",Oct/2023,,5
-18,N/A,($3.10),time-after-hours,MIND,"MIND Technology, Inc.","$7,211,511",Oct/2023,,5
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,12/15/2022,$2.78,time-after-hours,ADBE,Adobe Inc.,"$275,256,168,000",Nov/2023,$3.32,12,,,2023-12-13,,0,3.32
+1,12/14/2022,$2.44,time-after-hours,NDSN,Nordson Corporation,"$13,702,864,208",Oct/2023,$2.40,5,,,2023-12-13,,0,2.40
+2,N/A,$0.89,time-pre-market,ABM,ABM Industries Incorporated,"$2,811,984,728",Oct/2023,$0.93,5,,,2023-12-13,,0,0.93
+3,12/14/2022,$0.25,time-pre-market,REVG,"REV Group, Inc.","$959,028,260",Oct/2023,$0.34,1,,,2023-12-13,,0,0.34
+4,12/14/2022,$1.45,time-not-supplied,RICK,"RCI Hospitality Holdings, Inc.","$579,410,975",Sep/2023,$0.92,2,,,2023-12-13,,0,0.92
+5,N/A,N/A,time-not-supplied,IREN,Iris Energy Limited,"$360,946,195",Sep/2023,$0.03,5,,,2023-12-13,,0,0.03
+6,12/14/2022,($0.02),time-not-supplied,UROY,Uranium Royalty Corp.,"$294,082,491",Oct/2023,,N/A,,,2023-12-13,,0,
+7,N/A,N/A,time-not-supplied,MSB,Mesabi Trust,"$237,865,781",Oct/2023,,5,,,2023-12-13,,0,
+8,N/A,$0.10,time-not-supplied,ISSC,"Innovative Solutions and Support, Inc.","$132,771,593",Sep/2023,,5,,,2023-12-13,,0,
+9,N/A,N/A,time-pre-market,QSG,QuantaSing Group Limited,"$120,349,411",Sep/2023,($0.01),5,,,2023-12-13,,0,-0.01
+10,12/14/2022,($0.07),time-not-supplied,BCTX,BriaCell Therapeutics Corp.,"$85,502,234",Oct/2023,($0.18),1,,,2023-12-13,,0,-0.18
+11,N/A,$0.56,time-not-supplied,STCN,"Steel Connect, Inc.","$60,792,131",Oct/2023,,5,,,2023-12-13,,0,
+12,N/A,($0.09),time-after-hours,OPTT,"Ocean Power Technologies, Inc.","$22,927,155",Oct/2023,,5,,,2023-12-13,,0,
+13,N/A,N/A,time-not-supplied,SLNA,Selina Hospitality PLC,"$22,112,631",Sep/2023,($0.30),5,,,2023-12-13,,0,-0.30
+14,N/A,($0.09),time-not-supplied,PMCB,"PharmaCyte  Biotech, Inc.","$19,838,508",Oct/2023,,5,,,2023-12-13,,0,
+15,N/A,($0.07),time-not-supplied,STRM,"Streamline Health Solutions, Inc.","$16,785,095",Oct/2023,,5,,,2023-12-13,,0,
+16,N/A,N/A,time-not-supplied,APDN,"Applied DNA Sciences, Inc.","$13,521,934",Sep/2023,($0.27),5,,,2023-12-13,,0,-0.27
+17,N/A,$0.01,time-not-supplied,IHT,InnSuites Hospitality Trust,"$11,437,881",Oct/2023,,5,,,2023-12-13,,0,
+18,N/A,($3.10),time-after-hours,MIND,"MIND Technology, Inc.","$7,211,511",Oct/2023,,5,,,2023-12-13,,0,

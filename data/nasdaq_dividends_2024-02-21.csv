@@ -1,28 +1,101 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
 "Applied Materials, Inc. Common Stock",AMAT,2/21/2024,3/14/2024,2/22/2024,0.32,1.28,12/07/2023
+"Littelfuse, Inc. Common Stock",LFUS,2/21/2024,3/07/2024,2/22/2024,0.65,2.6,1/25/2024
+Marriott International Class A Common Stock,MAR,2/21/2024,3/29/2024,2/22/2024,0.52,2.08,2/08/2024
+"Meta Platforms, Inc. Class A Common Stock",META,2/21/2024,3/26/2024,2/22/2024,0.5,0.0,2/01/2024
+Patria Investments Limited Class A Common Shares,PAX,2/21/2024,3/08/2024,2/22/2024,0.399,0.796,2/06/2024
+"Red Rock Resorts, Inc. Class A Common Stock",RRR,2/21/2024,3/04/2024,2/22/2024,1.0,1.0,2/07/2024
+Vinci Partners Investments Ltd. Class A Common Shares,VINP,2/21/2024,3/07/2024,2/22/2024,0.2,0.68,2/07/2024
+Warner Music Group Corp. Class A Common Stock,WMG,2/21/2024,3/01/2024,2/22/2024,0.17,0.68,2/19/2024
+"abrdn Australia Equity Fund, Inc. Common Stock",IAF,2/21/2024,3/28/2024,2/22/2024,0.12,0.48,2/09/2024
+"abrdn Asia-Pacific Income Fund, Inc. Common Stock",FAX,2/21/2024,2/29/2024,2/22/2024,0.0275,0.33,2/09/2024
+"abrdn Global Income Fund, Inc. Common Stock",FCO,2/21/2024,2/29/2024,2/22/2024,0.07,0.84,2/09/2024
+abrdn National Municipal Income Fund Common Stock,VFL,2/21/2024,2/29/2024,2/22/2024,0.0375,0.45,2/09/2024
+"Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",EIM,2/21/2024,2/29/2024,2/22/2024,0.0468,0.5616,2/01/2024
+"Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",ENX,2/21/2024,2/29/2024,2/22/2024,0.0394,0.4728,2/01/2024
+"Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",EVM,2/21/2024,2/29/2024,2/22/2024,0.0383,0.4596,2/01/2024
+"Barnes Group, Inc. Common Stock",B,2/21/2024,3/08/2024,2/22/2024,0.16,0.64,2/09/2024
+Materion Corporation,MTRN,2/21/2024,3/08/2024,2/22/2024,0.13,0.52,1/31/2024
+ClearBridge MLP and Midstream Fund Inc. Common Stock,CEM,2/21/2024,2/29/2024,2/22/2024,0.77,3.08,1/19/2024
 International Paper Company Common Stock,IP,2/21/2024,3/15/2024,2/22/2024,0.4625,1.85,1/09/2024
-Western Asset Investment Grade Income Fund Inc.,PAI,2/21/2024,3/01/2024,2/22/2024,0.0485,0.582,11/21/2023
-Western Asset Inflation-Linked Income Fund,WIA,2/21/2024,2/29/2024,2/22/2024,0.05,0.6,11/21/2023
-Western Asset High Income Fund II Inc. Common Stock,HIX,2/21/2024,3/01/2024,2/22/2024,0.049,0.588,11/14/2023
-"Western Asset Managed Municipals Fund, Inc. Common Stock",MMU,2/21/2024,3/01/2024,2/22/2024,0.0415,0.498,11/14/2023
-Western Asset High Yield Defined Opportunity Fund Inc. Common Stock,HYI,2/21/2024,3/01/2024,2/22/2024,0.095,1.14,11/14/2023
+Masco Corporation Common Stock,MAS,2/21/2024,3/11/2024,2/22/2024,0.29,1.16,2/08/2024
+Western Asset Investment Grade Income Fund Inc.,PAI,2/21/2024,3/01/2024,2/22/2024,0.0485,0.566,11/21/2023
+abrdn Healthcare Investors Shares of Beneficial Interest,HQH,2/21/2024,3/28/2024,2/22/2024,0.48,1.92,2/09/2024
 "Western Asset Municipal High Income Fund, Inc. Common Stock",MHF,2/21/2024,3/01/2024,2/22/2024,0.022,0.264,11/14/2023
+Flaherty & Crumrine Preferred and Income Fund Incorporated,PFD,2/21/2024,2/29/2024,2/22/2024,0.0555,0.666,1/19/2024
 Western Asset Intermediate Muni Fund Inc Common Stock,SBI,2/21/2024,3/01/2024,2/22/2024,0.031,0.372,11/14/2023
+Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,PFO,2/21/2024,2/29/2024,2/22/2024,0.0456,0.5472,1/19/2024
+abrdn Life Sciences Investors Shares of Beneficial Interest,HQL,2/21/2024,3/28/2024,2/22/2024,0.39,1.56,2/09/2024
+"Western Asset Managed Municipals Fund, Inc. Common Stock",MMU,2/21/2024,3/01/2024,2/22/2024,0.0415,0.498,11/14/2023
 "Western Asset High Income Opportunity Fund, Inc. Common Stock",HIO,2/21/2024,3/01/2024,2/22/2024,0.0355,0.426,11/14/2023
+"India Fund, Inc. (The) Common Stock",IFN,2/21/2024,3/28/2024,2/22/2024,0.43,1.72,2/09/2024
+Western Asset High Income Fund II Inc. Common Stock,HIX,2/21/2024,3/01/2024,2/22/2024,0.049,0.588,11/14/2023
+"Tortoise Midstream Energy Fund, Inc. Common Stock",NTG,2/21/2024,2/29/2024,2/22/2024,0.77,3.08,2/07/2024
 Western Asset Bond Fund Share of Beneficial Interest,WEA,2/21/2024,3/01/2024,2/22/2024,0.07,0.84,11/21/2023
 Western Asset Global High Income Fund Inc Common Stock,EHI,2/21/2024,3/01/2024,2/22/2024,0.067,0.804,11/14/2023
+Flaherty & Crumrine Total Return Fund Inc Common Stock,FLC,2/21/2024,2/29/2024,2/22/2024,0.0856,1.0272,1/19/2024
+Western Asset Inflation-Linked Income Fund,WIA,2/21/2024,2/29/2024,2/22/2024,0.05,0.6,11/21/2023
+Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,EVT,2/21/2024,2/29/2024,2/22/2024,0.1488,1.7856,2/01/2024
 E-mini S&P MidCap 400 Futures ,EMD,2/21/2024,3/01/2024,2/22/2024,0.0845,1.014,11/14/2023
+Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,EFR,2/21/2024,2/29/2024,2/22/2024,0.121,1.452,2/01/2024
+"Tempur Sealy International, Inc. Common Stock",TPX,2/21/2024,3/07/2024,2/22/2024,0.13,0.52,2/08/2024
+Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,ETG,2/21/2024,2/29/2024,2/22/2024,0.1001,1.2012,2/01/2024
 LMP Capital and Income Fund Inc. Common Stock,SCD,2/21/2024,3/01/2024,2/22/2024,0.113,1.356,11/14/2023
+Tortoise Energy Infrastructure Corporation Common Stock,TYG,2/21/2024,2/29/2024,2/22/2024,0.71,2.84,2/07/2024
 Western Asset Inflation-Linked Opportunities & Income Fund,WIW,2/21/2024,2/29/2024,2/22/2024,0.0605,0.726,11/21/2023
+Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,ETO,2/21/2024,2/29/2024,2/22/2024,0.1374,1.6488,2/01/2024
+Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,EFT,2/21/2024,2/29/2024,2/22/2024,0.118,1.416,2/01/2024
+Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest,EOI,2/21/2024,2/29/2024,2/22/2024,0.1095,1.314,2/01/2024
+EOS,EOS,2/21/2024,2/29/2024,2/22/2024,0.1152,1.3824,2/01/2024
+Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,EVG,2/21/2024,2/29/2024,2/22/2024,0.0787,0.9444,2/01/2024
+Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest,ETB,2/21/2024,2/29/2024,2/22/2024,0.0932,1.1184,2/01/2024
+Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest,ETW,2/21/2024,2/29/2024,2/22/2024,0.0582,0.6984,2/01/2024
+Global Ship Lease Inc New Class A Common Shares,GSL,2/21/2024,3/06/2024,2/22/2024,0.375,1.5,2/12/2024
+"Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",ETY,2/21/2024,2/29/2024,2/22/2024,0.0805,0.966,2/01/2024
+abrdn Global Premier Properties Fund Common Shares of Beneficial Interest,AWP,2/21/2024,2/29/2024,2/22/2024,0.04,0.48,2/09/2024
+Discover Financial Services Common Stock,DFS,2/21/2024,3/07/2024,2/22/2024,0.7,2.8,1/17/2024
+Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,FFC,2/21/2024,2/29/2024,2/22/2024,0.0838,1.0056,1/19/2024
+Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,DFP,2/21/2024,2/29/2024,2/22/2024,0.1075,1.29,1/19/2024
+ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock,EMO,2/21/2024,2/29/2024,2/22/2024,0.67,2.68,1/19/2024
+Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,ETJ,2/21/2024,2/29/2024,2/22/2024,0.0579,0.6948,2/01/2024
 Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest,BSL,2/21/2024,2/29/2024,2/22/2024,0.114,1.368,12/11/2023
+Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST,EOT,2/21/2024,2/29/2024,2/22/2024,0.0625,0.75,2/01/2024
 Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock,IGI,2/21/2024,3/01/2024,2/22/2024,0.0695,0.834,11/14/2023
+"Tortoise Power and Energy Infrastructure Fund, Inc Common Stock",TPZ,2/21/2024,2/29/2024,2/22/2024,0.105,1.26,2/07/2024
 Western Asset Global Corporate Defined Opportunity Fund Inc.,GDO,2/21/2024,3/01/2024,2/22/2024,0.102,1.224,11/14/2023
+Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,ETV,2/21/2024,2/29/2024,2/22/2024,0.0949,1.1388,2/01/2024
 Western Asset Mortgage Opportunity Fund Inc. Common Stock,DMO,2/21/2024,3/01/2024,2/22/2024,0.12,1.44,11/14/2023
+Western Asset High Yield Defined Opportunity Fund Inc. Common Stock,HYI,2/21/2024,3/01/2024,2/22/2024,0.095,1.14,11/14/2023
+abrdn Income Credit Strategies Fund Common Shares,ACP,2/21/2024,2/29/2024,2/22/2024,0.1,1.2,2/09/2024
 Blackstone Long Short Credit Income Fund Common Shares,BGX,2/21/2024,2/29/2024,2/22/2024,0.103,1.236,12/11/2023
+Apollo Senior Floating Rate Fund Inc. Common Stock,AFT,2/21/2024,2/29/2024,2/22/2024,0.137,1.644,2/09/2024
+"Tortoise Pipeline & Energy Fund, Inc. Common Stock",TTP,2/21/2024,2/29/2024,2/22/2024,0.59,2.36,2/07/2024
 BrandywineGLOBAL Global Income Opportunities Fund Inc.,BWG,2/21/2024,3/01/2024,2/22/2024,0.08,0.96,11/14/2023
+Regional Management Corp. Common Stock,RM,2/21/2024,3/14/2024,2/22/2024,0.3,1.2,2/07/2024
+ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock,CTR,2/21/2024,2/29/2024,2/22/2024,0.7,2.8,1/19/2024
+"Tortoise Energy Independence Fund, Inc. Common Stock",NDP,2/21/2024,2/29/2024,2/22/2024,0.63,2.52,2/07/2024
 Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest,BGB,2/21/2024,2/29/2024,2/22/2024,0.094,1.128,12/11/2023
+Apollo Tactical Income Fund Inc. Common Stock,AIF,2/21/2024,2/29/2024,2/22/2024,0.133,1.596,2/09/2024
+Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest,ETX,2/21/2024,2/29/2024,2/22/2024,0.0782,0.9384,2/01/2024
+abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,AOD,2/21/2024,2/29/2024,2/22/2024,0.0575,0.69,2/09/2024
+abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest,AGD,2/21/2024,2/29/2024,2/22/2024,0.065,0.78,2/09/2024
+Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest,EXG,2/21/2024,2/29/2024,2/22/2024,0.0553,0.6636,2/01/2024
+"abrdn Japan Equity Fund, Inc. Common Stock",JEQ,2/21/2024,3/28/2024,2/22/2024,0.11,0.44,2/09/2024
+abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,THQ,2/21/2024,2/29/2024,2/22/2024,0.18,2.16,2/09/2024
 Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest,HIE,2/21/2024,2/29/2024,2/22/2024,0.051,0.612,1/02/2024
+abrdn World Healthcare Fund Shares of Beneficial Interest,THW,2/21/2024,2/29/2024,2/22/2024,0.1167,1.4004,2/09/2024
+Peabody Energy Corporation Common Stock ,BTU,2/21/2024,3/13/2024,2/22/2024,0.075,0.3,2/08/2024
+Kinetik Holdings Inc. Class A Common Stock,KNTK,2/21/2024,3/07/2024,2/22/2024,0.75,3.0,1/24/2024
+Highland Opportunities and Income Fund Common Shares of Beneficial Interest,HFRO,2/21/2024,2/29/2024,2/22/2024,0.0385,0.462,2/01/2024
 Highland Global Allocation Fund Common Stock,HGLB,2/21/2024,2/29/2024,2/22/2024,0.081,0.972,1/02/2024
 Ecofin Sustainable and Social Impact Term Fund,TEAF,2/21/2024,2/29/2024,2/22/2024,0.09,1.08,11/09/2023
+abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,ASGI,2/21/2024,2/29/2024,2/22/2024,0.15,1.8,2/09/2024
+"Angel Oak Mortgage REIT, Inc. Common Stock",AOMR,2/21/2024,2/29/2024,2/22/2024,0.32,1.28,2/07/2024
 Western Asset Diversified Income Fund Common Shares of Beneficial Interest,WDI,2/21/2024,3/01/2024,2/22/2024,0.143,1.716,11/14/2023
+FS Credit Opportunities Corp. Common Stock,FSCO,2/21/2024,2/29/2024,2/22/2024,0.057,0.684,2/09/2024
+Atlas Energy Solutions Inc. Common Stock,AESI,2/21/2024,2/29/2024,2/22/2024,0.21,0.84,2/08/2024
+Astrazeneca plc,AZNCF,2/21/2024,3/25/2024,2/23/2024,1.97,3.94,N/A
 International Paper Co. PRF PERPETUAL USD 4,INPAP,2/21/2024,3/15/2024,2/22/2024,1.0,4.0,1/09/2024
+ECA Marcellus Trust I Unit,ECTM,2/21/2024,2/29/2024,2/22/2024,0.03,0.12,2/12/2024
+Unilever plc,UNLYF,2/21/2024,3/22/2024,2/23/2024,0.4582,1.8328,N/A
+AGL Energy Ltd ADR,AGLXY,2/21/2024,3/29/2024,2/22/2024,0.098764,0.1975,N/A

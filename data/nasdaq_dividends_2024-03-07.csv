@@ -1,10 +1,60 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"Auburn National Bancorporation, Inc. Common Stock",AUBN,3/07/2024,3/25/2024,3/08/2024,0.27,1.08,2/13/2024
+"Automatic Data Processing, Inc. Common Stock",ADP,3/07/2024,4/01/2024,3/08/2024,1.4,5.6,1/10/2024
+"Brighthouse Financial, Inc. Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A",BHFAP,3/07/2024,3/25/2024,3/10/2024,0.4125,1.65,2/15/2024
+"Brighthouse Financial, Inc. Depositary Shares 6.75% Non-Cumulative Preferred Stock, Series B",BHFAO,3/07/2024,3/25/2024,3/10/2024,0.421875,1.6875,2/15/2024
+"Brighthouse Financial, Inc. Depositary shares each representing a 1/1,000th Interest in a Share of 4.625% Non-Cumulative Preferred Stock, Series D",BHFAM,3/07/2024,3/25/2024,3/10/2024,0.2890625,1.15625,2/15/2024
+"Brighthouse Financial, Inc. Depositary shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series C",BHFAN,3/07/2024,3/25/2024,3/10/2024,0.3359375,1.34375,2/15/2024
+CME Group Inc. Class A Common Stock,CME,3/07/2024,3/26/2024,3/08/2024,1.15,4.4,2/08/2024
+Columbia Sportswear Company Common Stock,COLM,3/07/2024,3/22/2024,3/08/2024,0.3,1.2,1/26/2024
+"Exponent, Inc. Common Stock",EXPO,3/07/2024,3/22/2024,3/08/2024,0.28,1.04,2/01/2024
+FAT Brands Inc. 8.25% Series B Cumulative Preferred Stock,FATBP,3/07/2024,3/20/2024,3/08/2024,0.171875,2.0625,2/06/2024
+"Jack Henry & Associates, Inc. Common Stock",JKHY,3/07/2024,3/26/2024,3/08/2024,0.55,2.08,2/09/2024
 Main Street Capital Corporation Common Stock,MAIN,3/07/2024,3/15/2024,3/08/2024,0.24,2.82,11/01/2023
-Main Street Capital Corporation Common Stock,MAIN,3/07/2024,3/15/2024,3/08/2024,0.24,2.88,11/01/2023
+"Monro, Inc. Common Stock",MNRO,3/07/2024,3/22/2024,3/08/2024,0.28,1.12,2/08/2024
+Northern Trust Corporation Common Stock,NTRS,3/07/2024,4/01/2024,3/08/2024,0.75,3.0,1/17/2024
+PotlatchDeltic Corporation Common Stock,PCH,3/07/2024,3/29/2024,3/08/2024,0.45,1.8,2/09/2024
+Silvercrest Asset Management Group Inc. Class A Common Stock,SAMG,3/07/2024,3/15/2024,3/08/2024,0.19,0.76,2/13/2024
+The Kraft Heinz Company Common Stock,KHC,3/07/2024,3/29/2024,3/08/2024,0.4,1.6,2/14/2024
+"AMETEK, Inc.",AME,3/07/2024,3/28/2024,3/08/2024,0.28,1.12,2/09/2024
+"Becton, Dickinson and Company Common Stock",BDX,3/07/2024,3/29/2024,3/08/2024,0.95,3.8,1/23/2024
+Kimberly-Clark Corporation Common Stock,KMB,3/07/2024,4/02/2024,3/08/2024,1.22,4.88,1/24/2024
+Occidental Petroleum Corporation Common Stock,OXY,3/07/2024,4/15/2024,3/08/2024,0.22,0.88,2/08/2024
+Public Service Enterprise Group Incorporated Common Stock,PEG,3/07/2024,3/29/2024,3/08/2024,0.6,2.4,2/13/2024
+Weyerhaeuser Company Common Stock,WY,3/07/2024,3/22/2024,3/08/2024,0.2,0.8,2/08/2024
+"Williams Companies, Inc. (The) Common Stock",WMB,3/07/2024,3/25/2024,3/08/2024,0.475,1.9,1/30/2024
+Brown Forman Inc Class A Common Stock,BF.A,3/07/2024,4/01/2024,3/08/2024,0.2178,0.8712,1/23/2024
+Brown Forman Inc Class B Common Stock,BF.B,3/07/2024,4/01/2024,3/08/2024,0.2178,0.8712,1/23/2024
+"The Travelers Companies, Inc. Common Stock",TRV,3/07/2024,3/29/2024,3/08/2024,1.0,4.0,1/19/2024
 Unifirst Corporation Common Stock,UNF,3/07/2024,3/29/2024,3/08/2024,0.33,1.32,1/08/2024
+Terex Corporation Common Stock,TEX,3/07/2024,3/19/2024,3/08/2024,0.17,0.68,2/08/2024
+"Simon Property Group, Inc. Common Stock",SPG,3/07/2024,3/29/2024,3/08/2024,1.95,7.8,2/05/2024
+Reliance Steel & Aluminum Co. Common Stock (DE),RS,3/07/2024,3/22/2024,3/08/2024,1.1,4.4,2/13/2024
+"Lithia Motors, Inc. Common Stock",LAD,3/07/2024,3/22/2024,3/09/2024,0.5,2.0,2/14/2024
+UNIVERSAL INSURANCE HOLDINGS INC Common Stock,UVE,3/07/2024,3/15/2024,3/08/2024,0.16,0.64,2/08/2024
+Novartis AG Common Stock,NVS,3/07/2024,1/01/0001,3/08/2024,3.777213,3.7772,2/12/2024
+"Elevance Health, Inc. Common Stock",ELV,3/07/2024,3/22/2024,3/08/2024,1.63,6.52,1/23/2024
+"CNO Financial Group, Inc. Common Stock",CNO,3/07/2024,3/22/2024,3/08/2024,0.15,0.6,2/13/2024
+Koppers Holdings Inc. Common Stock,KOP,3/07/2024,3/25/2024,3/08/2024,0.07,0.28,2/14/2024
+Main Street Capital Corporation Common Stock,MAIN,3/07/2024,3/15/2024,3/08/2024,0.24,2.88,11/01/2023
+Scorpio Tankers Inc. Common Shares,STNG,3/07/2024,3/27/2024,3/08/2024,0.4,1.6,2/13/2024
+First American Corporation (New) Common Stock,FAF,3/07/2024,3/15/2024,3/08/2024,0.53,2.12,1/30/2024
 Eagle Point Credit Company Inc. Common Stock,ECC,3/07/2024,3/28/2024,3/08/2024,0.14,1.68,11/08/2023
+ITT Inc. Common Stock ,ITT,3/07/2024,4/01/2024,3/08/2024,0.319,1.276,2/08/2024
+"Schneider National, Inc. Common Stock",SNDR,3/07/2024,4/09/2024,3/08/2024,0.095,0.38,1/29/2024
+Knight-Swift Transportation Holdings Inc.,KNX,3/07/2024,3/25/2024,3/08/2024,0.16,0.64,2/02/2024
 Eagle Point Income Company Inc. Common Stock,EIC,3/07/2024,3/28/2024,3/08/2024,0.2,2.4,11/08/2023
+"Kontoor Brands, Inc. Common Stock ",KTB,3/07/2024,3/18/2024,3/08/2024,0.5,2.0,2/16/2024
 Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,ECCC,3/07/2024,3/28/2024,3/08/2024,0.135417,1.625,11/08/2023
 Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,EICA,3/07/2024,3/28/2024,3/08/2024,0.104167,1.25,11/08/2023
+Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029,ECCF,3/07/2024,3/28/2024,3/08/2024,0.166667,1.6876,2/13/2024
+Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028,EICB,3/07/2024,3/28/2024,3/08/2024,0.161459,1.9375,11/08/2023
+Southern California Gas Co 6% PFS PERPETUAL USD 25,SOCGM,3/07/2024,4/15/2024,3/10/2024,0.375,1.5,1/24/2024
+Southern California Gas Co 6% PRF PERPETUAL USD 25 - Cl A,SOCGP,3/07/2024,4/15/2024,3/10/2024,0.375,1.5,1/24/2024
+Somerset Trust Holding Co.,SOME,3/07/2024,3/20/2024,3/08/2024,0.41,1.64,2/15/2024
 Connecticut Light & Power Co 6.48% PRF PERPETUAL USD 50 - Series G,CNLPL,3/07/2024,4/01/2024,3/08/2024,0.81,3.24,12/19/2023
 Connecticut Light & Power Co 5.28% PRF PERPETUAL USD 50,CNTHO,3/07/2024,4/01/2024,3/08/2024,0.66,2.64,1/09/2024
+HFB Financial Corp.,HFBA,3/07/2024,3/29/2024,3/08/2024,0.41,0.82,1/23/2024
+PZ Cussons plc ADR,PZCUY,3/07/2024,4/19/2024,3/08/2024,0.033304,0.0666,N/A
+South32 Limited,SHTLF,3/07/2024,4/04/2024,3/08/2024,0.004,0.008,N/A
+South32 Limited ADR,SOUHY,3/07/2024,4/04/2024,3/08/2024,0.0184,0.0368,N/A

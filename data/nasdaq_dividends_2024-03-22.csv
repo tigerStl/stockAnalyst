@@ -1,1 +1,5 @@
-
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+Novo Nordisk A/S Common Stock,NVO,3/22/2024,4/02/2024,3/25/2024,0.92985,1.8597,1/31/2024
+Heartland Bancorp.,HLAN,3/22/2024,4/10/2024,3/25/2024,0.759,3.036,1/23/2024
+Nordea Bank Abp ADR,NRDBY,3/22/2024,4/10/2024,3/25/2024,0.98716,1.7495,N/A
+Danske Bank AS ADR,DNKEY,3/22/2024,4/02/2024,3/25/2024,0.3876641,0.3877,N/A

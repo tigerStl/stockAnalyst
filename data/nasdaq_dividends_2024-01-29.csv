@@ -1,1 +1,4 @@
-
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"ConAgra Brands, Inc. Common Stock",CAG,1/29/2024,2/29/2024,1/30/2024,0.35,1.4,12/14/2023
+Pharma-Bio Serv Inc,PBSV,1/29/2024,2/15/2024,1/30/2024,0.075,0.0,12/21/2023
+Bristol-Myers Squibb Co. 4% PRF PERPETUAL USD 50,BMYMP,1/29/2024,3/01/2024,1/30/2024,0.5,2.0,12/06/2023

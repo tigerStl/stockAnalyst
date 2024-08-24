@@ -1,8 +1,20 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+AT&T Inc.,T,1/09/2024,2/01/2024,1/10/2024,0.2775,1.11,12/13/2023
+"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",T^C,1/09/2024,2/01/2024,1/10/2024,0.296875,1.1875,12/13/2023
+"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",T^A,1/09/2024,2/01/2024,1/10/2024,0.3125,1.25,12/13/2023
+Brady Corporation Common Stock,BRC,1/09/2024,1/31/2024,1/10/2024,0.235,0.94,11/15/2023
+Brookfield Real Assets Income Fund Inc. Common Stock,RA,1/09/2024,1/25/2024,1/10/2024,0.118,1.416,12/29/2023
+"City Office REIT, Inc. 6.625% Series A Cumulative Redeemable Preferred Stock",CIO^A,1/09/2024,1/24/2024,1/10/2024,0.4140625,1.6562,12/15/2023
+"City Office REIT, Inc. Common Stock",CIO,1/09/2024,1/24/2024,1/10/2024,0.1,0.4,12/15/2023
+"Darden Restaurants, Inc. Common Stock",DRI,1/09/2024,2/01/2024,1/10/2024,1.31,5.24,12/15/2023
 "DigitalBridge Group, Inc. 7.125% Series H ",DBRG^H,1/09/2024,1/16/2024,1/10/2024,0.4453125,1.7812,10/27/2023
 "DigitalBridge Group, Inc. 7.125% Series J ",DBRG^J,1/09/2024,1/16/2024,1/10/2024,0.4453125,1.7812,10/27/2023
 "DigitalBridge Group, Inc. 7.15% Series I ",DBRG^I,1/09/2024,1/16/2024,1/10/2024,0.446875,1.7875,10/27/2023
 "General Mills, Inc. Common Stock",GIS,1/09/2024,2/01/2024,1/10/2024,0.59,2.36,11/14/2023
+"InterDigital, Inc. Common Stock",IDCC,1/09/2024,1/24/2024,1/10/2024,0.4,1.6,11/30/2023
+Intuit Inc. Common Stock,INTU,1/09/2024,1/18/2024,1/10/2024,0.9,3.6,11/16/2023
 Lincoln National Corporation Common Stock,LNC,1/09/2024,2/01/2024,1/10/2024,0.45,1.8,11/09/2023
-Brady Corporation Common Stock,BRC,1/09/2024,1/31/2024,1/10/2024,0.235,0.94,11/15/2023
-Bank Of America Corp. 7% PRF PERPETUAL USD - Ser B,BACRP,1/09/2024,1/25/2024,1/10/2024,1.75,7.0,10/18/2023
+Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,SABA,1/09/2024,1/31/2024,1/10/2024,0.029,0.348,12/31/2023
+SoFi Weekly Dividend ETF,WKLY,1/09/2024,1/11/2024,1/10/2024,0.02,1.4703,12/28/2023
+"UDR, Inc. Common Stock",UDR,1/09/2024,1/31/2024,1/10/2024,0.42,1.68,12/14/2023
+Verizon Communications Inc. Common Stock,VZ,1/09/2024,2/01/2024,1/10/2024,0.665,2.66,12/07/2023

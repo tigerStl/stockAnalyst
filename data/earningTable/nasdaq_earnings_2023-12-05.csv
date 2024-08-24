@@ -1,58 +1,28 @@
-,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts
-0,N/A,N/A,time-not-supplied,BHP,BHP Group Limited,"$318,753,888,739",Sep/2023,,7
-1,12/06/2022,$27.45,time-pre-market,AZO,"AutoZone, Inc.","$46,715,169,501",Nov/2023,$31.04,11
-2,12/06/2022,$2.95,time-pre-market,FERG,Ferguson plc,"$35,148,158,447",Oct/2023,$2.65,5
-3,N/A,N/A,time-not-supplied,SATX,SatixFy Communications Ltd.,"$34,850,595,168",Sep/2023,,7
-4,12/06/2022,($1.23),time-after-hours,MDB,"MongoDB, Inc.","$31,051,316,786",Oct/2023,($0.64),8
-5,11/10/2022,($0.36),time-pre-market,NIO,NIO Inc.,"$12,291,605,612",Sep/2023,($0.43),1
-6,11/21/2022,$2.40,time-pre-market,SJM,J.M. Smucker Company (The),"$11,379,483,373",Oct/2023,$2.47,8
-7,12/06/2022,$4.67,time-after-hours,TOL,"Toll Brothers, Inc.","$9,434,506,620",Oct/2023,$3.64,8
-8,12/13/2022,$0.65,time-pre-market,CNM,"Core & Main, Inc.","$8,143,987,572",Oct/2023,$0.68,3
-9,12/07/2022,$0.31,time-after-hours,DSGX,The Descartes Systems Group Inc.,"$7,006,798,793",Oct/2023,$0.32,1
-10,12/06/2022,$0.21,time-after-hours,HQY,"HealthEquity, Inc.","$5,941,693,682",Oct/2023,$0.32,6
-11,12/06/2022,($0.32),time-after-hours,S,"SentinelOne, Inc.","$5,863,212,088",Oct/2023,($0.27),9
-12,12/01/2022,($0.49),time-after-hours,ASAN,"Asana, Inc.","$4,933,961,725",Oct/2023,($0.35),7
-13,12/06/2022,$0.74,time-pre-market,SIG,Signet Jewelers Limited,"$3,832,830,568",Oct/2023,$0.15,2
-14,11/30/2022,$0.04,time-after-hours,BOX,"Box, Inc.","$3,827,287,819",Oct/2023,$0.02,7
-15,12/06/2022,N/A,time-after-hours,AVAV,"AeroVironment, Inc.","$3,673,037,372",Oct/2023,$0.67,3
-16,11/22/2022,$0.10,time-not-supplied,CD,Chindata Group Holdings Limited,"$3,109,556,578",Sep/2023,$0.09,1
-17,12/06/2022,$0.04,time-after-hours,PLAY,"Dave & Buster's Entertainment, Inc.","$1,852,661,406",Oct/2023,($0.21),6
-18,N/A,$0.95,time-not-supplied,IESC,"IES Holdings, Inc.","$1,446,322,803",Sep/2023,,7
-19,11/30/2022,$1.35,time-pre-market,GIII,"G-III Apparel Group, LTD.","$1,333,681,628",Oct/2023,$2.08,4
-20,12/05/2022,$0.73,time-after-hours,POWL,"Powell Industries, Inc.","$1,003,879,745",Sep/2023,$1.24,1
-21,12/08/2022,($0.76),time-after-hours,PHR,"Phreesia, Inc.","$877,265,829",Oct/2023,($0.72),4
-22,11/30/2022,($0.10),time-after-hours,YEXT,"Yext, Inc.","$852,710,591",Oct/2023,($0.03),2
-23,12/01/2022,$0.67,time-pre-market,DBI,Designer Brands Inc.,"$723,749,886",Oct/2023,$0.44,3
-24,12/06/2022,$0.26,time-not-supplied,SWBI,"Smith & Wesson Brands, Inc.","$641,924,953",Oct/2023,,N/A
-25,12/08/2022,$8.56,time-pre-market,HOV,Hovnanian Enterprises Inc,"$579,732,524",Oct/2023,,N/A
-26,N/A,($0.29),time-pre-market,DAKT,"Daktronics, Inc.","$496,937,528",Oct/2023,,7
-27,11/16/2022,$0.48,time-pre-market,CRMT,"America's Car-Mart, Inc.","$481,648,709",Oct/2023,$0.74,3
-28,12/06/2022,($0.46),time-after-hours,SFIX,"Stitch Fix, Inc.","$465,789,063",Oct/2023,($0.23),8
-29,N/A,($0.10),time-pre-market,HEPS,D-Market Electronic Services & Trading,"$446,617,657",Sep/2023,,7
-30,N/A,$0.76,time-not-supplied,VLGEA,"Village Super Market, Inc.","$385,187,349",Oct/2023,,7
-31,12/06/2022,$0.77,time-pre-market,JILL,"J. Jill, Inc.","$324,124,691",Oct/2023,$0.62,2
-32,11/30/2022,($0.01),time-after-hours,OOMA,"Ooma, Inc.","$303,616,000",Oct/2023,$0.01,6
-33,11/22/2022,($0.12),time-not-supplied,MESO,Mesoblast Limited,"$221,316,042",Sep/2023,($0.13),1
-34,12/01/2022,($0.14),time-pre-market,LE,"Lands' End, Inc.","$213,905,714",Oct/2023,($0.16),1
-35,12/06/2022,($3.60),time-after-hours,SKIL,Skillsoft Corp.,"$144,213,320",Oct/2023,$4,1
-36,N/A,$0.31,time-not-supplied,CSPI,CSP Inc.,"$130,953,772",Sep/2023,,7
-37,12/06/2022,($0.78),time-not-supplied,CONN,"Conn's, Inc.","$84,944,551",Oct/2023,($1.48),1
-38,N/A,($1.41),time-pre-market,ZFOX,"ZeroFox Holdings, Inc.","$77,184,477",Oct/2023,($0.06),7
-39,N/A,N/A,time-not-supplied,RFAC,RF Acquisition Corp.,"$76,642,898",Sep/2023,,7
-40,N/A,N/A,time-not-supplied,GLST,"Global Star Acquisition, Inc.","$61,125,896",Sep/2023,,7
-41,N/A,$0.13,time-not-supplied,PATI,"Patriot Transportation Holding, Inc.","$55,542,201",Sep/2023,,7
-42,N/A,$0.05,time-not-supplied,INCR,Intercure Ltd.,"$55,142,953",Sep/2023,,7
-43,N/A,$0.21,time-not-supplied,PPIH,"Perma-Pipe International Holdings, Inc.","$52,332,121",Oct/2023,,7
-44,N/A,$1.86,time-not-supplied,NM,Navios Maritime Holdings Inc.,"$51,397,735",Sep/2023,,7
-45,11/01/2022,($0.09),time-not-supplied,DZSI,DZS Inc.,"$47,674,460",Sep/2023,$0.08,3
-46,12/07/2022,($0.47),time-after-hours,RENT,"Rent the Runway, Inc.","$40,680,815",Oct/2023,($0.42),4
-47,11/08/2022,($27.50),time-not-supplied,KRRO,"Korro Bio, Inc.","$36,187,774",Sep/2023,,N/A
-48,11/15/2022,($2.99),time-not-supplied,FRLN,Freeline Therapeutics Holdings plc,"$27,043,838",Sep/2023,($0.24),2
-49,N/A,($1.20),time-not-supplied,VHC,VirnetX Holding Corp,"$25,546,122",Sep/2023,,7
-50,N/A,($0.01),time-not-supplied,AIH,Aesthetic Medical International Holdings Group Ltd.,"$20,702,382",Sep/2023,,7
-51,N/A,($6.50),time-not-supplied,ARVL,Arrival,"$19,993,455",Sep/2023,,7
-52,N/A,($22.40),time-not-supplied,RDHL,Redhill Biopharma Ltd.,"$18,377,506",Sep/2023,,7
-53,N/A,($0.20),time-not-supplied,YJ,Yunji Inc.,"$16,149,197",Sep/2023,,7
-54,N/A,$0.34,time-not-supplied,TEDU,"Tarena International, Inc.","$13,120,843",Sep/2023,,7
-55,N/A,$2,time-not-supplied,OP,OceanPal Inc.,"$8,518,761",Sep/2023,,7
-56,11/15/2022,($99.99),time-not-supplied,GNLN,"Greenlane Holdings, Inc.","$1,540,602",Sep/2023,($2.70),1
+,eps,surprise,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+1,$27.45,N/A,time-pre-market,AZO,"AutoZone, Inc.","$46,715,169,501",Nov/2023,$31.01,11,,,2023-12-05,,27.45,31.01
+2,$2.95,N/A,time-pre-market,FERG,Ferguson plc,"$35,148,158,447",Oct/2023,$2.65,5,,,2023-12-05,,2.95,2.65
+6,$2.40,N/A,time-pre-market,SJM,J.M. Smucker Company (The),"$11,379,483,373",Oct/2023,$2.47,8,,,2023-12-05,,2.40,2.47
+7,$4.67,N/A,time-after-hours,TOL,"Toll Brothers, Inc.","$9,434,506,620",Oct/2023,$3.66,8,,,2023-12-05,,4.67,3.66
+8,$0.65,N/A,time-pre-market,CNM,"Core & Main, Inc.","$8,143,987,572",Oct/2023,$0.68,3,,,2023-12-05,,0.65,0.68
+9,$0.31,N/A,time-after-hours,DSGX,The Descartes Systems Group Inc.,"$6,934,467,254",Oct/2023,$0.32,1,,,2023-12-05,,0.31,0.32
+10,$0.21,N/A,time-after-hours,HQY,"HealthEquity, Inc.","$5,913,436,600",Oct/2023,$0.32,6,,,2023-12-05,,0.21,0.32
+13,$0.74,N/A,time-pre-market,SIG,Signet Jewelers Limited,"$3,832,830,568",Oct/2023,$0.15,2,,,2023-12-05,,0.74,0.15
+14,$0.04,N/A,time-after-hours,BOX,"Box, Inc.","$3,827,287,819",Oct/2023,$0.02,7,,,2023-12-05,,0.04,0.02
+15,$0,N/A,time-after-hours,AVAV,"AeroVironment, Inc.","$3,684,605,166",Oct/2023,$0.67,3,,,2023-12-05,,0,0.67
+16,$0.10,N/A,time-not-supplied,CD,Chindata Group Holdings Limited,"$3,080,324,554",Sep/2023,$0.09,1,,,2023-12-05,,0.10,0.09
+17,$0.04,N/A,time-after-hours,PLAY,"Dave & Buster's Entertainment, Inc.","$1,832,477,103",Oct/2023,($0.22),6,,,2023-12-05,,0.04,-0.22
+18,$0.95,N/A,time-not-supplied,IESC,"IES Holdings, Inc.","$1,456,822,424",Sep/2023,,6,,,2023-12-05,,0.95,
+19,$1.35,N/A,time-pre-market,GIII,"G-III Apparel Group, LTD.","$1,354,941,894",Oct/2023,$2.08,4,,,2023-12-05,,1.35,2.08
+20,$0.73,N/A,time-after-hours,POWL,"Powell Industries, Inc.","$1,078,245,600",Sep/2023,$1.24,1,,,2023-12-05,,0.73,1.24
+23,$0.67,N/A,time-pre-market,DBI,Designer Brands Inc.,"$723,749,886",Oct/2023,$0.44,3,,,2023-12-05,,0.67,0.44
+24,$0.26,N/A,time-not-supplied,SWBI,"Smith & Wesson Brands, Inc.","$649,770,190",Oct/2023,,N/A,,,2023-12-05,,0.26,
+25,$8.56,N/A,time-pre-market,HOV,Hovnanian Enterprises Inc,"$602,770,676",Oct/2023,,N/A,,,2023-12-05,,8.56,
+26,$0.48,N/A,time-pre-market,CRMT,"America's Car-Mart, Inc.","$515,856,170",Oct/2023,$0.74,3,,,2023-12-05,,0.48,0.74
+28,$0.77,N/A,time-pre-market,JILL,"J. Jill, Inc.","$324,124,691",Oct/2023,$0.62,2,,,2023-12-05,,0.77,0.62
+33,$0.31,N/A,time-not-supplied,CSPI,CSP Inc.,"$119,418,493",Sep/2023,,6,,,2023-12-05,,0.31,
+37,$0.05,N/A,time-not-supplied,INCR,Intercure Ltd.,"$58,333,041",Sep/2023,,6,,,2023-12-05,,0.05,
+38,$0.13,N/A,time-not-supplied,PATI,"Patriot Transportation Holding, Inc.","$56,423,824",Sep/2023,,6,,,2023-12-05,,0.13,
+39,$0.21,N/A,time-not-supplied,PPIH,"Perma-Pipe International Holdings, Inc.","$54,509,266",Oct/2023,,6,,,2023-12-05,,0.21,
+40,$1.86,N/A,time-not-supplied,NM,Navios Maritime Holdings Inc.,"$51,397,735",Sep/2023,,6,,,2023-12-05,,1.86,
+50,$0.34,N/A,time-not-supplied,TEDU,"Tarena International, Inc.","$13,228,391",Sep/2023,,6,,,2023-12-05,,0.34,
+51,$2,N/A,time-not-supplied,OP,OceanPal Inc.,"$8,199,308",Sep/2023,,6,,,2023-12-05,,2,

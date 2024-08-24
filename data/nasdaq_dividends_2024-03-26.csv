@@ -1,2 +1,5 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
-Bank First Corporation Common Stock,BFC,3/26/2024,4/10/2024,3/27/2024,0.35,0.0,1/16/2024
+Bank First Corporation Common Stock,BFC,3/26/2024,4/10/2024,3/27/2024,0.35,1.2,1/16/2024
+"Herzfeld Caribbean Basin Fund, Inc. (The) Common Stock",CUBA,3/26/2024,5/10/2024,3/27/2024,0.135375,0.5415,2/12/2024
+Mercer International Inc. Common Stock,MERC,3/26/2024,4/04/2024,3/27/2024,0.075,0.3,2/15/2024
+Prospect Capital Corporation Common Stock,PSEC,3/26/2024,4/18/2024,3/27/2024,0.06,0.72,2/08/2024

@@ -1,8 +1,61 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"A-Mark Precious Metals, Inc. Common Stock",AMRK,1/12/2024,1/29/2024,1/16/2024,0.2,0.8,1/04/2024
 AbbVie Inc. Common Stock,ABBV,1/12/2024,2/15/2024,1/16/2024,1.55,6.2,10/27/2023
+Bank OZK Common Stock,OZK,1/12/2024,1/23/2024,1/16/2024,0.38,1.48,1/02/2024
+CF Bankshares Inc. Common Stock,CFBK,1/12/2024,1/29/2024,1/16/2024,0.06,0.24,1/03/2024
+GE HealthCare Technologies Inc. Common Stock ,GEHC,1/12/2024,2/15/2024,1/16/2024,0.03,0.12,12/08/2023
+LuxUrban Hotels Inc. 13.00% Series A Cumulative Redeemable Preferred Stock,LUXHP,1/12/2024,1/31/2024,1/16/2024,0.270833,3.249996,1/04/2024
+"NewtekOne, Inc. 5.50% Notes Due 2026",NEWTZ,1/12/2024,2/01/2024,1/16/2024,0.34375,1.375,1/03/2024
+"NewtekOne, Inc. 5.75% Notes due 2024",NEWTL,1/12/2024,2/01/2024,1/16/2024,0.359375,1.4375,1/03/2024
 "Phillips Edison & Company, Inc. Common Stock",PECO,1/12/2024,2/01/2024,1/16/2024,0.0975,1.17,11/07/2023
-"Cornerstone Total Return Fund, Inc. (The) Common Stock",CRF,1/12/2024,1/31/2024,1/16/2024,0.1037,1.4076,11/03/2023
-"Cornerstone Strategic Value Fund, Inc. New Common Stock",CLM,1/12/2024,1/31/2024,1/16/2024,0.1086,1.4736,11/03/2023
+Regency Centers Corporation 5.875% Series B Cumulative Redeemable Preferred Stock,REGCO,1/12/2024,1/31/2024,1/16/2024,0.3672,1.4688,11/02/2023
+Regency Centers Corporation 6.25% Series A Cumulative Redeemable Preferred Stock,REGCP,1/12/2024,1/31/2024,1/16/2024,0.390625,1.5625,11/02/2023
+"Neuberger Berman Real Estate Securities Income Fund, Inc.",NRO,1/12/2024,1/31/2024,1/16/2024,0.0312,0.3744,12/29/2023
+"Cornerstone Strategic Value Fund, Inc. New Common Stock",CLM,1/12/2024,1/31/2024,1/16/2024,0.1086,1.3032,11/03/2023
+Allspring Multi-Sector Income Fund Common Stock,ERC,1/12/2024,2/01/2024,1/16/2024,0.06504,0.7805,12/29/2023
+Allspring Income Opportunities Fund Common Shares,EAD,1/12/2024,2/01/2024,1/16/2024,0.05165,0.6198,12/29/2023
+"Cornerstone Total Return Fund, Inc. (The) Common Stock",CRF,1/12/2024,1/31/2024,1/16/2024,0.1037,1.2444,11/03/2023
+BNY Mellon Municipal Income Inc. Common Stock,DMF,1/12/2024,1/31/2024,1/16/2024,0.015,0.18,12/28/2023
+Neuberger Berman High Yield Strategies Fund,NHS,1/12/2024,1/31/2024,1/16/2024,0.0905,1.086,12/29/2023
+Allspring Utilities and High Income Fund Common Shares,ERH,1/12/2024,2/01/2024,1/16/2024,0.06507,0.7808,12/29/2023
+Neuberger Berman Energy Infrastructure and Income Fund Inc. Common Stock,NML,1/12/2024,1/31/2024,1/16/2024,0.0584,0.7008,12/29/2023
+"Saul Centers, Inc. Common Stock",BFS,1/12/2024,1/31/2024,1/16/2024,0.59,2.36,12/07/2023
 Hormel Foods Corporation Common Stock,HRL,1/12/2024,2/15/2024,1/16/2024,0.2825,1.13,11/20/2023
+"PNC Financial Services Group, Inc. (The) Common Stock",PNC,1/12/2024,2/05/2024,1/16/2024,1.55,6.2,1/04/2024
+"EMCOR Group, Inc. Common Stock",EME,1/12/2024,1/31/2024,1/16/2024,0.18,0.72,1/04/2024
+Sabine Royalty Trust Common Stock,SBR,1/12/2024,1/30/2024,1/16/2024,0.43716,5.2459,1/05/2024
+"Alamo Group, Inc. Common Stock",ALG,1/12/2024,1/29/2024,1/16/2024,0.26,1.04,1/02/2024
+"BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock",DSM,1/12/2024,1/31/2024,1/16/2024,0.018,0.216,12/28/2023
+"BNY Mellon Strategic Municipals, Inc. Common Stock",LEO,1/12/2024,1/31/2024,1/16/2024,0.019,0.228,12/28/2023
+DTF Tax-Free Income 2028 Term Fund Inc. Common Stock,DTF,1/12/2024,1/31/2024,1/16/2024,0.0325,0.39,12/14/2023
+PennantPark Investment Corporation Common Stock,PNNT,1/12/2024,2/01/2024,1/16/2024,0.07,0.84,1/03/2024
+MV Oil Trust Units of Beneficial Interests,MVO,1/12/2024,1/25/2024,1/16/2024,0.465,1.86,1/05/2024
+"RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock",RMM,1/12/2024,1/31/2024,1/16/2024,0.0916,1.0992,1/02/2024
+"ARMOUR Residential REIT, Inc.",ARR,1/12/2024,1/30/2024,1/16/2024,0.24,2.88,12/14/2023
+PennantPark Floating Rate Capital Ltd. Common Stock,PFLT,1/12/2024,2/01/2024,1/16/2024,0.1025,1.23,1/03/2024
+MainStay MacKay DefinedTerm Municipal Opportunities Fund,MMD,1/12/2024,1/31/2024,1/16/2024,0.06,0.72,1/02/2024
 AbbVie Inc. Common Stock,ABBV,1/12/2024,2/15/2024,1/16/2024,1.55,6.2,10/27/2023
+UBS AG,MLPB,1/12/2024,1/24/2024,1/16/2024,0.363,1.4161,N/A
+UBS AG,BDCZ,1/12/2024,1/24/2024,1/16/2024,0.4397,1.7444,N/A
+"RiverNorth Opportunities Fund, Inc. Common Stock",RIV,1/12/2024,1/31/2024,1/16/2024,0.1289,1.5468,1/02/2024
+RiverNorth Capital and Income Fund Common Stock,RSF,1/12/2024,1/31/2024,1/16/2024,0.1398,1.6776,1/02/2024
+"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",OPP,1/12/2024,1/31/2024,1/16/2024,0.1003,1.2036,1/02/2024
+XAI Octagon Floating Rate & Alternative Income Term Trust Common Shares of Beneficial Interest,XFLT,1/12/2024,2/01/2024,1/16/2024,0.085,1.02,1/02/2024
+Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),CEPU,1/12/2024,1/01/0001,1/16/2024,0.066145,0.1929,1/03/2024
+UBS AG,PFFL,1/12/2024,1/24/2024,1/16/2024,0.1704,1.3225,N/A
+"RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock",RMI,1/12/2024,1/31/2024,1/16/2024,0.0965,1.158,1/02/2024
+UBS AG,SMHB,1/12/2024,1/24/2024,1/16/2024,0.1589,1.1063,N/A
+"UBS AG ETRACS Monthly Pay 2?Leveraged US High Dividend Low Volatility ETN Series B due October 21, 2049",HDLB,1/12/2024,1/24/2024,1/16/2024,0.0947,1.3859,N/A
+"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",RFM,1/12/2024,1/31/2024,1/16/2024,0.0954,1.1448,1/02/2024
+"UBS AG ETRACS Quarterly Pay 1.5x Leveraged MVIS BDC Index ETN due June 10, 2050",BDCX,1/12/2024,1/24/2024,1/16/2024,1.1905,4.8195,N/A
+"UBS AG ETRACS Monthly Pay 1.5x Leveraged Closed-End Fund Index ETN due June 10, 2050",CEFD,1/12/2024,1/24/2024,1/16/2024,0.2628,2.6744,N/A
+"UBS AG ETRACS Monthly Pay 1.5x Leveraged Mortgage REIT ETN due June 10, 2050",MVRL,1/12/2024,1/24/2024,1/16/2024,0.5719,3.4317,N/A
+"ETRACS Alerian Midstream Energy Index ETN due June 21, 2050",AMNA,1/12/2024,1/24/2024,1/16/2024,0.562,2.2365,N/A
+"ETRACS Alerian Midstream Energy High Dividend Index ETN due July 19, 2050",AMND,1/12/2024,1/24/2024,1/16/2024,0.6648,2.6939,N/A
+"RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock",RFMZ,1/12/2024,1/31/2024,1/16/2024,0.0866,1.0392,1/02/2024
+Neuberger Berman Next Generation Connectivity Fund Inc. Common Stock,NBXG,1/12/2024,1/31/2024,1/16/2024,0.1,1.2,12/29/2023
+"RiverNorth Managed Duration Municipal Income Fund II, Inc. Common Stock",RMMZ,1/12/2024,1/31/2024,1/16/2024,0.0974,1.1688,1/02/2024
+"Kish Bancorp, Inc.",KISB,1/12/2024,1/31/2024,1/16/2024,0.37,1.48,1/02/2024
+Adaro Energy Indonesia Tbk. PT ADR,ADOOY,1/12/2024,1/29/2024,1/16/2024,0.464293,1.059,N/A
+"Ladenburg Thalmann Financial Services, Inc. 8% PRF PERPETUAL USD 25 - Ser A",LTSA,1/12/2024,1/29/2024,1/15/2024,0.1667,2.0,1/02/2024
 Solvay,SLVYY,1/12/2024,1/31/2024,1/16/2024,0.087035,0.1741,N/A

@@ -1,11 +1,13 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
 MidCap Financial Investment Corporation Common Stock,MFIC,12/11/2023,12/28/2023,12/12/2023,0.38,1.52,11/07/2023
 "Pathward Financial, Inc. Common Stock",CASH,12/11/2023,1/02/2024,12/12/2023,0.05,0.2,11/16/2023
+"Penns Woods Bancorp, Inc. Common Stock",PWOD,12/11/2023,12/22/2023,12/12/2023,0.32,1.28,11/28/2023
 STMicroelectronics N.V. Common Stock,STM,12/11/2023,12/19/2023,12/12/2023,0.06,0.24,3/23/2023
 Allspring Income Opportunities Fund Common Shares,EAD,12/11/2023,1/02/2024,12/12/2023,0.05173,0.6208,11/15/2023
 Allspring Multi-Sector Income Fund Common Stock,ERC,12/11/2023,1/02/2024,12/12/2023,0.06498,0.7798,11/15/2023
 Allspring Utilities and High Income Fund Common Shares,ERH,12/11/2023,1/02/2024,12/12/2023,0.06584,0.7901,11/15/2023
 "Best Buy Co., Inc. Common Stock",BBY,12/11/2023,1/02/2024,12/12/2023,0.92,3.68,11/21/2023
+Movado Group Inc. Common Stock,MOV,12/11/2023,12/26/2023,12/12/2023,0.35,1.4,11/29/2023
 STMicroelectronics N.V. Common Stock,STM,12/11/2023,12/19/2023,12/12/2023,0.06,0.24,3/23/2023
 Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest,EOD,12/11/2023,1/02/2024,12/12/2023,0.10675,0.427,11/15/2023
 Lazard Global Total Return and Income Fund Common Stock,LGI,12/11/2023,12/22/2023,12/12/2023,0.09339,1.1207,11/22/2023
@@ -13,7 +15,11 @@ Lazard Global Total Return and Income Fund Common Stock,LGI,12/11/2023,12/22/202
 Peoples Trust Co. of St. Albans,PPAL,12/11/2023,1/02/2024,12/12/2023,0.2625,1.05,11/21/2023
 GAMCO Investors,GAMI,12/11/2023,12/26/2023,12/12/2023,0.04,0.16,11/07/2023
 Winshear Gold Corp,HELOF,12/11/2023,12/08/2023,11/23/2023,0.25,0.0,11/07/2023
+"Pinnacle Bancshares, Inc.",PCLB,12/11/2023,12/22/2023,12/12/2023,0.27,1.08,11/29/2023
 First Community Corporation (TN),FCCT,12/11/2023,12/19/2023,12/12/2023,0.25,0.25,11/21/2023
+"Movado Group, Inc. - Class A",MOVAA,12/11/2023,12/26/2023,12/12/2023,0.35,1.4,11/30/2023
 "Citizens Bancorp (Corvallis, Oregon)",CZBC,12/11/2023,1/12/2024,12/12/2023,0.35,0.35,11/21/2023
 First Community Corporation (TN) PRF PERPETUAL USD - Series A 0%,FCCTP,12/11/2023,12/19/2023,12/12/2023,0.2625,0.2625,11/21/2023
 First Community Corporation (TN) PRF PERPETUAL USD - Series B 0%,FCCTO,12/11/2023,12/19/2023,12/12/2023,0.275,0.275,11/21/2023
+Kesko Oyj ADR,KKOYY,12/11/2023,1/03/2024,12/12/2023,0.147217,0.7235,N/A
+Atresmedia Corporacion De Medios De Comunicacion SA ADR,ATVDY,12/11/2023,12/28/2023,12/12/2023,0.140249,0.4488,N/A

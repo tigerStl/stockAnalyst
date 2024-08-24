@@ -1,1 +1,12 @@
-
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"BGC Group, Inc. Class A Common Stock",BGC,3/04/2024,3/19/2024,3/05/2024,0.01,0.04,2/13/2024
+"Cass Information Systems, Inc Common Stock",CASS,3/04/2024,3/15/2024,3/05/2024,0.3,1.2,1/23/2024
+Hancock Whitney Corporation Common Stock,HWC,3/04/2024,3/15/2024,3/05/2024,0.3,1.2,2/19/2024
+"H&R Block, Inc. Common Stock",HRB,3/04/2024,4/03/2024,3/05/2024,0.32,1.28,1/31/2024
+E-mini S&P 500 ,ES,3/04/2024,3/29/2024,3/05/2024,0.715,2.86,1/31/2024
+Banco Bradesco Sa American Depositary Shares,BBD,3/04/2024,4/08/2024,3/05/2024,0.003814,0.0458,N/A
+Banco Bradesco Sa American Depositary Shares (each representing one Common Share),BBDO,3/04/2024,4/08/2024,3/05/2024,0.003467,0.0416,2/06/2024
+"Yum China Holdings, Inc. Common Stock",YUMC,3/04/2024,3/26/2024,3/05/2024,0.16,0.64,2/06/2024
+"BNCCorp, Inc.",BNCC,3/04/2024,3/25/2024,3/05/2024,2.25,0.0,2/02/2024
+"CSB Bancorp, Inc.",CSBB,3/04/2024,3/19/2024,3/05/2024,0.39,1.56,2/07/2024
+REA Group Limited ADR,RPGRY,3/04/2024,4/02/2024,3/05/2024,0.112957,0.2259,N/A

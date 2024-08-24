@@ -1,1 +1,41 @@
-
+companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+CDW Corporation Common Stock,CDW,2/23/2024,3/12/2024,2/26/2024,0.62,2.48,2/19/2024
+CSP Inc. Common Stock,CSPI,2/23/2024,3/08/2024,2/26/2024,0.05,0.16,2/14/2024
+"MKS Instruments, Inc. Common Stock",MKSI,2/23/2024,3/08/2024,2/26/2024,0.22,0.88,2/05/2024
+Tractor Supply Company Common Stock,TSCO,2/23/2024,3/12/2024,2/26/2024,1.1,4.12,2/05/2024
+Brunswick Corporation Common Stock,BC,2/23/2024,3/15/2024,2/26/2024,0.42,1.68,2/15/2024
+Northrop Grumman Corporation Common Stock,NOC,2/23/2024,3/13/2024,2/26/2024,1.87,7.48,2/13/2024
+Sherwin-Williams Company (The) Common Stock,SHW,2/23/2024,3/08/2024,2/26/2024,0.715,2.86,2/14/2024
+Crawford & Company Common Stock,CRD.B,2/23/2024,3/08/2024,2/26/2024,0.07,0.28,2/08/2024
+HNI Corporation Common Stock,HNI,2/23/2024,3/06/2024,2/26/2024,0.32,1.28,2/13/2024
+Snap-On Incorporated Common Stock,SNA,2/23/2024,3/11/2024,2/26/2024,1.86,7.44,2/15/2024
+Atmos Energy Corporation Common Stock,ATO,2/23/2024,3/11/2024,2/26/2024,0.805,3.22,2/06/2024
+Radian Group Inc. Common Stock,RDN,2/23/2024,3/12/2024,2/26/2024,0.245,0.98,2/14/2024
+"Nu Skin Enterprises, Inc. Common Stock",NUS,2/23/2024,3/06/2024,2/26/2024,0.06,0.24,2/14/2024
+HF Sinclair Corporation Common Stock,DINO,2/23/2024,3/05/2024,2/26/2024,0.5,2.0,2/14/2024
+"Delta Air Lines, Inc. Common Stock",DAL,2/23/2024,3/18/2024,2/26/2024,0.1,0.4,2/08/2024
+Crawford & Company Common Stock,CRD.A,2/23/2024,3/08/2024,2/26/2024,0.07,0.28,2/08/2024
+Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,NTB,2/23/2024,3/11/2024,2/26/2024,0.44,1.76,2/12/2024
+"Voya Financial, Inc. Common Stock",VOYA,2/23/2024,3/27/2024,2/26/2024,0.4,1.6,1/25/2024
+Murphy USA Inc. Common Stock,MUSA,2/23/2024,3/07/2024,2/26/2024,0.42,1.68,2/15/2024
+Healthcare Realty Trust Incorporated Common Stock,HR,2/23/2024,3/14/2024,2/26/2024,0.31,1.24,2/13/2024
+Chemours Company (The) Common Stock,CC,2/23/2024,3/15/2024,2/26/2024,0.25,1.0,2/12/2024
+Civeo Corporation (Canada) Common Shares,CVEO,2/23/2024,3/18/2024,2/26/2024,0.25,1.0,2/02/2024
+"Cactus, Inc. Class A Common Stock",WHD,2/23/2024,3/14/2024,2/26/2024,0.12,0.48,1/23/2024
+"Equitable Holdings, Inc. Common Stock",EQH,2/23/2024,3/04/2024,2/26/2024,0.22,0.88,2/14/2024
+Organon & Co. Common Stock ,OGN,2/23/2024,3/14/2024,2/26/2024,0.28,1.12,2/15/2024
+"Clear Secure, Inc. Class A Common Stock",YOU,2/23/2024,3/05/2024,2/26/2024,0.09,0.36,2/15/2024
+MainStay CBRE Global Infrastructure Megatrends Term Fund Common Shares,MEGI,2/23/2024,2/29/2024,2/26/2024,0.125,1.5,2/14/2024
+PHINIA Inc. Common Stock,PHIN,2/23/2024,3/15/2024,2/26/2024,0.25,1.0,2/01/2024
+Hilliard Corp,HLRD,2/23/2024,3/04/2024,2/26/2024,5.0,20.0,2/08/2024
+Hilliard Corp,HLRD,2/23/2024,3/04/2024,2/26/2024,5.0,20.0,2/08/2024
+"Consumers Bancorp, Inc.",CBKM,2/23/2024,3/15/2024,2/26/2024,0.18,0.72,2/15/2024
+Ledyard Financial Group Inc,LFGP,2/23/2024,3/12/2024,2/26/2024,0.21,0.84,2/09/2024
+Aker BP,AKRBY,2/23/2024,3/05/2024,2/26/2024,0.173872,0.6465,N/A
+Highlands Bankshares Inc (WV),HBSI,2/23/2024,3/01/2024,2/26/2024,0.42,1.68,2/13/2024
+Commonwealth Bank of Australia ADR,CMWAY,2/23/2024,4/08/2024,2/26/2024,1.3732,2.7464,N/A
+Insurance Australia Group Limited ADR,IAUGY,2/23/2024,4/11/2024,2/26/2024,0.19584,0.3917,N/A
+G.U.D. Holdings ADR,GUDDY,2/23/2024,3/25/2024,2/26/2024,0.210989,0.422,N/A
+Mowi ASA ADR - Sponsor,MHGVY,2/23/2024,3/11/2024,2/26/2024,0.134661,0.5386,N/A
+TGS ASA ADR,TGSGY,2/23/2024,3/18/2024,2/26/2024,0.092398,0.3696,N/A
+Var Energi,VARRY,2/23/2024,3/12/2024,2/26/2024,0.118067,0.6058,N/A

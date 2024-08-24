@@ -1,10 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Dividend & Earning View</title>
+    <style>
+        body {
+            display: flex;
+        }
+        #left-panel {
+            width: 20%;
+            max-height: 100vh;
+            overflow-y: auto;
+            padding: 10px;
+        }
+        #right-panel {
+            width: 80%;
+            padding: 10px;
+        }
+        .card {
+            border: 1px solid #e1e1e1;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px;
+            transition: transform 0.3s ease-in-out;
+        }
+        .card-content {
+            font-size: 11px;
+        }
+        .symbol {
+            font-weight: bold;
+        }
+        .high-yield {
+            background-color: lightblue;
+        }
+        .card h2 {
+            color: #333;
+        }
+
+        .card p {
+            color: #666;
+            line-height: 1.5;
+        }
+
+    </style>
 </head>
 <body>
-$END$
+    <div id="left-panel">
+        <h2>Dividend List</h2>
+        <ul>
+            {% for index, row in symbols.iterrows() %}
+                {% set yield_rate = row['dividend_yield_Rate'] %}
+                {% set ex_date = row['dividend_Ex_Date'] %}
+                {% set symbol = row['Symbol'] %}
+                <li>
+                    <div class="card {{ 'high-yield' if yield_rate is defined and yield_rate > 5 else '' }}">
+                        <div class="card-content">
+                            <p>{{ yield_rate }}% | {{ ex_date }}</p>
+                        </div>
+                        <div class="symbol">
+                            <a href="/details?symbol={{symbol}}" target="iframe">{{ symbol }}</a>
+                        </div>
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div id="right-panel">
+        <iframe name="iframe" id=“iframe” width="100%" height="800px"></iframe>
+    </div>
+    <script>
+        function loadDetails(symbol) {
+            var iframe = document.getElementsByName('iframe')[0];
+            iframe.src = '/details?symbol=' + symbol;
+            //document.body.appendChild(iframe);
+        }
+    </script>
 </body>
 </html>

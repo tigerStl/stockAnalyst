@@ -1,10 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>{{ symbol }} Stock Chart</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://code.highcharts.com/stock/highstock.js"></script>
+    <script src="https://code.highcharts.com/stock/indicators/indicators.js"></script>
+    <script src="https://code.highcharts.com/stock/modules/exporting.js"></script>
+    <script src="{{url_for('static', filename='js/details.js')}}"></script>
+    <style>
+        .highcharts-axis-resizer {
+            stroke: #eee;
+        }
+        .highcharts-axis-resizer:hover {
+            stroke: #ccc;
+        }
+    </style>
 </head>
 <body>
-$END$
+<div id="{{ symbol }}_chart" style="height: 780px; min-width: 310px"></div>
+
+<script>
+chart_data = getHistoricalData('{{ symbol }}', '{{current_domain}}')
+</script>
+
 </body>
 </html>

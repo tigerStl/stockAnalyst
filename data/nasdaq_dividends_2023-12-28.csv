@@ -1,124 +1,167 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
-"Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061",MGRD,12/28/2023,1/02/2024,12/29/2023,0.2625,1.05,11/25/2023
-"Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060",MGRB,12/28/2023,1/02/2024,12/29/2023,0.296875,1.1875,11/25/2023
-"Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059",MGR,12/28/2023,1/02/2024,12/29/2023,0.3671875,1.4688,11/25/2023
+AB Core Plus Bond ETF,CPLS,12/28/2023,1/04/2024,12/29/2023,0.0819,0.9828,12/27/2023
+AB Corporate Bond ETF,EYEG,12/28/2023,1/04/2024,12/29/2023,0.0913,1.0956,12/27/2023
+"AFC Gamma, Inc. Common Stock",AFCG,12/28/2023,1/12/2024,12/31/2023,0.48,1.92,12/15/2023
+"Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061",MGRD,12/28/2023,1/02/2024,12/29/2023,0.2625,1.05,1/07/2024
+"Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060",MGRB,12/28/2023,1/02/2024,12/29/2023,0.296875,1.1875,1/07/2024
+"Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059",MGR,12/28/2023,1/02/2024,12/29/2023,0.3671875,1.4688,1/07/2024
+AGNC Investment Corp. Common Stock,AGNC,12/28/2023,1/10/2024,12/29/2023,0.12,1.44,12/13/2023
+"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",AGNCP,12/28/2023,1/16/2024,1/01/2024,0.3828125,1.53125,12/13/2023
+"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock",AGNCN,12/28/2023,1/16/2024,1/01/2024,0.68843,2.75372,12/13/2023
+"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.75% Series G Fixed-Rate Reset Cumulative Redeemable Preferred Stock",AGNCL,12/28/2023,1/16/2024,1/01/2024,0.48438,1.93752,12/13/2023
+AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock,AGNCM,12/28/2023,1/16/2024,1/01/2024,0.4296875,1.71875,12/13/2023
+"AGNC Investment Corp. Depositary Shares, each representing a 1/1,000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock",AGNCO,12/28/2023,1/16/2024,1/01/2024,0.40625,1.625,12/13/2023
+"Alico, Inc. Common Stock",ALCO,12/28/2023,1/12/2024,12/29/2023,0.05,0.2,12/08/2023
+Alpha Architect High Inflation and Deflation ETF,HIDE,12/28/2023,1/03/2024,12/29/2023,0.8999487,0.899949,12/27/2023
+Alpha Architect Value Momentum Trend ETF,VMOT,12/28/2023,1/03/2024,12/29/2023,0.9597,0.9597,12/27/2023
+Alpha Blue Capital US Small-Mid Cap Dynamic ETF,ABCS,12/28/2023,1/03/2024,12/29/2023,0.0059727,0.023891,12/27/2023
 Amdocs Limited Ordinary Shares,DOX,12/28/2023,1/26/2024,12/29/2023,0.435,1.74,11/07/2023
+Ameris Bancorp Common Stock,ABCB,12/28/2023,1/08/2024,12/31/2023,0.15,0.6,12/11/2023
+ArrowMark Financial Corp. Common Stock,BANX,12/28/2023,1/05/2024,12/29/2023,0.55,1.8,12/08/2023
 Ashford Hospitality Trust Inc 7.375% Series F Cumulative Preferred Stock,AHT^F,12/28/2023,1/16/2024,12/29/2023,0.4609,1.8436,10/10/2023
 Ashford Hospitality Trust Inc 7.375% Series G Cumulative Preferred Stock,AHT^G,12/28/2023,1/16/2024,12/29/2023,0.4609,1.8436,10/10/2023
 Ashford Hospitality Trust Inc 7.50% Series H Cumulative Preferred Stock,AHT^H,12/28/2023,1/16/2024,12/29/2023,0.46875,1.875,10/10/2023
 Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock,AHT^I,12/28/2023,1/16/2024,12/29/2023,0.46875,1.875,10/10/2023
 Ashford Hospitality Trust Inc 8.45% Series D Cumulative Preferred Stock,AHT^D,12/28/2023,1/16/2024,12/29/2023,0.5281,2.1124,10/10/2023
-"Assurant, Inc. 5.25% Subordinated Notes due 2061",AIZN,12/28/2023,1/16/2024,12/29/2023,0.328125,1.3125,11/25/2023
+"Assurant, Inc. 5.25% Subordinated Notes due 2061",AIZN,12/28/2023,1/16/2024,12/29/2023,0.328125,1.3125,1/07/2024
+"ATN International, Inc. Common Stock",ATNI,12/28/2023,1/05/2024,12/31/2023,0.24,0.96,12/13/2023
 BancFirst Corporation - BFC Capital Trust II Cumulative Trust Preferred Securities,BANFP,12/28/2023,1/16/2024,12/29/2023,0.45,1.8,11/16/2023
 BancFirst Corporation Common Stock,BANF,12/28/2023,1/16/2024,12/29/2023,0.43,1.72,11/16/2023
+BlackRock Total Return ETF,BRTR,12/28/2023,1/04/2024,12/29/2023,0.111477,1.337724,12/27/2023
 "Braemar Hotels & Resorts Inc. 5.50% Series B Cumulative Convertible Preferred Stock, par value $0.01 per share",BHR^B,12/28/2023,1/16/2024,12/29/2023,0.3438,1.3752,10/10/2023
 "Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock,  par value $0.01 per share",BHR^D,12/28/2023,1/16/2024,12/29/2023,0.5156,2.0624,10/10/2023
 Braemar Hotels & Resorts Inc. Common Stock,BHR,12/28/2023,1/16/2024,12/29/2023,0.05,0.2,10/10/2023
 "Broadstone Net Lease, Inc. Common Stock",BNL,12/28/2023,1/12/2024,12/29/2023,0.285,1.12,10/26/2023
-"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",CCLDP,12/28/2023,1/16/2024,12/31/2023,0.22917,2.75004,10/31/2023
-"CareCloud, Inc. 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",CCLDO,12/28/2023,1/16/2024,12/31/2023,0.18229,2.18748,10/31/2023
+Calamos Convertible and High Income Fund Common Stock,CHY,12/28/2023,1/11/2024,12/29/2023,0.1,1.2,12/18/2023
+Calamos Convertible Opportunities and Income Fund Common Stock,CHI,12/28/2023,1/11/2024,12/29/2023,0.095,1.14,12/18/2023
+Calamos Dynamic Convertible & Income Fund Common Stock,CCD,12/28/2023,1/11/2024,12/29/2023,0.195,2.34,12/18/2023
+Calamos Global Dynamic Income Fund Common Stock,CHW,12/28/2023,1/11/2024,12/29/2023,0.05,0.6,12/18/2023
+Calamos Global Total Return Fund Common Stock,CGO,12/28/2023,1/11/2024,12/29/2023,0.08,0.96,12/18/2023
+Calamos Long/Short Equity & Dynamic Income Trust Common Stock,CPZ,12/28/2023,1/11/2024,12/29/2023,0.14,1.68,12/18/2023
+Calamos Strategic Total Return Common Stock,CSQ,12/28/2023,1/11/2024,12/29/2023,0.1025,1.23,12/18/2023
+Canterbury Park Holding Corporation 'New' Common Stock,CPHC,12/28/2023,1/12/2024,12/29/2023,0.07,0.28,12/14/2023
 "Carlyle Secured Lending, Inc. Common Stock",CGBD,12/28/2023,1/18/2024,12/29/2023,0.44,1.76,11/02/2023
+"Chicago Atlantic Real Estate Finance, Inc. Common Stock",REFI,12/28/2023,1/12/2024,12/29/2023,0.76,1.88,12/15/2023
+"Chicken Soup for the Soul Entertainment, Inc. 9.75% Series A Cumulative Redeemable Perpetual Preferred Stock",CSSEP,12/28/2023,1/15/2024,12/31/2023,0.2031,2.4372,12/18/2023
 Chimera Investment Corporation Common Stock,CIM,12/28/2023,1/31/2024,12/29/2023,0.11,0.72,11/02/2023
 CION Investment Corporation Common Stock,CION,12/28/2023,1/15/2024,12/29/2023,0.05,1.36,8/07/2023
-CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,CMSC,12/28/2023,1/16/2024,12/29/2023,0.3671875,1.4688,11/25/2023
-"Crescent Capital BDC, Inc. Common stock",CCAP,12/28/2023,1/16/2024,12/29/2023,0.41,1.64,11/25/2023
+CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,CMSC,12/28/2023,1/16/2024,12/29/2023,0.3671875,1.4688,1/07/2024
+Colliers International Group Inc. Subordinate Voting Shares,CIGI,12/28/2023,1/12/2024,12/29/2023,0.15,0.3,12/05/2023
+"Crescent Capital BDC, Inc. Common stock",CCAP,12/28/2023,1/16/2024,12/29/2023,0.41,1.64,1/07/2024
+Defiance Nasdaq 100 Enhanced Options Income ETF,QQQY,12/28/2023,1/04/2024,12/29/2023,0.62,7.44,12/27/2023
+Democratic Large Cap Core ETF,DEMZ,12/28/2023,1/05/2024,12/29/2023,0.2651,0.2651,12/27/2023
+DENTSPLY SIRONA Inc. Common Stock,XRAY,12/28/2023,1/12/2024,12/29/2023,0.14,0.56,12/13/2023
 "DigitalBridge Group, Inc.",DBRG,12/28/2023,1/16/2024,12/31/2023,0.01,0.04,10/27/2023
-DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,DTB,12/28/2023,1/16/2024,12/29/2023,0.2734375,1.0938,11/25/2023
-"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066",EMP,12/28/2023,1/02/2024,12/29/2023,0.30625,1.225,11/25/2023
-"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",ENO,12/28/2023,1/02/2024,12/29/2023,0.34375,1.375,11/25/2023
+DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,DTB,12/28/2023,1/16/2024,12/29/2023,0.2734375,1.0938,1/07/2024
+"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066",EMP,12/28/2023,1/02/2024,12/29/2023,0.30625,1.225,1/07/2024
+"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",ENO,12/28/2023,1/02/2024,12/29/2023,0.34375,1.375,1/07/2024
 "Equity Lifestyle Properties, Inc. Common Stock",ELS,12/28/2023,1/12/2024,12/29/2023,0.4475,1.79,10/24/2023
+"Farmers & Merchants Bancorp, Inc. Common Stock",FMAO,12/28/2023,1/20/2024,12/29/2023,0.22,0.88,12/19/2023
+Fidelity Nasdaq Composite Index ETF,ONEQ,12/28/2023,1/03/2024,12/29/2023,0.016,0.064,1/07/2024
+Fifth Third Bancorp Common Stock,FITB,12/28/2023,1/16/2024,12/29/2023,0.35,1.4,12/12/2023
+First Bancorp Common Stock,FBNC,12/28/2023,1/25/2024,12/31/2023,0.22,0.88,10/23/2023
 "First Industrial Realty Trust, Inc. Common Stock",FR,12/28/2023,1/16/2024,12/29/2023,0.32,1.28,11/01/2023
-"Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077",GPJA,12/28/2023,1/02/2024,12/29/2023,0.3125,1.25,11/25/2023
-Great Ajax Corp. 7.25% Convertible Senior Notes due 2024,AJXA,12/28/2023,1/16/2024,12/29/2023,0.4531,1.8125,11/25/2023
-"Heartland Financial USA, Inc. Depositary Shares, each representing a 1/400th ownership interest in a share of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",HTLFP,12/28/2023,1/16/2024,12/31/2023,0.4375,1.75,11/25/2023
+First Internet Bancorp Common Stock,INBK,12/28/2023,1/16/2024,12/29/2023,0.06,0.24,1/07/2024
+FirstService Corporation Common Shares,FSV,12/28/2023,1/05/2024,12/29/2023,0.225,0.9,11/28/2023
+Franklin U.S. Low Volatility High Dividend Index ETF,LVHD,12/28/2023,1/03/2024,12/29/2023,0.210712,0.842848,12/27/2023
+"Fulton Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",FULTP,12/28/2023,1/16/2024,1/01/2024,0.32025,1.281,12/19/2023
+"Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077",GPJA,12/28/2023,1/02/2024,12/29/2023,0.3125,1.25,1/07/2024
+Global X Aging Population ETF,AGNG,12/28/2023,1/08/2024,12/29/2023,0.121335,0.24267,12/27/2023
+Global X AgTech & Food Innovation ETF,KROP,12/28/2023,1/08/2024,12/29/2023,0.085142,0.170284,12/27/2023
+Global X Alternative Income ETF,ALTY,12/28/2023,1/08/2024,12/29/2023,0.087437,1.049244,12/27/2023
+Global X Artificial Intelligence & Technology ETF,AIQ,12/28/2023,1/08/2024,12/29/2023,0.019262,0.038524,12/27/2023
+Global X Autonomous & Electric Vehicles ETF,DRIV,12/28/2023,1/08/2024,12/29/2023,0.22401,0.44802,12/27/2023
+Global X Blockchain & Bitcoin Strategy ETF,BITS,12/28/2023,1/08/2024,12/29/2023,7.052521,14.105042,12/27/2023
+Global X Blockchain ETF,BKCH,12/28/2023,1/08/2024,12/29/2023,0.88732,1.77464,12/27/2023
+Global X Cannabis ETF,POTX,12/28/2023,1/08/2024,12/29/2023,0.165623,0.331246,12/27/2023
+Global X China Biotech Innovation ETF,CHB,12/28/2023,1/08/2024,12/29/2023,0.001878,0.003756,12/27/2023
+Global X Clean Water ETF,AQWA,12/28/2023,1/08/2024,12/29/2023,0.143479,0.286958,12/27/2023
+Global X CleanTech ETF,CTEC,12/28/2023,1/08/2024,12/29/2023,0.055135,0.11027,12/27/2023
+Global X Conscious Companies ETF,KRMA,12/28/2023,1/08/2024,12/29/2023,0.235085,0.47017,12/27/2023
+Global X Cybersecurity ETF,BUG,12/28/2023,1/08/2024,12/29/2023,0.030647,0.061294,12/27/2023
+Global X Data Center REITs & Digital Infrastructure ETF,VPN,12/28/2023,1/08/2024,12/29/2023,0.09625,0.1925,12/27/2023
+Global X DAX Germany ETF,DAX,12/28/2023,1/08/2024,12/29/2023,0.11254,0.22508,12/27/2023
+Global X Disruptive Materials ETF,DMAT,12/28/2023,1/08/2024,12/29/2023,0.124596,0.249192,12/27/2023
+Global X FinTech ETF,FINX,12/28/2023,1/08/2024,12/29/2023,0.003077,0.006154,12/27/2023
+Global X Green Building ETF,GRNR,12/28/2023,1/08/2024,12/29/2023,0.354619,0.709238,12/27/2023
+Global X Health & Wellness ETF,BFIT,12/28/2023,1/08/2024,12/29/2023,0.251975,0.50395,12/27/2023
+Global X Internet of Things ETF,SNSR,12/28/2023,1/08/2024,12/29/2023,0.147204,0.294408,12/27/2023
+Global X Metaverse ETF,VR,12/28/2023,1/08/2024,12/29/2023,0.060991,0.121982,12/27/2023
+Global X Millennial Consumer ETF,MILN,12/28/2023,1/08/2024,12/29/2023,0.113799,0.227598,12/27/2023
+Global X MSCI SuperDividend EAFE ETF,EFAS,12/28/2023,1/08/2024,12/29/2023,0.156242,1.874904,12/27/2023
+Global X NASDAQ 100 Collar 95-110 ETF,QCLR,12/28/2023,1/08/2024,12/29/2023,0.093877,0.187754,12/27/2023
+Global X Nasdaq 100 Covered Call & Growth ETF,QYLG,12/28/2023,1/08/2024,12/29/2023,0.1441,1.7292,12/27/2023
+Global X NASDAQ 100 Covered Call ETF,QYLD,12/28/2023,1/08/2024,12/29/2023,0.1659,1.9908,12/27/2023
+Global X Nasdaq 100 ESG Covered Call ETF,QYLE,12/28/2023,1/08/2024,12/29/2023,0.31499,3.77988,12/27/2023
+Global X NASDAQ 100 Risk Managed Income ETF,QRMI,12/28/2023,1/08/2024,12/29/2023,0.172,2.064,12/27/2023
+Global X NASDAQ 100 Tail Risk ETF,QTR,12/28/2023,1/08/2024,12/29/2023,0.106527,0.213054,12/27/2023
+Global X PropTech ETF,PTEC,12/28/2023,1/08/2024,12/29/2023,0.6919,1.3838,12/27/2023
+Global X Renewable Energy Producers ETF,RNRG,12/28/2023,1/08/2024,12/29/2023,0.082426,0.164852,12/27/2023
+Global X Robotics & Artificial Intelligence ETF,BOTZ,12/28/2023,1/08/2024,12/29/2023,0.004084,0.008168,12/27/2023
+Global X S&P 500 Catholic Values ETF,CATH,12/28/2023,1/08/2024,12/29/2023,0.406533,0.813066,12/27/2023
+Global X S&P Catholic Values Developed ex-U.S. ETF,CEFA,12/28/2023,1/08/2024,12/29/2023,0.323883,0.647766,12/27/2023
+Global X Social Media ETF,SOCL,12/28/2023,1/08/2024,12/29/2023,0.054912,0.109824,12/27/2023
+Global X SuperDividend REIT ETF,SRET,12/28/2023,1/08/2024,12/29/2023,0.13,1.56,12/27/2023
+Global X Thematic Growth ETF,GXTG,12/28/2023,1/08/2024,12/29/2023,0.382371,0.764742,12/27/2023
+Global X Video Games & Esports ETF,HERO,12/28/2023,1/08/2024,12/29/2023,0.120779,0.241558,12/27/2023
+Global X Wind Energy ETF,WNDY,12/28/2023,1/08/2024,12/29/2023,0.090284,0.180568,12/27/2023
+Goldman Sachs Nasdaq-100 Core Premium Income ETF,GPIQ,12/28/2023,1/04/2024,12/29/2023,0.38736,4.64832,12/27/2023
+Goldman Sachs S&P 500 Core Premium Income ETF,GPIX,12/28/2023,1/04/2024,12/29/2023,0.31301,3.75612,12/27/2023
+Great Ajax Corp. 7.25% Convertible Senior Notes due 2024,AJXA,12/28/2023,1/16/2024,12/29/2023,0.4531,1.8125,1/07/2024
+Great Elm Capital Corp. Common Stock,GECC,12/28/2023,1/12/2024,12/29/2023,0.1,1.4,12/12/2023
+"Heartland Financial USA, Inc. Depositary Shares, each representing a 1/400th ownership interest in a share of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",HTLFP,12/28/2023,1/16/2024,12/31/2023,0.4375,1.75,1/07/2024
+"Herzfeld Caribbean Basin Fund, Inc. (The) Common Stock",CUBA,12/28/2023,1/31/2024,12/29/2023,0.135375,0.5415,12/19/2023
+Honeytree U.S. Equity ETF,BEEZ,12/28/2023,1/03/2024,12/29/2023,0.0548727,0.054873,12/27/2023
+"Host Hotels & Resorts, Inc. Common Stock",HST,12/28/2023,1/16/2024,12/29/2023,0.45,0.72,1/07/2024
+Hovnanian Enterprises Inc Dep Shr Srs A Pfd,HOVNP,12/28/2023,1/15/2024,1/01/2024,0.476563,1.906252,12/13/2023
 Humana Inc. Common Stock,HUM,12/28/2023,1/26/2024,12/29/2023,0.885,3.54,10/31/2023
 Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock,HBANP,12/28/2023,1/16/2024,1/01/2024,0.28125,1.125,10/18/2023
 "Huntington Bancshares Incorporated Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock",HBANL,12/28/2023,1/16/2024,1/01/2024,0.42975,1.719,10/18/2023
 Illinois Tool Works Inc. Common Stock,ITW,12/28/2023,1/11/2024,12/29/2023,1.4,5.6,10/26/2023
+IQ U.S. Small Cap ETF,CSML,12/28/2023,1/05/2024,12/29/2023,0.14158,0.56632,12/27/2023
+JPMorgan Nasdaq Equity Premium Income ETF,JEPQ,12/28/2023,1/03/2024,12/29/2023,0.39248,4.70976,12/19/2023
 Kennedy-Wilson Holdings Inc. Common Stock,KW,12/28/2023,1/04/2024,12/29/2023,0.24,0.96,11/01/2023
-"Lincoln Electric Holdings, Inc. Common Shares",LECO,12/28/2023,1/12/2024,12/31/2023,0.71,2.56,10/17/2023
+"Lincoln Electric Holdings, Inc. Common Shares",LECO,12/28/2023,1/12/2024,12/31/2023,0.71,2.84,10/17/2023
 LXP Industrial Trust Common Stock (Maryland REIT),LXP,12/28/2023,1/16/2024,12/29/2023,0.13,0.5,10/31/2023
+"Manhattan Bridge Capital, Inc",LOAN,12/28/2023,1/16/2024,12/29/2023,0.1125,0.45,11/27/2023
 "Modiv Industrial, Inc. Class C Common Stock",MDV,12/28/2023,1/25/2024,12/29/2023,0.09583,1.15,10/17/2023
+"Mondelez International, Inc. Class A Common Stock",MDLZ,12/28/2023,1/12/2024,12/29/2023,0.425,1.7,12/08/2023
+"Monolithic Power Systems, Inc. Common Stock",MPWR,12/28/2023,1/15/2024,12/29/2023,1.0,4.0,12/15/2023
 National Research Corporation Common Stock (Delaware),NRC,12/28/2023,1/12/2024,12/29/2023,0.12,0.48,11/17/2023
+"New York Mortgage Trust, Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",NYMTL,12/28/2023,1/15/2024,1/01/2024,0.4296875,1.71875,12/14/2023
+"New York Mortgage Trust, Inc. 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share",NYMTZ,12/28/2023,1/15/2024,1/01/2024,0.4375,1.75,12/14/2023
+"New York Mortgage Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NYMTM,12/28/2023,1/15/2024,1/01/2024,0.4921875,1.96875,12/14/2023
+"New York Mortgage Trust, Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NYMTN,12/28/2023,1/15/2024,1/01/2024,0.5,2.0,12/14/2023
+"NewtekOne, Inc. Common Stock",NEWT,12/28/2023,1/12/2024,12/29/2023,0.18,0.72,12/11/2023
 Nutrien Ltd. Common Shares,NTR,12/28/2023,1/12/2024,12/29/2023,0.53,2.12,11/01/2023
 OFG Bancorp Common Stock,OFG,12/28/2023,1/16/2024,12/29/2023,0.22,0.88,10/25/2023
+Pacer Cash Cows Fund of Funds ETF,HERD,12/28/2023,1/04/2024,12/29/2023,0.2121896,0.848758,12/27/2023
 Park Hotels & Resorts Inc. Common Stock ,PK,12/28/2023,1/16/2024,12/29/2023,0.77,0.6,10/27/2023
 "Presidio Property Trust, Inc. 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share",SQFTP,12/28/2023,1/16/2024,12/31/2023,0.19531,2.34372,10/25/2023
+Procure Disaster Recovery Strategy ETF,FIXT,12/28/2023,1/03/2024,12/29/2023,0.03548,0.14192,12/27/2023
+Procure Space ETF,UFO,12/28/2023,1/03/2024,12/29/2023,0.0432579,0.173032,12/27/2023
 Regal Rexnord Corporation Common Stock,RRX,12/28/2023,1/12/2024,12/29/2023,0.35,1.4,10/27/2023
-"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",RZC,12/28/2023,1/16/2024,12/29/2023,0.4453,1.7812,11/25/2023
+"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",RZC,12/28/2023,1/16/2024,12/29/2023,0.4453,1.7812,1/07/2024
 "Rexford Industrial Realty, Inc. Common Stock",REXR,12/28/2023,1/16/2024,12/29/2023,0.38,1.52,10/16/2023
 Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,SRG^A,12/28/2023,1/16/2024,12/29/2023,0.4375,1.75,10/30/2023
 "Stag Industrial, Inc. Common Stock",STAG,12/28/2023,1/16/2024,12/29/2023,0.1225,1.47,10/11/2023
 "Steel Dynamics, Inc.",STLD,12/28/2023,1/16/2024,12/31/2023,0.425,1.7,11/03/2023
-Stifel Financial Corporation 5.20% Senior Notes due 2047,SFB,12/28/2023,1/16/2024,12/29/2023,0.325,1.3,11/25/2023
-Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),KTN,12/28/2023,1/02/2024,12/29/2023,1.0256,2.0512,11/25/2023
+Stifel Financial Corporation 5.20% Senior Notes due 2047,SFB,12/28/2023,1/16/2024,12/29/2023,0.325,1.3,1/07/2024
+Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),KTN,12/28/2023,1/02/2024,12/29/2023,1.0256,2.0512,1/07/2024
 TFI International Inc. Common Shares,TFII,12/28/2023,1/15/2024,12/29/2023,0.4,1.6,10/23/2023
+"The Ensign Group, Inc. Common Stock",ENSG,12/28/2023,1/31/2024,12/31/2023,0.06,0.24,12/15/2023
+TowneBank Common Stock,TOWN,12/28/2023,1/12/2024,12/29/2023,0.25,1.0,11/29/2023
+Trinity Capital Inc. Common Stock,TRIN,12/28/2023,1/12/2024,12/29/2023,0.5,2.0,12/14/2023
 "Valmont Industries, Inc. Common Stock",VMI,12/28/2023,1/16/2024,12/29/2023,0.6,2.4,10/31/2023
-"Via Renewables, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",VIASP,12/28/2023,1/16/2024,1/01/2024,0.76459,3.03688,10/18/2023
+Vanguard Core Bond ETF,VCRB,12/28/2023,1/03/2024,12/29/2023,0.1262,1.5144,12/26/2023
+Vanguard Core Plus Bond ETF,VPLS,12/28/2023,1/03/2024,12/29/2023,0.1389,1.6668,12/26/2023
+"Via Renewables, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",VIASP,12/28/2023,1/16/2024,1/01/2024,0.76459,3.05836,10/18/2023
 Vox Royalty Corp. Common Stock,VOXR,12/28/2023,1/12/2024,12/29/2023,0.011,0.044,11/08/2023
 "WaFd, Inc. Depositary Shares",WAFDP,12/28/2023,1/15/2024,12/31/2023,0.3046875,1.21875,11/14/2023
 "Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",WBS^G,12/28/2023,1/15/2024,12/31/2023,0.40625,1.625,10/24/2023
+Willis Towers Watson Public Limited Company Ordinary Shares,WTW,12/28/2023,1/16/2024,12/31/2023,0.84,3.36,12/04/2023
 "Wintrust Financial Corporation Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",WTFCP,12/28/2023,1/15/2024,1/01/2024,0.42969,1.71876,10/26/2023
 "Wintrust Financial Corporation Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",WTFCM,12/28/2023,1/15/2024,1/01/2024,0.41,1.64,10/26/2023
+WisdomTree Bianco Total Return Fund,WTBN,12/28/2023,1/03/2024,12/29/2023,0.0065,0.078,12/27/2023
 Xerox Holdings Corporation Common Stock,XRX,12/28/2023,1/31/2024,12/29/2023,0.25,1.0,10/19/2023
-York Water Company (The) Common Stock,YORW,12/28/2023,1/16/2024,12/29/2023,0.2108,0.8108,11/20/2023
-National HealthCare Corporation Common Stock,NHC,12/28/2023,2/01/2024,12/29/2023,0.59,2.36,11/02/2023
-TFI International Inc. Common Shares,TFII,12/28/2023,1/15/2024,12/29/2023,0.4,1.6,10/23/2023
-Algonquin Power & Utilities Corp. Common Shares,AQN,12/28/2023,1/15/2024,12/29/2023,0.1085,0.434,11/10/2023
-CTS Corporation Common Stock,CTS,12/28/2023,1/26/2024,12/29/2023,0.04,0.16,11/03/2023
-"Dillard's, Inc. Common Stock",DDS,12/28/2023,2/05/2024,12/29/2023,0.25,1.0,11/16/2023
-"Valmont Industries, Inc. Common Stock",VMI,12/28/2023,1/16/2024,12/29/2023,0.6,2.4,10/31/2023
-Illinois Tool Works Inc. Common Stock,ITW,12/28/2023,1/11/2024,12/29/2023,1.4,5.6,10/26/2023
-Regal Rexnord Corporation Common Stock,RRX,12/28/2023,1/12/2024,12/29/2023,0.35,1.4,10/27/2023
-OFG Bancorp Common Stock,OFG,12/28/2023,1/16/2024,12/29/2023,0.22,0.88,10/25/2023
-"National Health Investors, Inc. Common Stock",NHI,12/28/2023,1/26/2024,12/29/2023,0.9,3.6,11/07/2023
-COPT Defense Properties Common Shares of Beneficial Interest,CDP,12/28/2023,1/18/2024,12/29/2023,0.285,1.14,11/09/2023
-"Equity Lifestyle Properties, Inc. Common Stock",ELS,12/28/2023,1/12/2024,12/29/2023,0.4475,1.79,10/24/2023
-Humana Inc. Common Stock,HUM,12/28/2023,1/26/2024,12/29/2023,0.885,3.54,10/31/2023
-Acadia Realty Trust Common Stock,AKR,12/28/2023,1/12/2024,12/29/2023,0.18,0.72,11/02/2023
-LXP Industrial Trust Common Stock (Maryland REIT),LXP,12/28/2023,1/16/2024,12/29/2023,0.13,0.52,10/31/2023
-"AvalonBay Communities, Inc. Common Stock",AVB,12/28/2023,1/16/2024,12/29/2023,1.65,6.6,11/16/2023
-"First Industrial Realty Trust, Inc. Common Stock",FR,12/28/2023,1/16/2024,12/29/2023,0.32,1.28,11/01/2023
-Blue Owl Capital Corporation Common Stock,OBDC,12/28/2023,1/12/2024,12/29/2023,0.35,1.4,11/08/2023
-Primoris Services Corporation Common Stock,PRIM,12/28/2023,1/12/2024,12/29/2023,0.06,0.24,11/07/2023
-"B&G Foods, Inc. Common Stock",BGS,12/28/2023,1/30/2024,12/29/2023,0.19,0.76,11/13/2023
-Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),KTN,12/28/2023,1/02/2024,12/29/2023,1.0256,2.0512,N/A
-"Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock",HASI,12/28/2023,1/12/2024,12/29/2023,0.395,1.58,11/02/2023
-"Stag Industrial, Inc. Common Stock",STAG,12/28/2023,1/16/2024,12/29/2023,0.1225,1.47,10/11/2023
-Kennedy-Wilson Holdings Inc. Common Stock,KW,12/28/2023,1/04/2024,12/29/2023,0.24,0.96,11/01/2023
-Tricon Residential Inc. Common Shares,TCN,12/28/2023,1/15/2024,12/31/2023,0.058,0.232,11/07/2023
-Ares Commercial Real Estate Corporation Common Stock,ACRE,12/28/2023,1/17/2024,12/29/2023,0.33,1.32,11/03/2023
-"Rexford Industrial Realty, Inc. Common Stock",REXR,12/28/2023,1/16/2024,12/29/2023,0.38,1.52,10/16/2023
-Braemar Hotels & Resorts Inc. Common Stock,BHR,12/28/2023,1/16/2024,12/29/2023,0.05,0.2,10/10/2023
-"DigitalBridge Group, Inc.",DBRG,12/28/2023,1/16/2024,12/31/2023,0.01,0.04,10/27/2023
-"Xenia Hotels & Resorts, Inc. Common Stock",XHR,12/28/2023,1/12/2024,12/29/2023,0.1,0.4,11/17/2023
-Chimera Investment Corporation Common Stock,CIM,12/28/2023,1/31/2024,12/29/2023,0.11,0.44,11/02/2023
-"Goldman Sachs BDC, Inc. Common Stock",GSBD,12/28/2023,1/26/2024,12/29/2023,0.45,1.8,11/07/2023
-"Four Corners Property Trust, Inc. Common Stock",FCPT,12/28/2023,1/12/2024,12/29/2023,0.345,1.38,11/10/2023
-"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",ENO,12/28/2023,1/02/2024,12/29/2023,0.34375,1.375,N/A
-"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066",EMP,12/28/2023,1/02/2024,12/29/2023,0.30625,1.225,N/A
-Park Hotels & Resorts Inc. Common Stock ,PK,12/28/2023,1/16/2024,12/29/2023,0.77,0.6,10/27/2023
-Great Ajax Corp. 7.25% Convertible Senior Notes due 2024,AJXA,12/28/2023,1/16/2024,12/29/2023,0.4531,1.8125,N/A
-"Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077",GPJA,12/28/2023,1/02/2024,12/29/2023,0.3125,1.25,N/A
-Stifel Financial Corporation 5.20% Senior Notes due 2047,SFB,12/28/2023,1/16/2024,12/29/2023,0.325,1.3,N/A
-Nutrien Ltd. Common Shares,NTR,12/28/2023,1/12/2024,12/29/2023,0.53,2.12,11/01/2023
-"Bain Capital Specialty Finance, Inc. Common Stock",BCSF,12/28/2023,1/31/2024,12/29/2023,0.42,1.68,11/06/2023
-Peakstone Realty Trust Common Shares,PKST,12/28/2023,1/17/2024,12/29/2023,0.225,0.9,11/09/2023
-"Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059",MGR,12/28/2023,1/02/2024,12/29/2023,0.3671875,1.4688,N/A
-"Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060",MGRB,12/28/2023,1/02/2024,12/29/2023,0.296875,1.1875,N/A
-DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,DTB,12/28/2023,1/16/2024,12/29/2023,0.2734375,1.0938,N/A
-"Assurant, Inc. 5.25% Subordinated Notes due 2061",AIZN,12/28/2023,1/16/2024,12/29/2023,0.328125,1.3125,N/A
-"Broadstone Net Lease, Inc. Common Stock",BNL,12/28/2023,1/12/2024,12/29/2023,0.285,1.14,10/26/2023
-CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,CMSC,12/28/2023,1/16/2024,12/29/2023,0.3671875,1.4688,N/A
-"Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061",MGRD,12/28/2023,1/02/2024,12/29/2023,0.2625,1.05,N/A
-CION Investment Corporation Common Stock,CION,12/28/2023,1/15/2024,12/29/2023,0.05,1.36,8/07/2023
-Blackstone Secured Lending Fund Common Shares of Beneficial Interest,BXSL,12/28/2023,1/26/2024,12/31/2023,0.77,3.08,11/08/2023
-Orion Office REIT Inc. Common Stock,ONL,12/28/2023,1/16/2024,12/29/2023,0.1,0.4,11/09/2023
-"Modiv Industrial, Inc. Class C Common Stock",MDV,12/28/2023,1/25/2024,12/29/2023,0.09583,1.15,10/17/2023
-"Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",RZC,12/28/2023,1/16/2024,12/29/2023,0.4453,1.7812,N/A
-Dundee Precious Metals Inc.,DPMLF,12/28/2023,1/15/2024,12/31/2023,0.04,0.16,11/07/2023
-Longfor Group Holdings Limited ADR,LGFRY,12/28/2023,2/23/2024,12/29/2023,0.389246,0.7785,N/A
-Morgan Stanley,MSSXL,12/28/2023,1/16/2024,12/29/2023,0.40625,1.625,11/15/2023
-"Huntington Bancshares Incorporated Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock",HBANL,12/28/2023,1/16/2024,1/01/2024,0.42975,2.464,10/20/2023
-"First Bankers Trustshares, Inc.",FBTT,12/28/2023,1/26/2024,12/29/2023,0.21,0.84,11/16/2023
-Vox Royalty,VOXCF,12/28/2023,1/12/2024,12/29/2023,0.011,0.044,11/08/2023
+York Water Company (The) Common Stock,YORW,12/28/2023,1/16/2024,12/29/2023,0.2108,0.8432,11/20/2023

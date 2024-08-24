@@ -1,20 +1,67 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
 Amgen Inc. Common Stock,AMGN,2/15/2024,3/07/2024,2/16/2024,2.25,8.52,12/12/2023
+"Bassett Furniture Industries, Incorporated Common Stock",BSET,2/15/2024,3/01/2024,2/16/2024,0.18,0.72,1/10/2024
 Bunge Limited Common Shares,BG,2/15/2024,3/01/2024,2/16/2024,0.6625,2.65,10/31/2023
+"Fidelity D & D Bancorp, Inc. Common Stock",FDBC,2/15/2024,3/08/2024,2/16/2024,0.38,1.52,1/16/2024
+"First Hawaiian, Inc. Common Stock",FHB,2/15/2024,3/01/2024,2/16/2024,0.26,1.04,1/24/2024
+"First Mid Bancshares, Inc. Common Stock",FMBH,2/15/2024,3/01/2024,2/16/2024,0.23,0.92,1/23/2024
+"Hawkins, Inc. Common Stock",HWKN,2/15/2024,3/01/2024,2/16/2024,0.16,0.64,1/31/2024
 Horizon Technology Finance Corporation Common Stock,HRZN,2/15/2024,3/15/2024,2/16/2024,0.11,1.32,10/27/2023
 TE Connectivity Ltd. New Switzerland Registered Shares,TEL,2/15/2024,3/01/2024,2/16/2024,0.59,2.36,3/15/2023
+"Teradyne, Inc. Common Stock",TER,2/15/2024,3/15/2024,2/16/2024,0.12,0.44,1/22/2024
+"The Shyft Group, Inc. Common Stock",SHYF,2/15/2024,3/18/2024,2/16/2024,0.05,0.2,2/03/2024
+"Credit Suisse Asset Management Income Fund, Inc. Common Stock",CIK,2/15/2024,2/23/2024,2/16/2024,0.0225,0.27,1/19/2024
+Park National Corporation Common Stock,PRK,2/15/2024,3/08/2024,2/16/2024,1.06,4.24,1/22/2024
+Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),VKI,2/15/2024,2/29/2024,2/16/2024,0.0349,0.4188,1/29/2024
+Credit Suisse High Yield Bond Fund Common Stock,DHY,2/15/2024,2/23/2024,2/16/2024,0.0155,0.186,1/19/2024
 Reaves Utility Income Fund Common Shares of Beneficial Interest,UTG,2/15/2024,2/29/2024,2/16/2024,0.19,2.28,12/15/2023
 Clough Global Dividend and Income Fund Common Shares of beneficial interest,GLV,2/15/2024,2/29/2024,2/16/2024,0.0526,0.6312,1/08/2024
 Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,GLQ,2/15/2024,2/29/2024,2/16/2024,0.0603,0.7236,1/08/2024
 Clough Global Opportunities Fund Common Stock,GLO,2/15/2024,2/29/2024,2/16/2024,0.048,0.576,1/08/2024
+Invesco Bond Fund Common Stock,VBF,2/15/2024,2/29/2024,2/16/2024,0.065,0.78,1/29/2024
+Carlisle Companies Incorporated Common Stock,CSL,2/15/2024,3/01/2024,2/16/2024,0.85,3.4,1/30/2024
+Duke Energy Corporation (Holding Company) Common Stock,DUK,2/15/2024,3/18/2024,2/16/2024,1.025,5.085,1/11/2024
+"PPG Industries, Inc. Common Stock",PPG,2/15/2024,3/12/2024,2/16/2024,0.65,2.6,1/18/2024
 Jefferies Financial Group Inc. Common Stock,JEF,2/15/2024,2/27/2024,2/16/2024,0.3,1.2,1/08/2024
+Weyerhaeuser Company Common Stock,WY,2/15/2024,2/27/2024,2/16/2024,0.14,0.76,1/25/2024
+Black Hills Corporation Common Stock,BKH,2/15/2024,3/01/2024,2/16/2024,0.65,2.6,1/26/2024
 "Source Capital, Inc. Common Stock",SOR,2/15/2024,2/29/2024,2/16/2024,0.2083,2.4996,12/07/2023
+North European Oil Royality Trust Common Stock,NRT,2/15/2024,2/28/2024,2/16/2024,0.05,0.2,1/31/2024
+Invesco Municipal Income Opportunities Trust Common Stock,OIA,2/15/2024,2/29/2024,2/16/2024,0.0291,0.3492,1/29/2024
+Invesco High Income Trust II,VLT,2/15/2024,2/29/2024,2/16/2024,0.0964,1.1568,1/29/2024
+Invesco Municipal Trust Common Stock,VKQ,2/15/2024,2/29/2024,2/16/2024,0.0391,0.4692,1/29/2024
+Invesco Trust for Investment Grade Municipals Common Stock (DE),VGM,2/15/2024,2/29/2024,2/16/2024,0.0388,0.4656,1/29/2024
+Invesco Trust for Investment Grade New York Municipals Common Stock,VTN,2/15/2024,2/29/2024,2/16/2024,0.0394,0.4728,1/29/2024
+Invesco Municipal Opportunity Trust Common Stock,VMO,2/15/2024,2/29/2024,2/16/2024,0.0385,0.462,1/29/2024
+Invesco Quality Municipal Income Trust Common Stock,IQI,2/15/2024,2/29/2024,2/16/2024,0.0403,0.4836,1/29/2024
+Invesco Value Municipal Income Trust Common Stock,IIM,2/15/2024,2/29/2024,2/16/2024,0.0496,0.5952,1/29/2024
+Invesco California Value Municipal Income Trust Common Stock,VCV,2/15/2024,2/29/2024,2/16/2024,0.0366,0.4392,1/29/2024
+Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),VPV,2/15/2024,2/29/2024,2/16/2024,0.0325,0.39,1/29/2024
+Macerich Company (The) Common Stock,MAC,2/15/2024,3/04/2024,2/16/2024,0.17,0.68,2/02/2024
+Invesco Ltd Common Stock,IVZ,2/15/2024,3/04/2024,2/16/2024,0.2,0.8,1/23/2024
+Invesco Senior Income Trust Common Stock (DE),VVR,2/15/2024,2/29/2024,2/16/2024,0.043,0.516,1/29/2024
+The J.M. Smucker Company Common Stock,SJM,2/15/2024,3/01/2024,2/16/2024,1.06,4.24,1/19/2024
 Bunge Limited Common Shares,BG,2/15/2024,3/01/2024,2/16/2024,0.6625,2.65,10/31/2023
+Chevron Corporation Common Stock,CVX,2/15/2024,3/11/2024,2/16/2024,1.63,6.52,2/02/2024
 TE Connectivity Ltd. New Switzerland Registered Shares,TEL,2/15/2024,3/01/2024,2/16/2024,0.59,2.36,3/15/2023
+MSCI Inc. Common Stock,MSCI,2/15/2024,2/29/2024,2/16/2024,1.6,6.4,1/29/2024
 "PGIM High Yield Bond Fund, Inc.",ISD,2/15/2024,2/29/2024,2/16/2024,0.105,1.26,11/30/2023
 MainStay MacKay DefinedTerm Municipal Opportunities Fund,MMD,2/15/2024,2/29/2024,2/16/2024,0.06,0.72,1/02/2024
 Carlyle Credit Income Fund Shares of Beneficial Interest,CCIF,2/15/2024,2/29/2024,2/16/2024,0.0994,1.1928,11/29/2023
 "PGIM Global High Yield Fund, Inc.",GHY,2/15/2024,2/29/2024,2/16/2024,0.105,1.26,11/30/2023
+"HCI Group, Inc. Common Stock",HCI,2/15/2024,3/15/2024,2/16/2024,0.4,1.6,1/25/2024
 KKR Income Opportunities Fund Common Shares,KIO,2/15/2024,2/29/2024,2/16/2024,0.1215,1.458,12/26/2023
+"Black Stone Minerals, L.P. Common units representing limited partner interests",BSM,2/15/2024,2/23/2024,2/16/2024,0.475,1.9,1/31/2024
+"Invesco High Income 2024 Target Term Fund Common Shares of Beneficial Interest, No par value per share",IHTA,2/15/2024,2/29/2024,2/16/2024,0.033,0.396,1/29/2024
+Otis Worldwide Corporation Common Stock ,OTIS,2/15/2024,3/08/2024,2/16/2024,0.34,1.36,2/01/2024
 PGIM Short Duration High Yield Opportunities Fund Common Shares,SDHY,2/15/2024,2/29/2024,2/16/2024,0.108,1.296,11/30/2023
+Apartment Income REIT Corp. Common Stock,AIRC,2/15/2024,2/27/2024,2/16/2024,0.45,1.8,1/31/2024
+Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ,SHEL,2/15/2024,3/25/2024,2/16/2024,0.688,2.752,2/01/2024
+"Kodiak Gas Services, Inc. Common Stock",KGS,2/15/2024,2/23/2024,2/16/2024,0.38,1.52,1/29/2024
+Oak Ridge Financial Services Inc,BKOR,2/15/2024,3/04/2024,2/16/2024,0.1,0.4,2/02/2024
 Imperial Brands Plc ADR,IMBBY,2/15/2024,4/05/2024,2/16/2024,0.6544279,2.6177,N/A
+Juniata Valley Financial Corp.,JUVF,2/15/2024,3/01/2024,2/16/2024,0.22,0.88,1/16/2024
+PTT Exploration and Production Public Company Limited ADR,PEXNY,2/15/2024,5/02/2024,2/16/2024,0.276049,0.5521,N/A
+INSCORP Inc,IBTN,2/15/2024,3/08/2024,2/16/2024,0.1,0.2,1/23/2024
+Aurubis AG ADR,AIAGY,2/15/2024,3/06/2024,2/16/2024,0.508069,0.5081,N/A
+Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028,CCIA,2/15/2024,2/29/2024,2/16/2024,0.1823,2.1876,11/29/2023

@@ -1,9 +1,9 @@
-,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts
-0,12/16/2022,$1.52,time-pre-market,DRI,"Darden Restaurants, Inc.","$19,239,523,197",Nov/2023,$1.71,14
-1,12/16/2022,$2.07,time-not-supplied,WGO,"Winnebago Industries, Inc.","$1,999,739,906",Nov/2023,$1.25,7
-2,N/A,$5.49,time-not-supplied,DJCO,Daily Journal Corp. (S.C.),"$455,836,916",Sep/2023,,14
-3,N/A,$0.03,time-not-supplied,GENC,Gencor Industries Inc.,"$226,461,495",Sep/2023,,14
-4,12/16/2022,$0.82,time-not-supplied,PFX,PhenixFIN Corporation ,"$78,739,805",Sep/2023,$0.78,1
-5,N/A,N/A,time-not-supplied,MIRA,"MIRA Pharmaceuticals, Inc.","$56,167,363",Sep/2023,($0.26),14
-6,12/16/2022,($0.07),time-not-supplied,EDSA,"Edesa Biotech, Inc.","$10,396,157",Sep/2023,($0.71),3
-7,N/A,($0.08),time-not-supplied,FORD,"Forward Industries, Inc.","$7,948,336",Sep/2023,,14
+,lastYearRptDt,lastYearEPS,time,symbol,name,marketCap,fiscalQuarterEnding,epsForecast,noOfEsts,industry,dividend_yield_Rate,declare_date,dividend,epsFix,epsForecastFix
+0,12/16/2022,$1.52,time-pre-market,DRI,"Darden Restaurants, Inc.","$19,239,523,197",Nov/2023,$1.71,14,,,2023-12-15,,0,1.71
+1,12/16/2022,$2.07,time-not-supplied,WGO,"Winnebago Industries, Inc.","$2,042,777,201",Nov/2023,$1.25,7,,,2023-12-15,,0,1.25
+2,N/A,$5.49,time-not-supplied,DJCO,Daily Journal Corp. (S.C.),"$458,274,252",Sep/2023,,14,,,2023-12-15,,0,
+3,N/A,$0.03,time-not-supplied,GENC,Gencor Industries Inc.,"$220,598,415",Sep/2023,,14,,,2023-12-15,,0,
+4,12/16/2022,$0.82,time-not-supplied,PFX,PhenixFIN Corporation ,"$78,721,425",Sep/2023,$0.78,1,,,2023-12-15,,0,0.78
+5,N/A,N/A,time-not-supplied,MIRA,"MIRA Pharmaceuticals, Inc.","$53,211,186",Sep/2023,($0.26),14,,,2023-12-15,,0,-0.26
+6,12/16/2022,($0.07),time-not-supplied,EDSA,"Edesa Biotech, Inc.","$10,185,221",Sep/2023,($0.71),3,,,2023-12-15,,0,-0.71
+7,N/A,($0.08),time-not-supplied,FORD,"Forward Industries, Inc.","$7,948,336",Sep/2023,,14,,,2023-12-15,,0,

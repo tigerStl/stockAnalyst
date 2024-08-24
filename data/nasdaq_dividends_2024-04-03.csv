@@ -1,2 +1,5 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"Cisco Systems, Inc. Common Stock (DE)",CSCO,4/03/2024,4/24/2024,4/04/2024,0.4,1.56,2/14/2024
+Brandywine Realty Trust Common Stock,BDN,4/03/2024,4/18/2024,4/04/2024,0.15,0.6,2/14/2024
+Wabash National Corporation Common Stock,WNC,4/03/2024,4/25/2024,4/04/2024,0.08,0.32,2/15/2024
 "Simpson Manufacturing Company, Inc. Common Stock",SSD,4/03/2024,4/25/2024,4/04/2024,0.27,1.08,1/19/2024

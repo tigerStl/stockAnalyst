@@ -1,29 +1,43 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
+"Krispy Kreme, Inc. Common Stock",DNUT,1/23/2024,2/07/2024,1/24/2024,0.035,0.14,12/04/2023
 "OFS Credit Company, Inc. 5.25% Series E Term Preferred Stock Due 2026",OCCIN,1/23/2024,1/31/2024,1/24/2024,0.109375,1.3125,6/01/2023
 "OFS Credit Company, Inc. 6.125% Series C Term Preferred Stock",OCCIO,1/23/2024,1/31/2024,1/24/2024,0.1276042,1.53125,6/01/2023
+"OFS Credit Company, Inc. Common Stock",OCCI,1/23/2024,1/31/2024,1/24/2024,0.1,2.4,11/28/2023
+abrdn National Municipal Income Fund Common Stock,VFL,1/23/2024,1/31/2024,1/24/2024,0.0375,0.45,12/14/2023
 Clorox Company (The) Common Stock,CLX,1/23/2024,2/09/2024,1/24/2024,1.2,4.8,11/14/2023
+Lennar Corporation Class A Common Stock,LEN,1/23/2024,2/07/2024,1/24/2024,0.5,2.0,1/09/2024
 "Lowe's Companies, Inc. Common Stock",LOW,1/23/2024,2/07/2024,1/24/2024,1.1,4.4,11/10/2023
-"SRH Total Return Fund, Inc. Common Stock",STEW,1/23/2024,1/31/2024,1/24/2024,0.1375,0.55,11/07/2023
+Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,FFC,1/23/2024,1/31/2024,1/24/2024,0.0815,0.978,12/11/2023
 Western Asset Investment Grade Income Fund Inc.,PAI,1/23/2024,2/01/2024,1/24/2024,0.0485,0.582,11/21/2023
+Western Asset Inflation-Linked Income Fund,WIA,1/23/2024,1/31/2024,1/24/2024,0.05,0.6,11/21/2023
+"SRH Total Return Fund, Inc. Common Stock",STEW,1/23/2024,1/31/2024,1/24/2024,0.1375,0.55,11/07/2023
+Flaherty & Crumrine Total Return Fund Inc Common Stock,FLC,1/23/2024,1/31/2024,1/24/2024,0.0835,1.002,12/11/2023
 Putnam Premier Income Trust Common Stock,PPT,1/23/2024,2/01/2024,1/24/2024,0.026,0.312,11/17/2023
+Western Asset High Income Fund II Inc. Common Stock,HIX,1/23/2024,2/01/2024,1/24/2024,0.049,0.588,11/14/2023
+"Western Asset Managed Municipals Fund, Inc. Common Stock",MMU,1/23/2024,2/01/2024,1/24/2024,0.0415,0.498,11/14/2023
+Western Asset High Yield Defined Opportunity Fund Inc. Common Stock,HYI,1/23/2024,2/01/2024,1/24/2024,0.095,1.14,11/14/2023
 Putnam Master Intermediate Income Trust Common Stock,PIM,1/23/2024,2/01/2024,1/24/2024,0.022,0.264,11/17/2023
 "Western Asset Municipal High Income Fund, Inc. Common Stock",MHF,1/23/2024,2/01/2024,1/24/2024,0.022,0.264,11/14/2023
 Putnam Managed Municipal Income Trust Common Stock,PMM,1/23/2024,2/01/2024,1/24/2024,0.0238,0.2856,11/17/2023
+Flaherty & Crumrine Preferred and Income Fund Incorporated,PFD,1/23/2024,1/31/2024,1/24/2024,0.055,0.66,12/11/2023
 Western Asset Intermediate Muni Fund Inc Common Stock,SBI,1/23/2024,2/01/2024,1/24/2024,0.031,0.372,11/14/2023
-"Western Asset Managed Municipals Fund, Inc. Common Stock",MMU,1/23/2024,2/01/2024,1/24/2024,0.0415,0.498,11/14/2023
+Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,PFO,1/23/2024,1/31/2024,1/24/2024,0.045,0.54,12/11/2023
 Putnam Municipal Opportunities Trust Common Stock,PMO,1/23/2024,2/01/2024,1/24/2024,0.035,0.42,11/17/2023
 "Western Asset High Income Opportunity Fund, Inc. Common Stock",HIO,1/23/2024,2/01/2024,1/24/2024,0.0355,0.426,11/14/2023
-Western Asset High Income Fund II Inc. Common Stock,HIX,1/23/2024,2/01/2024,1/24/2024,0.049,0.588,11/14/2023
 Western Asset Bond Fund Share of Beneficial Interest,WEA,1/23/2024,2/01/2024,1/24/2024,0.07,0.84,11/21/2023
 Western Asset Global High Income Fund Inc Common Stock,EHI,1/23/2024,2/01/2024,1/24/2024,0.067,0.804,11/14/2023
-Western Asset Inflation-Linked Income Fund,WIA,1/23/2024,1/31/2024,1/24/2024,0.05,0.6,11/21/2023
 E-mini S&P MidCap 400 Futures ,EMD,1/23/2024,2/01/2024,1/24/2024,0.0845,1.014,11/14/2023
 LMP Capital and Income Fund Inc. Common Stock,SCD,1/23/2024,2/01/2024,1/24/2024,0.113,1.356,11/14/2023
 Western Asset Inflation-Linked Opportunities & Income Fund,WIW,1/23/2024,1/31/2024,1/24/2024,0.0605,0.726,11/21/2023
+Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,DFP,1/23/2024,1/31/2024,1/24/2024,0.104,1.248,12/11/2023
 Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock,IGI,1/23/2024,2/01/2024,1/24/2024,0.0695,0.834,11/14/2023
 Western Asset Global Corporate Defined Opportunity Fund Inc.,GDO,1/23/2024,2/01/2024,1/24/2024,0.102,1.224,11/14/2023
 Western Asset Mortgage Opportunity Fund Inc. Common Stock,DMO,1/23/2024,2/01/2024,1/24/2024,0.12,1.44,11/14/2023
-Western Asset High Yield Defined Opportunity Fund Inc. Common Stock,HYI,1/23/2024,2/01/2024,1/24/2024,0.095,1.14,11/14/2023
-BrandywineGLOBAL Global Income Opportunities Fund Inc.,BWG,1/23/2024,2/01/2024,1/24/2024,0.08,0.9877,11/14/2023
+Lennar Corporation Class B,LEN.B,1/23/2024,2/07/2024,1/24/2024,0.5,2.0,1/09/2024
+BrandywineGLOBAL Global Income Opportunities Fund Inc.,BWG,1/23/2024,2/01/2024,1/24/2024,0.08,0.96,11/14/2023
+Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest,HIE,1/23/2024,1/31/2024,1/24/2024,0.051,0.612,1/02/2024
+Highland Opportunities and Income Fund Common Shares of Beneficial Interest,HFRO,1/23/2024,1/31/2024,1/24/2024,0.0385,0.462,1/04/2024
+Highland Global Allocation Fund Common Stock,HGLB,1/23/2024,1/31/2024,1/24/2024,0.081,0.972,1/02/2024
 Ecofin Sustainable and Social Impact Term Fund,TEAF,1/23/2024,1/31/2024,1/24/2024,0.09,1.08,11/09/2023
 Western Asset Diversified Income Fund Common Shares of Beneficial Interest,WDI,1/23/2024,2/01/2024,1/24/2024,0.143,1.716,11/14/2023
+Glenville Bank Holding Co Inc,GLNV,1/23/2024,2/01/2024,1/24/2024,0.5,2.0,1/02/2024

@@ -1,6 +1,12 @@
 companyName,symbol,dividend_Ex_Date,payment_Date,record_Date,dividend_Rate,indicated_Annual_Dividend,announcement_Date
-Eagle Point Credit Company Inc. Common Stock,ECC,1/10/2024,1/31/2024,1/11/2024,0.02,1.68,11/08/2023
-Eagle Point Credit Company Inc. Common Stock,ECC,1/10/2024,1/31/2024,1/11/2024,0.14,1.68,11/08/2023
-Eagle Point Income Company Inc. Common Stock,EIC,1/10/2024,1/31/2024,1/11/2024,0.2,2.16,11/08/2023
+"Eagle Bancorp, Inc. Common Stock",EGBN,1/10/2024,1/31/2024,1/11/2024,0.45,1.8,12/18/2023
 Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,ECCC,1/10/2024,1/31/2024,1/11/2024,0.135417,1.625,11/08/2023
+Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,ECC^D,1/10/2024,1/31/2024,1/11/2024,0.140625,1.6875,11/08/2023
+Eagle Point Credit Company Inc. Common Stock,ECC           ,1/10/2024,1/31/2024,1/11/2024,0.02,1.68,11/08/2023
+Eagle Point Credit Company Inc. Common Stock,ECC           ,1/10/2024,1/31/2024,1/11/2024,0.14,1.68,11/08/2023
 Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,EICA,1/10/2024,1/31/2024,1/11/2024,0.104167,1.25,11/08/2023
+Eagle Point Income Company Inc. Common Stock,EIC,1/10/2024,1/31/2024,1/11/2024,0.2,2.4,11/08/2023
+Johnson Outdoors Inc. Class A Common Stock,JOUT,1/10/2024,1/25/2024,1/11/2024,0.33,1.32,12/07/2023
+Lazard Global Total Return and Income Fund Common Stock,LGI,1/10/2024,1/22/2024,1/11/2024,0.09339,1.1207,12/22/2023
+Oracle Corporation Common Stock,ORCL,1/10/2024,1/25/2024,1/11/2024,0.4,1.6,12/11/2023
+SoFi Weekly Income ETF,TGIF,1/10/2024,1/12/2024,1/11/2024,0.09,5.2355,12/28/2023
